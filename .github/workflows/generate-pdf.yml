@@ -18,7 +18,10 @@ jobs:
 
       - name: Set up Pandoc
         run: sudo apt-get install -y pandoc
-
+        
+      - name: Install LaTeX
+        run: sudo apt-get install -y texlive texlive-latex-extra
+        
       - name: Generate PDF
         run: pandoc statutes.md -o statutes.pdf
 
