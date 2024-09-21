@@ -23,7 +23,7 @@ jobs:
         run: sudo apt-get install -y texlive-xetex texlive-latex-extra
         
       - name: Generate PDF
-        run: pandoc statutes.md -o statutes.pdf --pdf-engine=xelatex --toc --toc-depth=2 --number-sections -V fontsize=11pt -H header.tex
+        run: pandoc statutes.md -o statutes.pdf --pdf-engine=xelatex --toc --toc-depth=2 --number-sections -V fontsize=11pt -H config/header.tex
       - name: Upload PDF as Artifact
         uses: actions/upload-artifact@v3
         with:
