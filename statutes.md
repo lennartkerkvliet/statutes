@@ -12,7 +12,7 @@ The office of the association is located in Berlin, Germany.
 ### Aim
 The aim of IFLRY shall be to promote freedom and advocate the ideas of political liberalism around the globe. Through a holistic understanding of the importance of political and economic liberty on human flourishing, IFLRY commits itself to the active advancement of human rights, democracy, stable property rights, rule of law, and free trade. IFLRY regards itself as a provider of political education and a platform for networking and exchanging ideas on the basis of activities such as common publications, seminars, policy recommendations, international cooperation, exchanges, symposia, courses, and statutory  events; it further aims at facilitating democratic inclusion, local and international activism, and  cooperation between its member organisations.
 
-Relationship with Liberal International
+### Relationship with Liberal International
 In order to achieve its aims, IFLRY shall co-operate with Liberal International. IFLRY is a full member organisation of Liberal International and is independent in all decisions.
 
 ## Membership
