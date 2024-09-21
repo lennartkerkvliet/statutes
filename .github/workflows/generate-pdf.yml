@@ -1,0 +1,29 @@
+name: Generate PDF from Markdown
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Set up Pandoc
+        run: sudo apt-get install -y pandoc
+
+      - name: Generate PDF
+        run: pandoc statutes.md -o statutes.pdf
+
+      - name: Upload PDF as Artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: generated-pdf
+          path: statutes.pdf
