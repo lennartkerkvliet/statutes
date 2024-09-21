@@ -55,7 +55,7 @@
     pdfpagemode=FullScreen,
 }
 
-% Title settings
+% Header for first page with document title
 \usepackage{titling}
 \pretitle{\begin{center}\huge\scshape}
 \posttitle{\par\end{center}\vskip 0.5em}
@@ -64,20 +64,12 @@
 \predate{}
 \postdate{\vskip 1em}
 
-% Title and TOC separation
-\usepackage{etoolbox}
-\preto\section{\clearpage} % Force new page before each section (optional, for clean look)
-
-% Page border (optional, for legal look)
+% Add a page border to make it look more formal
 \usepackage{fancybox}
 \setlength{\fboxsep}{10pt} % Border width
 \renewcommand{\fboxrule}{0.5pt} % Border thickness
 \renewcommand{\maketitlehooka}{\begin{Sbox}\begin{minipage}{0.9\textwidth}}
 \renewcommand{\maketitlehookb}{\end{minipage}\end{Sbox}\fbox{\TheSbox}}
-
-% Suppress chapter numbers if using chapter-based sectioning
-\titleformat{\chapter}[display]
-  {\normalfont\Huge\bfseries}{\chaptertitlename\ \thechapter}{20pt}{\Huge}
 
 % Separate Title and TOC
 \AtBeginDocument{%
