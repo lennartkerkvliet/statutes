@@ -8,6 +8,7 @@
 \fancyhf{}
 \fancyhead[L]{\textit{Statutes of the International Federation of Liberal Youth}} % Custom header text
 \fancyhead[R]{\thepage} % Page number on the top right
+\fancyfoot[C]{Confidential} % Optional footer text
 \renewcommand{\headrulewidth}{0.4pt} % Line under the header
 \renewcommand{\footrulewidth}{0.4pt} % Line above the footer
 
@@ -55,7 +56,7 @@
     pdfpagemode=FullScreen,
 }
 
-% Header for first page with document title
+% Title settings
 \usepackage{titling}
 \pretitle{\begin{center}\huge\scshape}
 \posttitle{\par\end{center}\vskip 0.5em}
@@ -64,9 +65,23 @@
 \predate{}
 \postdate{\vskip 1em}
 
-% Add a page border to make it look more formal
+% Title and TOC separation
+\usepackage{etoolbox}
+\preto\section{\clearpage} % Force new page before each section (optional, for clean look)
+
+% Page border (optional, for legal look)
 \usepackage{fancybox}
 \setlength{\fboxsep}{10pt} % Border width
 \renewcommand{\fboxrule}{0.5pt} % Border thickness
 \renewcommand{\maketitlehooka}{\begin{Sbox}\begin{minipage}{0.9\textwidth}}
 \renewcommand{\maketitlehookb}{\end{minipage}\end{Sbox}\fbox{\TheSbox}}
+
+% Suppress chapter numbers if using chapter-based sectioning
+\titleformat{\chapter}[display]
+  {\normalfont\Huge\bfseries}{\chaptertitlename\ \thechapter}{20pt}{\Huge}
+
+% Separate Title and TOC
+\AtBeginDocument{%
+    \maketitle % Generate the title before the TOC
+    \clearpage % Start TOC on a new page
+}
