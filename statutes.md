@@ -1,4 +1,7 @@
-# Statutes of the International Federation of Liberal Youth
+---
+title: "Statutes of the International Federation of Liberal Youth"
+date: "June 2022"
+---
 *Statutes as adopted by the 50th General Assembly in Dakar, Senegal, 16th - 19th of June 2022*
 
 ## General
