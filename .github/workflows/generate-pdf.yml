@@ -23,7 +23,7 @@ jobs:
         run: sudo apt-get install -y texlive texlive-latex-extra
         
       - name: Generate PDF
-        run: pandoc statutes.md -o statutes.pdf
+        run: pandoc statutes.md --number-sections -o statutes.pdf
 
       - name: Upload PDF as Artifact
         uses: actions/upload-artifact@v3
