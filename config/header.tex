@@ -70,9 +70,3 @@
 \renewcommand{\fboxrule}{0.5pt} % Border thickness
 \renewcommand{\maketitlehooka}{\begin{Sbox}\begin{minipage}{0.9\textwidth}}
 \renewcommand{\maketitlehookb}{\end{minipage}\end{Sbox}\fbox{\TheSbox}}
-
-% Separate Title and TOC
-\AtBeginDocument{%
-    \maketitle % Generate the title before the TOC
-    \clearpage % Start TOC on a new page
-}
