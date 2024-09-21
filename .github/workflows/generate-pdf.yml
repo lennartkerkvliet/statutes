@@ -21,7 +21,12 @@ jobs:
         
       - name: Install LaTeX
         run: sudo apt-get install -y texlive-xetex texlive-latex-extra
-        
+
+      - name: Install Times New Roman
+        run: | 
+          sudo apt-get install -y ttf-mscorefonts-installer
+          sudo fc-cache -f -v
+          
       - name: Generate PDF
         run: pandoc statutes.md -o statutes.pdf --pdf-engine=xelatex --toc --toc-depth=2 --number-sections -V fontsize=11pt -H config/header.tex
       - name: Upload PDF as Artifact
