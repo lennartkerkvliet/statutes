@@ -1,0 +1,75 @@
+% Font settings
+\usepackage{fontspec}
+\setmainfont{Times New Roman} % Use a traditional serif font like Times New Roman for a legal look
+\setsansfont{Arial} % For any sans-serif text
+\setmonofont{Courier New} % For any monospaced text, if needed
+
+% Page layout settings
+\usepackage[a4paper, margin=1in, top=1.2in, bottom=1.2in]{geometry}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{\textit{Statutes of the International Federation of Liberal Youth}} % Custom header text
+\fancyhead[R]{\thepage} % Page number on the top right
+\renewcommand{\headrulewidth}{0.4pt} % Line under the header
+\renewcommand{\footrulewidth}{0.4pt} % Line above the footer
+
+% Paragraph settings
+\usepackage{parskip}
+\setlength{\parskip}{1.2em} % Space between paragraphs
+\setlength{\parindent}{0em} % No paragraph indentation
+
+% Section and subsection formatting
+\usepackage{titlesec}
+\titleformat{\section}{\normalfont\scshape\Large}{\thesection}{1em}{}
+\titleformat{\subsection}{\normalfont\scshape\large}{\thesubsection}{1em}{}
+\titleformat{\subsubsection}{\normalfont\itshape}{\thesubsubsection}{1em}{}
+
+% Line spacing
+\usepackage{setspace}
+\onehalfspacing % 1.5 line spacing for readability
+
+% Justify text
+\usepackage{ragged2e}
+\justifying % Justify all text to align both left and right
+
+% Legal numbering and indentation for lists
+\usepackage{enumitem}
+\setlist[itemize,1]{label=--, left=0em} % Custom bullet points for itemized lists
+\setlist[enumerate,1]{label=\arabic*., left=0em, itemsep=0.5em} % Numbered lists with legal style
+
+% Table of contents settings
+\usepackage{tocloft}
+\renewcommand{\cftsecfont}{\scshape} % Small caps for section titles in TOC
+\renewcommand{\cftsubsecfont}{\small\itshape} % Italic for subsection titles in TOC
+\setlength{\cftbeforesecskip}{1em} % Space before sections in TOC
+\setlength{\cftbeforesubsecskip}{0.5em} % Space before subsections in TOC
+
+% Hyperlinks settings
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=black, % Black links for a professional look
+    filecolor=black,      
+    urlcolor=blue, % Blue for URLs only
+    pdftitle={Statutes of IFLRY},
+    pdfauthor={International Federation of Liberal Youth},
+    pdfsubject={Legal Document},
+    pdfpagemode=FullScreen,
+}
+
+% Header for first page with document title
+\usepackage{titling}
+\pretitle{\begin{center}\huge\scshape}
+\posttitle{\par\end{center}\vskip 0.5em}
+\preauthor{}
+\postauthor{}
+\predate{}
+\postdate{\vskip 1em}
+
+% Add a page border to make it look more formal
+\usepackage{fancybox}
+\setlength{\fboxsep}{10pt} % Border width
+\renewcommand{\fboxrule}{0.5pt} % Border thickness
+\renewcommand{\maketitlehooka}{\begin{Sbox}\begin{minipage}{0.9\textwidth}}
+\renewcommand{\maketitlehookb}{\end{minipage}\end{Sbox}\fbox{\TheSbox}}
