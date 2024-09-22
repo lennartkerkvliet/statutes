@@ -50,14 +50,35 @@
 \usepackage{hyperref}
 \hypersetup{
     colorlinks=true,
-    linkcolor=black, % Black links for a professional look
+    linkcolor=blue,
     filecolor=black,      
-    urlcolor=blue, % Blue for URLs only
+    urlcolor=blue, 
     pdftitle={Statutes of IFLRY},
     pdfauthor={International Federation of Liberal Youth},
     pdfsubject={Legal Document},
     pdfpagemode=FullScreen,
 }
+
+\usepackage{nameref}   
+\usepackage{ifthen} 
+
+% Custom command to format the link with section number and title
+\newcommand{\customref}[1]{%
+  \hyperref[{#1}]{Article \ref{#1}: \nameref{#1}}%
+}
+
+% Save the original \hyperref command for later use
+\let\originalhyperref\hyperref
+
+% Redefine \hyperref to conditionally use your custom format
+\renewcommand{\hyperref}[2][]{%
+  \ifthenelse{\equal{#2}{article}}{%
+    \customref{#1}% Use custom reference if "article"
+  }{%
+    \originalhyperref[#1]{#2}% Otherwise, use normal behavior
+  }%
+}
+
 
 % Add a page border to make it look more formal
 \usepackage{fancybox}

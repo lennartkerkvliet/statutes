@@ -102,12 +102,12 @@ Event participants, individuals from member organisations, or from staff can tur
 
 # Individual Members' Group and Individual Membership Vetting Committee
 
-1. The Individual Members Group shall be composed of those individuals who desire to affiliate with IFLRY independently of a member organisation.
-2. Admission to the Individual Members Group shall be determined by an Individual Membership Vetting Committtee, consisting of one or more committee members selected by the Bureau and serving at the pleasure thereof. An individual member can terminate his membership by simple declaration to the secretariat or Individual Membership Committee. An individual Member who is not in good financial standing is automatically considered suspended until such time that he is in good standing again.
-3. Members of the Individual Members' Group shall be considered individual members of IFLRY, and shall have the rights thereof at IFLRY General Assemblies.
-a. The election of the Individual Members Group Chair shall be done on the basis of one person, one vote, and shall require a majority of 50% of the votes.
+(1) The Individual Members Group shall be composed of those individuals who desire to affiliate with IFLRY   independently of a member organisation.
+(2) Admission to the Individual Members Group shall be determined by an Individual Membership Vetting Committtee, consisting of one or more committee members selected by the Bureau and serving at the pleasure thereof. An individual member can terminate his membership by simple declaration to the secretariat or Individual Membership Committee. An individual Member who is not in good financial standing is automatically considered suspended until such time that he is in good standing again.
+(3) Members of the Individual Members' Group shall be considered individual members of IFLRY, and shall have the rights thereof at IFLRY General Assemblies.
+(4) The election of the Individual Members Group Chair shall be done on the basis of one person, one vote, and shall require a majority of 50% of the votes.
 Otherwise, additional rounds of voting will be held, with the lowest performing candidate eliminated in each round, until a majority is achieved.
-b. The term of office for the Individual Members Group Chair shall be one year.
+(5) The term of office for the Individual Members Group Chair shall be one year.
 
 # Administration
 
@@ -118,7 +118,7 @@ The financial year of IFLRY is the calendar year.
 The Office consists of at least the Executive Director, possibly joined by Executive Assistants and Interns as decided by the Bureau. A decision to change the office is taken by simple majority vote by the Bureau.
 
 # Statutes
-Every proposal that aims to amend these statutes must be submitted to the Secretariat by the Bureau, or by a group of no less than two (2) full member organisations at 4 (four) weeks prior to the General Assembly, or one (1) week after the announcement of an Extraordinary General Assembly. The amendments need a two-thirds (2/3) majority in order to be adopted. 
+Every proposal that aims to amend these statutes must be submitted to the Secretariat by the Bureau, or by a group of no less than two (2) full member organisations at least 4 (four) weeks prior to the General Assembly, or one (1) week after the announcement of an Extraordinary General Assembly. The amendments need a two-thirds (2/3) majority in order to be adopted. 
 
 # Dissolution
 Every proposal that aims to dissolve the Federation must be put forward by the Bureau, (a group of) full member organisations representing at least one-fifth (1/5) of the votes that could have been cast at the most recent General Assembly or by one-fourth (1/4) of the full member organisations. Any proposal for dissolution of the Federation must be carried by two (2) consecutive General Assemblies. At the first General Assembly, the proposal must be supported by at least a two-thirds (2/3) majority. At the second General Assembly, the same proposal must have a simple majority in order to take effect
