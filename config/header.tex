@@ -1,5 +1,5 @@
 % Font settings
-\usepackage{fontspec}
+\usepackage[fira]{fontsetup}
 
 % Page layout settings
 \usepackage[a4paper, margin=1in, top=1.2in, bottom=1.2in]{geometry}
@@ -18,6 +18,9 @@
 
 % Section and subsection formatting
 \usepackage{titlesec}
+\renewcommand{\thesection}{\arabic{section}}
+\renewcommand{\thesubsection}{\arabic{section}.\arabic{subsection}}
+\renewcommand{\thesubsubsection}{\arabic{section}.\arabic{subsection}.\arabic{subsubsection}}
 \titleformat{\section}{\normalfont\scshape\Large}{\thesection}{1em}{}
 \titleformat{\subsection}{\normalfont\scshape\large}{\thesubsection}{1em}{}
 \titleformat{\subsubsection}{\normalfont\itshape}{\thesubsubsection}{1em}{}
@@ -55,18 +58,14 @@
     pdfpagemode=FullScreen,
 }
 
-% Header for first page with document title
-\usepackage{titling}
-\pretitle{\begin{center}\huge\scshape}
-\posttitle{\par\end{center}\vskip 0.5em}
-\preauthor{}
-\postauthor{}
-\predate{}
-\postdate{\vskip 1em}
-
 % Add a page border to make it look more formal
 \usepackage{fancybox}
 \setlength{\fboxsep}{10pt} % Border width
 \renewcommand{\fboxrule}{0.5pt} % Border thickness
-\renewcommand{\maketitlehooka}{\begin{Sbox}\begin{minipage}{0.9\textwidth}}
-\renewcommand{\maketitlehookb}{\end{minipage}\end{Sbox}\fbox{\TheSbox}}
+
+\AtBeginDocument{
+    \title{Statutes of the International Federation of Liberal Youth}
+    \maketitle
+    \tableofcontents
+    \clearpage
+}
