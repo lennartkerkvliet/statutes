@@ -41,9 +41,10 @@ The rights of Members on the decision-making procedures, as well as the nominati
 
 ## Membership Obligations
 All members commit themselves to fulfilling the following membership obligations:
-To adhere to the financial obligations as stated in the Membership Fee Statute. Organisations and individual members, which have fulfilled these obligations, are considered in good standing, and;
-To uphold the values as stated in the Manifesto.
-To support the work being done by the statutory bodies of the Federation.
+
+(a) to adhere to the financial obligations as stated in the Membership Fee Statute. Organisations and individual members which have fulfilled these obligations are considered in good standing;
+(b) to uphold the values as stated in the Manifesto;
+(c) to support the work being done by the statutory bodies of the Federation.
 
 # Statutory Bodies
 
@@ -57,7 +58,7 @@ The General Assembly shall meet at least once a year, at a date and place determ
 Only full and associate member organisations in good standing shall be accorded voting rights. Voting rights in the General Assembly are to be distributed according to the membership type and size of the member organisation based on the formula set out in the Rules of Procedure.
 
 ### Standing Committees
-There shall be Standing Committees, which will meet at each General Assembly that will give a recommendation on proposals to the GA. Each Committee shall consist of one (1) delegate from each full and associate member organisation, selected pursuant to each organisation’s own procedures. The Bureau shall be represented at each Standing Committee in a non-voting capacity. The procedures and presidium of the Standing Committees are described further in the Rules of Procedure.
+There shall be Standing Committees, which will meet at each General Assembly that will give a recommendation on proposals to the GA. Each Committee shall consist of one delegate from each full and associate member organisation, selected pursuant to each organisation’s own procedures. The Bureau shall be represented at each Standing Committee in a non-voting capacity. The procedures and presidium of the Standing Committees are described further in the Rules of Procedure.
 
 ### Extraordinary General Assembly
 An Extraordinary General Assembly can be called by a simple majority by the Bureau, by (a group of) full member organisations representing at least one-fifth (1/5) of the votes that would have been cast at the most recent General Assembly or one-fourth (1/4) of the full member organisations or one-tenth (1/10) of all organisations.
@@ -65,7 +66,7 @@ An Extraordinary General Assembly can be called by a simple majority by the Bure
 ## The Bureau
 
 ### General
-The IFLRY Bureau consists of seven (7) Bureau members elected by a General Assembly. According to §26 of German Civil Code (“Bürgerliches Gesetzbuch”, BGB), the managing Bureau consists of three Bureau members: President, Secretary General, and Treasurer. The extended Bureau consists of up to four (4) Vice Presidents. The managing Bureau will be elected for a period of two (2) years; the Vice- Presidents will be elected for a period of one (1) year. The election and responsibilities of the Bureau is
+The IFLRY Bureau consists of seven Bureau members elected by a General Assembly. According to §26 of German Civil Code (“Bürgerliches Gesetzbuch”, BGB), the managing Bureau consists of three Bureau members: President, Secretary General, and Treasurer. The extended Bureau consists of up to four Vice Presidents. The managing Bureau will be elected for a period of two years; the Vice- Presidents will be elected for a period of one year. The election and responsibilities of the Bureau is
 described further in the Rules of Procedure.
 
 The Bureau is responsible for the day-to-day management of the Federation and for the control of all its resources. The Bureau has to report to the General Assembly. Regional Member Organizations can appoint Regional Bureau Members. Regional Bureau Members do not have voting rights in the Bureau.
@@ -80,7 +81,7 @@ Individual Bureau Members can be forced to resign by the General Assembly. The d
 The association under German Law shall be jointly represented extrajudicially by two members of the managing Bureau.
 
 # Auditors
-There shall be two (2) auditors, who shall be elected at a General Assembly for a period of two (2) years. The auditors shall examine the accounts and general finances of the Federation and give a report at  least annually to the General Assembly. The report to the General Assembly shall also include an assessment on how the Bureau has carried out the decisions taken by the General Assembly. The auditors are responsible for the minutes of the General Assembly.
+There shall be two auditors, who shall be elected at a General Assembly for a period of two years. The auditors shall examine the accounts and general finances of the Federation and give a report at  least annually to the General Assembly. The report to the General Assembly shall also include an assessment on how the Bureau has carried out the decisions taken by the General Assembly. The auditors are responsible for the minutes of the General Assembly.
 
 None of the auditors shall have been a member of the previous Bureau or have been employed by IFLRY during the previous Bureau term.
 
@@ -118,9 +119,9 @@ The financial year of IFLRY is the calendar year.
 The Office consists of at least the Executive Director, possibly joined by Executive Assistants and Interns as decided by the Bureau. A decision to change the office is taken by simple majority vote by the Bureau.
 
 # Statutes
-Every proposal that aims to amend these statutes must be submitted to the Secretariat by the Bureau, or by a group of no less than two (2) full member organisations at least 4 (four) weeks prior to the General Assembly, or one (1) week after the announcement of an Extraordinary General Assembly. The amendments need a two-thirds (2/3) majority in order to be adopted. 
+Every proposal that aims to amend these statutes must be submitted to the Secretariat by the Bureau, or by a group of no less than two full member organisations at least 4 (four) weeks prior to the General Assembly, or one week after the announcement of an Extraordinary General Assembly. The amendments need a two-thirds (2/3) majority in order to be adopted. 
 
 # Dissolution
-Every proposal that aims to dissolve the Federation must be put forward by the Bureau, (a group of) full member organisations representing at least one-fifth (1/5) of the votes that could have been cast at the most recent General Assembly or by one-fourth (1/4) of the full member organisations. Any proposal for dissolution of the Federation must be carried by two (2) consecutive General Assemblies. At the first General Assembly, the proposal must be supported by at least a two-thirds (2/3) majority. At the second General Assembly, the same proposal must have a simple majority in order to take effect
+Every proposal that aims to dissolve the Federation must be put forward by the Bureau, (a group of) full member organisations representing at least one-fifth (1/5) of the votes that could have been cast at the most recent General Assembly or by one-fourth (1/4) of the full member organisations. Any proposal for dissolution of the Federation must be carried by two consecutive General Assemblies. At the first General Assembly, the proposal must be supported by at least a two-thirds (2/3) majority. At the second General Assembly, the same proposal must have a simple majority in order to take effect
 
 The General Assembly will determine in which manner the Federation is dissolved and in which manner the dissolution is settled.
