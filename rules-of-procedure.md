@@ -3,15 +3,15 @@ title: Rules of Procedure of the International Federation of Liberal Youth
 date: As adopted by the 50th General Assembly in Dakar, Senegal, 16th - 19th of June 2022
 ---
 
-# General
+# General {#gen}
 
-## Languages
+## Languages {#gen-lang}
 The official languages of the association shall be English, French, and Spanish. In the case that no translation facilities are available the working language will be English. The mandatory language of the Statutes is German.
 
-# Membership
+# Membership {#mem}
 
-## Membership Rights
-Voting rights to a General Assembly is stipulated under Article 3.4. Full members have the right to vote, the right to nominate candidates to the Bureau and auditor positions, the right to nominate officers, the right to put forward proposals and the right to submit amendments to all proposals.
+## Membership Rights {#mem-rights}
+Voting rights to a General Assembly are stipulated under Article 3.4. Full members have the right to vote, the right to nominate candidates to the Bureau and auditor positions, the right to nominate officers, the right to put forward proposals and the right to submit amendments to all proposals.
 
 Associate members have the right to vote, nominate officers, the right to put forward proposals and the right to submit amendments to all proposals except when it concerns the Manifesto, Statutes, the Rules of Procedure or financial documents.
 
@@ -23,19 +23,19 @@ The Bureau wields the same rights as Full Members, except for voting rights at t
 
 The Individual Members' Group has the right to vote, the right to put forward proposals, and the right to submit amendments to all proposals except where it concerns the Manifesto, Statutes, the Rules of Procedure, or financial documents. For the purpose of defining rights and obligations elsewhere in the rules of procedure, individual members are considered to be members, but not member organisations.
 
-## Membership application
-The admission of new members is subject to the following conditions: Full membership and regional membership can only be granted by a two-thirds (2/3) majority of those present and voting at the   General Assembly, including abstentions. Associate membership can be granted by a simple majority vote of the General Assembly. Observer status can be granted by a simple majority vote of the General Assembly and needs to be renewed each year.
+## Membership application {#mem-application}
+The admission of new members is subject to the following conditions: Full membership and Regional membership can only be granted by a two-thirds (2/3) majority of those present and voting at the General Assembly, including abstentions. Associate membership can be granted by a simple majority vote of the General Assembly. Observer status can be granted by a simple majority vote of the General Assembly and needs to be renewed each year.
 
 All membership applications must be received by the IFLRY office at least 2 (two) weeks prior to the   start of the General Assembly at which the applicant organisation wishes their application to be considered. The IFLRY Office will make sure that all submitted documents will be available to the members at least 1 (one) week before the start of the General Assembly.
 
 Successful applicants are able to execute their rights after the meeting has closed all membership issues. All changes to the membership will be added to a Membership Register, which is under the responsibility of the Bureau.
 
-## Suspension
+## Suspension {#mem-suspension}
 Members of the federation may be temporarily suspended if the targeted member organisation is suspected of breaching any of the membership obligations. A motion to suspend a member can be submitted by the Bureau or two (2) full members and needs to be submitted 4 (four) weeks prior to the start of the General Assembly. Members need to be informed about this motion 3 (three) weeks prior to the start of the statutory event.
 
 The suspension from the Federation is to be decided by a two-thirds (2/3) majority. Each suspension is valid for a maximum of one (1) year and may be revoked at any time by the relevant statutory body.
 
-## Termination
+## Termination {#mem-termination}
 The members can leave the federation on the following conditions:
   - the members of the federation can resign by themselves.
   - the members of the federation can be expelled.
@@ -46,21 +46,21 @@ Members need to be informed about this motion 3 (three) weeks prior to the start
 
 The expulsion from the association is to be decided by a two-thirds (2/3) majority of those present and voting at the General Assembly. Members that are no longer part of the association have no rights to the financial assets.
 
-## Membership Changes
+## Membership Changes {#mem-changes}
 If a member organisation changes its name, or has merged with another organisation which is not a member, the membership is not automatically transferred to the new or differently named entity. Member organsiations need to inform the Bureau of any merger with a different organisation. The Bureau will decide on the membership status transfer, subject to confirmation by the General Assembly. Member organisations need to inform the Bureau of any name change. The Bureau will decide on the membership name change, subject to confirmation by the General Assembly.
 
-# General Assembly
+# General Assembly {#ga}
 The General Assembly is the highest decision-making body of the Federation. At the beginning of each General Assembly, the draft agenda will be decided on, the minutes of the previous meeting will be put forward for adoption and the relevant officers are proposed for appointment. This part is always chaired by the Bureau. The draft Agenda shall be made available for the membership at least 4 (four) weeks prior to the General Assembly, by the Bureau or, in the case of an Extraordinary General Assembly, by those who call the meeting.
 An invitation  for the General Assembly must be circulated 6 (six) weeks prior to the General Assembly to the members via E-Mail
 
-## Quorum & Voting
+## Quorum & Voting {#ga-quorum-voting}
 A quorum of 33% of the votes of organisations in good standing shall be required to begin any meeting of a General Assembly.
 
 Decisions are taken by a simple majority of those present and voting, with abstentions being counted as not voting, unless otherwise stated. In the event of a tie vote a recount shall be taken. If there is still a    tie vote, the status quo shall persist.
 
 Decisions are only valid where half of the total votes present at the opening of the meeting are cast. Abstentions shall be included for this purpose.
 
-## Authority
+## Authority {#ga-authority}
 The General Assembly has the exclusive authority to decide on:
 
 (a) Membership Applications
@@ -69,7 +69,7 @@ The General Assembly has the exclusive authority to decide on:
 
 Depending on the nature of the event, the officers for appointment may be Chairs, Secretaries and Returning Officers.
 
-## Delegations
+## Delegations {#ga-delegations}
 Voting rights and procedure are stipulated in article 3.4. Each member organisation shall be responsible for appointing their representatives to meetings of the General Assembly, provided that the representative is a member in good standing of the organisation represented. A member organisation may specify in writing to the Secretary General which of its representatives control voting rights for the organisation. If no representative is specified in writing, any representative present that was nominated by the member organisation shall be entitled to vote on its behalf.
 
 There shall be no limit to the number of delegates from member organisations attending the statutory meeting. However, the Bureau will only guarantee a full General Assembly arrangement for the number of votes per organisation, unless otherwise stated.
@@ -78,7 +78,7 @@ No employee or auditor of the Federation is allowed to hold the voting rights of
 
 After the opening of the General Assembly no delegations or members of those delegations nominated to the General Assembly may exercise votes for another delegation. Voting by proxy is not possible.
 
-## Voting Rights and Procedure
+## Voting Rights and Procedure {#ga-voting}
 Voting rights at the General Assembly shall be exercised by full member organisations according to the following scale:
 
 | Members         | Votes |
@@ -94,37 +94,37 @@ Associate members and the Individual Members Group will receive 1 vote.
 
 All elections shall take place by secret ballot. All non-election voting shall take place by secret ballot if requested by at least one-third (1/3) of the votes present.
 
-## Chairs and Returning Officers
+## Chairs and Returning Officers {#ga-chairs-ros}
 The General Assembly shall elect 4 (four) chairpersons to chair the sessions. The chairs shall not be running for other elections. The chairs will also chair the four standing committees, unless otherwise agreed by the GA.
 
 The chair shall appoint three (3) returning officers to administer elections and conduct the ballot. The returning officers shall be persons not standing for elections.
 
 The returning officers shall announce the deadline for nominations for auditors.
 
-## Elections
+## Elections {#ga-elections}
 For the Bureau elections those candidacies are valid that were received in writing by the IFLRY office 4 (four) weeks before the start of the General Assembly.
 
-### President, Secretary General and Treasurer elections
+### President, Secretary General and Treasurer elections {#ga-elections-g3}
 The President, the Secretary General and the Treasurer shall be elected by simply majority vote. In the event none of the candidates to each of these positions receives more than 50% of the votes, there will  be additional rounds of voting until the required majority is achieved.
 
 In each of the additional rounds, those who receive the least number of votes, in such a way that even if the votes of those who received less than them could be added to their votes would not change their position, will not participate in the next round.
 
-### Vice President Elections
+### Vice President Elections {#ga-elections-vp}
 The vice presidents of the organisation shall be elected as follows: On each ballot paper the member organisations select the candidates that should be elected as Vice- Presidents in such a way that they mark the names of their choice. Each marked candidate will receive one vote. Each member organization must vote on the same number of candidates as the number of positions that must be filled. Voting ballots that do not have the full number of candidates as positions that must be filled will be counted as invalid. The 4 candidates with the most votes are elected in the order of the amount of votes. Only candidates reaching the quorum defined by the following formula are elected: 1/ (the positions available for election + 1) will be eligible for election, meaning i.e. that for 4 Vice-President positions the quorum will be 1/ (4+1) = 20% of the total votes possible. For 3 positions the formula will be 1/ (3+1) = 25% of the total votes possible. For two (2) positions the quorum will be 1 / (2+1) = 33,33% of the total votes possible. In case of only one (1) vacant position for a round of election, the principle of simple majority shall be used, as is the case with the positions of President, Secretary General and Treasurer as well.  
 
 In case that there are not enough candidates reaching the quorum of the votes, a new round of voting will be held for the remaining place(s). If there are not enough candidates reaching the quorum in the second round of voting, the position will remain vacant until a new call for elections is issued at the next General Assembly. If there are more selections on the ballot paper than the number of the Vice- Presidents' positions to be elected, the ballot paper is considered invalid. The ballot will also be invalid if it is not possible to identify the names on the ballot. If candidates receive an equal number of votes and it remains unclear which candidates shall be elected, then a second round of voting between these candidates is to be conducted using the above mentioned procedure. Should in this second round of voting, an equal number of votes remain, then lots will be drawn to determine the winner.
 
-### Auditor elections
+### Auditor Elections {#ga-elections-auditor}
 For the election of auditors the ballot can be filled with one (1) or two (2) names. Each name will count   as one (1) vote. It is not possible to give more than one (1) vote to one (1) candidate on each ballot. The two (2) candidates who received the highest number of votes shall be elected Auditors. In case of resignation of an Auditor, the next person on the last Auditor election results list sorted on highest number of votes will replace the vacancy.
 
-### Expulsion and replacement
+### Expulsion and Replacement {#ga-elections-expulsion}
 It is the right of a General Assembly, both ordinary and extraordinary, to put the mandate of an elected person in question and to terminate that mandate following a motion of no- confidence with a two- thirds (2/3) majority.
 
 Following an expulsion of an elected person it is the right of the General Assembly to immediately elect a replacement. The newly elected Bureau member or auditor will have a period of mandate that expires at the next General Assembly.
 
 In case of a resignation of a Bureau member, the Bureau has the power to appoint a replacement in a non-voting capacity until the next General Assembly, provided there is no meeting of the General Assembly in the following thirty (30) days.
 
-## Agenda
+## Agenda {#ga-agenda}
 The agenda of the statutory event may include proposals and reports. The agenda will be proposed to the membership 4 (four) weeks before the General Assembly.
 
 ### Organisational Proposals
@@ -173,7 +173,7 @@ The Chairs may decide upon a deadline for secondary amendments to the political 
 
 In the situation where the Standing Committee is not able to discuss all resolutions, they will discuss as many as possible following the order of the prioritised list, as decided by the GA.
 
-In voting on amendments, the chair shall normally first hold a vote on the amendment furthest removed    in substance from the original motion, then on the amendment next furthest and so on until all amendments have been voted on or one (1) has been accepted.
+In voting on amendments, the chair shall normally first hold a vote on the amendment furthest removed in substance from the original motion, then on the amendment next furthest and so on until all amendments have been voted on or one (1) has been accepted.
 
 The proposer of a resolution may withdraw the resolution at any time before the vote by the time the meeting takes place.
 
@@ -221,17 +221,17 @@ If a Bureau member fails to attend more than 3 Bureau Meetings in a row, without
 
 Moreover, the Bureau can also call a vote to suspend a Bureau member if that member has become a serious liability to IFLRY’s reputation, is suspected of some serious misconduct, or is suspected of fraudulent behaviour. Such a vote has to be called for by at least 3 Bureau members, and announced to the Bureau and MOs at least 2 weeks before the Bureau vote for suspension. The announcement has to include the grounds on which the 3 Bureau members believe this paragraph to be applicable. For this vote the member whom is proposed to be suspended has no vote, and the vote is carried if and only if   no present Bureau member vote against it, and a majority of Bureau votes cast being in favour (counting present abstentions as votes cast).
 
-A suspension removes a Bureau member from his or her position up to and including the next GA, unless a simple majority of the Bureau vote to remove the suspension. In a case where the suspension still stands, there will be a vote of no confidence against the suspended member organised as per the procedure in Article 3.6.4 Expulsion and replacement at the next General Assembly. If the motion of no- confidence fails the member is reinstated. If a motion of no-confidence is carried, elections organised as per the procedure in Article 3.6.4 Expulsion and replacement.
+A suspension removes a Bureau member from his or her position up to and including the next GA, unless a simple majority of the Bureau vote to remove the suspension. In a case where the suspension still stands, there will be a vote of no confidence against the suspended member organised as per the procedure in [Article 3.6.4 Expulsion and Replacement](#ga-elections-expulsion) at the next General Assembly. If the motion of no- confidence fails the member is reinstated. If a motion of no-confidence is carried, elections organised as per the procedure in [Article 3.6.4 Expulsion and Replacement](#ga-elections-expulsion).
 
 If a Bureau member is suspended, the subsequent vacant position can be filled by the remaining bureau, under the same regulations as that for resigning Bureau members under Article 3.6.4 Expulsion and replacement.
 
 ## Term
 The President, the Secretary General and Treasurer are elected for the period of two (2) years until the next General Assembly. The four Vice-Presidents are elected for the period of one (1) year until the next General Assembly. Notwithstanding the right of the General Assembly to put the Bureau on question and to force Bureau Members to resign.
 
-## Bureau obligations
+## Bureau Obligations
 
 ### Action Plan
-Every newly elected Bureau shall draft an Action Plan for the whole mandate within the next two (2) months after its election. This Plan of Action will be sent to the member organisations no later than    these two (2) months after the General Assembly. The Action Plan will be adopted at the first General Assembly after the General Assembly in which the Bureau is elected.
+Every newly elected Bureau shall draft an Action Plan for the whole mandate within the next two (2) months after its election. This Plan of Action will be sent to the member organisations no later than these two (2) months after the General Assembly. The Action Plan will be adopted at the first General Assembly after the General Assembly in which the Bureau is elected.
 
 ### Annual and Interim Report
 The Bureau will have to submit for adoption once a year an Annual Report at least 2 (two) weeks before the start of the General Assembly. The Annual Report outlines the achievements of the organisation in relation to the objectives laid down in the Action Plan. The Annual Report will be presented by the President.
@@ -248,7 +248,7 @@ It is the responsibility of the auditors to make their annual report available o
 It is the responsibility of the ombudsperson to make their annual report available once a year ot the member organisations 2 (two) weeks before the General Assembly takes place.
 
 # Office
-The Office shall submit a written report to the member organisations on its activities 2 (two) weeks   before the start of the General Assembly. This report will reflect the work carried out by the Office, including the Executive Director and other staff and will be presented at the General Assembly.
+The Office shall submit a written report to the member organisations on its activities 2 (two) weeks before the start of the General Assembly. This report will reflect the work carried out by the Office, including the Executive Director and other staff and will be presented at the General Assembly.
 
 # Rules of Procedure
 The interpretation of these Rules of Procedure shall be subject to the ruling of the General Assembly. Where the Statutes or the Rules of Procedure cannot be applied, the General Assembly decides. In cases of contradiction between the Rules of Procedure and the Statutes of the association, the Statutes take precedence.
