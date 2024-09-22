@@ -22,14 +22,22 @@ jobs:
       - name: Install LaTeX
         run: sudo apt-get install -y texlive-xetex texlive-latex-extra texlive-fonts-extra
           
-      - name: Generate PDF
-        run: pandoc statutes.md -o statutes.pdf --pdf-engine=xelatex --toc --toc-depth=2 --number-sections -V fontsize=11pt -H config/header.tex
+      - name: Generate PDFs
+        run: | 
+          pandoc statutes.md -o statutes.pdf --pdf-engine=xelatex --toc --toc-depth=2 --number-sections -V fontsize=11pt -H config/header.tex
+          pandoc rules-of-procedure.md -o rules-of-procedure.pdf --pdf-engine=xelatex --toc --toc-depth=2 --number-sections -V fontsize=11pt -H config/header.tex
       
-      - name: Upload PDF as Artifact
+      - name: Upload Statutes as Artifact
         uses: actions/upload-artifact@v3
         with:
-          name: generated-pdf
+          name: statutes-pdf
           path: statutes.pdf
+      
+      - name: Upload Rules of Procedure as Artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: rules-of-procedure-pdf
+          path: rules-of-procedure.pdf
 
       - name: Install AWS CLI
         run: |
@@ -43,7 +51,9 @@ jobs:
           aws configure set region ${{ secrets.AWS_REGION }}
 
       - name: Upload PDF to S3
-        run: aws s3 cp statutes.pdf s3://${{ secrets.S3_BUCKET }}/statutes.pdf
+        run: | 
+          aws s3 cp statutes.pdf s3://${{ secrets.S3_BUCKET }}/statutes.pdf
+          aws s3 cp rules-of-procedure.pdf s3://${{ secrets.S3_BUCKET }}/rules-of-procedure.pdf
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
