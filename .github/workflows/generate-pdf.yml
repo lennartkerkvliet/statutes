@@ -27,6 +27,15 @@ jobs:
           pandoc statutes.md -o statutes.pdf --pdf-engine=xelatex --toc --toc-depth=2 --number-sections -V fontsize=11pt -H config/header.tex
           pandoc rules-of-procedure.md -o rules-of-procedure.pdf --pdf-engine=xelatex --toc --toc-depth=2 --number-sections -V fontsize=11pt -H config/header.tex
       
+      - name: Generate Debug
+        run: pandoc rules-of-procedure.md -o debug.tex --pdf-engine=xelatex --toc --toc-depth=2 --number-sections -V fontsize=11pt -H config/header.tex
+      
+      - name: Debug
+        uses: actions/upload-artifact@v3
+        with:
+          name: debug-tex
+          path: debug.tex
+
       - name: Upload Statutes as Artifact
         uses: actions/upload-artifact@v3
         with:
