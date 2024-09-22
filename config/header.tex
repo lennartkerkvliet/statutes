@@ -68,39 +68,6 @@
   {\color{blue}\hyperref[{#2}]{#1 \ref{#2}: \nameref{#2}}}%
 }
 
-% Save the original \hyperref command for later use
-\let\originalhyperref\hyperref
-% Save the original \hyperlink command for later use
-\let\originalhyperlink\hyperlink
-% Save the original \href command for later use
-\let\originalhref\href
-
-% % Redefine \hyperref to conditionally use your custom format
-% \renewcommand{\hyperref}[2][]{%
-%   \ifthenelse{\equal{#2}{article}}{%
-%     \customref{#1}% Use custom reference if "article"
-%   }{%
-%     \originalhyperref[#1]{#2}% Otherwise, use normal behavior
-%   }%
-% }
-
-% \renewcommand{\hyperlink}[2]{%
-%   \ifthenelse{\equal{#2}{article}}{%
-%     \customref{#1}% Use custom reference if the link text is "article"
-%   }{%
-%     \originalhyperlink{#1}{#2}% Otherwise, use normal behavior
-%   }%
-% }
-
-% % Redefine \hyperref to conditionally use your custom format
-% \renewcommand{\href}[2][]{%
-%   \ifthenelse{\equal{#2}{article}}{%
-%     \customref{#1}% Use custom reference if "article"
-%   }{%
-%     \originalhref[#1]{#2}% Otherwise, use normal behavior
-%   }%
-% }
-
 % Add a page border to make it look more formal
 \usepackage{fancybox}
 \setlength{\fboxsep}{10pt} % Border width
