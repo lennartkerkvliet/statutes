@@ -1,6 +1,6 @@
 ---
 title: Statutes of the International Federation of Liberal Youth
-date: As adopted by the 50th General Assembly in Dakar, Senegal, 16th - 19th of June 2022
+date: As adopted by the 53rd General Assembly in Abidjan, Côte d’Ivoire, 9th-12th of May 2024
 ---
 
 # General
@@ -12,7 +12,7 @@ The organisation is established as an association under German law with the name
 The office of the association is located in Berlin, Germany.
 
 ## Aim
-The aim of IFLRY shall be to promote freedom and advocate the ideas of political liberalism around the globe. Through a holistic understanding of the importance of political and economic liberty on human flourishing, IFLRY commits itself to the active advancement of human rights, democracy, stable property rights, rule of law, and free trade. IFLRY regards itself as a provider of political education and a platform for networking and exchanging ideas on the basis of activities such as common publications, seminars, policy recommendations, international cooperation, exchanges, symposia, courses, and statutory  events; it further aims at facilitating democratic inclusion, local and international activism, and  cooperation between its member organisations.
+The aim of IFLRY shall be to promote freedom and advocate the ideas of political liberalism around the globe. Through a holistic understanding of the importance of political and economic liberty on human flourishing, IFLRY commits itself to the active advancement of human rights, democracy, stable property rights, rule of law, and free trade. IFLRY regards itself as a provider of political education and a platform for networking and exchanging ideas on the basis of activities such as common publications, seminars, policy recommendations, international cooperation, exchanges, symposia, courses, and statutory  events; it further aims at facilitating democratic inclusion, local and international activism, and cooperation between its member organisations.
 
 ## Relationship with Liberal International
 In order to achieve its aims, IFLRY shall co-operate with Liberal International. IFLRY is a full member organisation of Liberal International and is independent in all decisions.
@@ -33,11 +33,11 @@ Regional organisations being in agreement with the aims of IFLRY and with the pr
 Individuals shall have the right to apply for individual membership of IFLRY, via the Individual Members Vetting Committee.
 
 ## Membership Rights
-Members have the right of information within the federation.
+Members have the right of information within the Federation.
 
 Regional members have the right to appoint a representative to the Bureau as Regional Bureau Member, but do not have voting rights in the Bureau.
 
-The rights of Members on the decision-making procedures, as well as the nomination procedures within the federation are stipulated in the Rules of Procedure.
+The rights of Members on the decision-making procedures, as well as the nomination procedures within the Federation are stipulated in the Rules of Procedure.
 
 ## Membership Obligations
 All members commit themselves to fulfilling the following membership obligations:
@@ -53,7 +53,7 @@ The statutory bodies of the association are the General Assembly and the Bureau.
 ## General Assembly
 The General Assembly is the highest decision-making body of IFLRY and has full powers to accomplish the aims and objectives of the Federation. The General Assembly is made up of all members of the Federation. The nomination and proposal procedures are described further in the Rules of Procedure.
 
-The General Assembly shall meet at least once a year, at a date and place determined by the Bureau. The Bureau must announce the date and location within two months minimum before the General Assembly.
+The General Assembly shall meet at least once a year, at a date and place determined by the Bureau. The Bureau must announce the date and location within three months minimum before the General Assembly.
 
 Only full and associate member organisations in good standing shall be accorded voting rights. Voting rights in the General Assembly are to be distributed according to the membership type and size of the member organisation based on the formula set out in the Rules of Procedure.
 
@@ -86,16 +86,17 @@ There shall be two auditors, who shall be elected at a General Assembly for a pe
 None of the auditors shall have been a member of the previous Bureau or have been employed by IFLRY during the previous Bureau term.
 
 # Ombudsperson
-The ombudsperson shall monitor any cases of disagreement or conflict, ill-treatment, abuse of power and authority, exploitation of working staff, and misrepresentation of the resolutions and manifesto within any part of the Federation. It shall therefore serve as guardian to protect the interests of the federation and all its associated individuals within the day-to-day proceedings of the Bureau, Office, and Auditors (as well as non-statutory bodies, such as Programme Managers) and to serve as an independent body of negotiation and mediation. The role of the Ombudsperson is bound by strict rules of confidentiality and shall be executed with full integrity, impartiality, and with respect to due process, dignity, and liberal value. The ombudsperson shall produce an annual report presented at the General Assembly.
+The ombudsperson shall monitor any cases of disagreement or conflict, ill-treatment, abuse of power and authority, exploitation of working staff, and misrepresentation of the resolutions and manifesto within any part of the Federation. It shall therefore serve as guardian to protect the interests of the Federation and all its associated individuals within the day-to-day proceedings of the Bureau, Office, and Auditors (as well as non-statutory bodies, such as Programme Managers) and to serve as an independent body of negotiation and mediation. The role of the Ombudsperson is bound by strict rules of confidentiality and shall be executed with full integrity, impartiality, and with respect to due process, dignity, and liberal value. The ombudsperson shall produce an annual report presented at the General Assembly.
 The Ombudsperson shall be a member of the Committee of Discipline and Arbitrage nominated by the Committee of Discipline and Arbitrage
 
 # Committee of Discipline and Arbitrage
-(1) The Discipline and Arbitrage Committee shall be composed of three members selected by the Bureau and approved by the General Assembly for a two-year mandate.
-(2) The chairperson of the committee shall be elected by its members. The Committee will decide its own rules of procedure. The committee shall present their rules of procedure to the General Assembly for approval.
-(3) The Discipline and Arbitrage Committee shall be competent for any disciplinary issue not falling within the scope of Rules 2.3, 2.4, and 4 of the Statutes and Rules of Procedure, for any dispute between two member organisations, for any dispute between the Bureau and a member of IFLRY, and for a dispute between participants of an official IFLRY events.
-(4) In order to legitimately deliberate about a case, the Discipline and Arbitrage Committee must be called upon by the Bureau, by a member organisation, by a participant of an official IFLRY event, or by the Ombudsperson.
-(5) The committee may impose sanctions other than expulsion at its own initiative on members of member organsations or on a participant of an official FILRY event, and may arbitrate any conflict submitted to its competence provided that the two parties concerned agree on the arbitrage procedure proposed by the committee.
-(6) Members of the committee cannot be members of the Bureau or internal auditors. 
+
+(a) The Discipline and Arbitrage Committee shall be composed of three members selected by the Bureau and approved by the General Assembly for a two-year mandate.
+(b) The chairperson of the committee shall be elected by its members. The Committee will decide its own rules of procedure. The committee shall present their rules of procedure to the General Assembly for approval.
+(c) The Discipline and Arbitrage Committee shall be competent for any disciplinary issue not falling within the scope of Rules 2.3, 2.4, and 4 of the Statutes and Rules of Procedure, for any dispute between two member organisations, for any dispute between the Bureau and a member of IFLRY, and for a dispute between participants of an official IFLRY events.
+(d) In order to legitimately deliberate about a case, the Discipline and Arbitrage Committee must be called upon by the Bureau, by a member organisation, by a participant of an official IFLRY event, or by the Ombudsperson.
+(e) The committee may impose sanctions other than expulsion at its own initiative on members of member organsations or on a participant of an official FILRY event, and may arbitrate any conflict submitted to its competence provided that the two parties concerned agree on the arbitrage procedure proposed by the committee.
+(f) Members of the committee cannot be members of the Bureau or internal auditors. 
 
 # Code of Conduct
 The General Assembly shall approve a Code of Conduct. The approved Code of Conduct shall be added to the appendix of the Statutes and Rules of Procedures.
@@ -103,12 +104,12 @@ Event participants, individuals from member organisations, or from staff can tur
 
 # Individual Members' Group and Individual Membership Vetting Committee
 
-(1) The Individual Members Group shall be composed of those individuals who desire to affiliate with IFLRY   independently of a member organisation.
-(2) Admission to the Individual Members Group shall be determined by an Individual Membership Vetting Committtee, consisting of one or more committee members selected by the Bureau and serving at the pleasure thereof. An individual member can terminate his membership by simple declaration to the secretariat or Individual Membership Committee. An individual Member who is not in good financial standing is automatically considered suspended until such time that he is in good standing again.
-(3) Members of the Individual Members' Group shall be considered individual members of IFLRY, and shall have the rights thereof at IFLRY General Assemblies.
-(4) The election of the Individual Members Group Chair shall be done on the basis of one person, one vote, and shall require a majority of 50% of the votes.
+(a) The Individual Members Group shall be composed of those individuals who desire to affiliate with IFLRY   independently of a member organisation.
+(b) Admission to the Individual Members Group shall be determined by an Individual Membership Vetting Committtee, consisting of one or more committee members selected by the Bureau and serving at the pleasure thereof. An individual member can terminate his membership by simple declaration to the secretariat or Individual Membership Committee. An individual Member who is not in good financial standing is automatically considered suspended until such time that he is in good standing again.
+(c) Members of the Individual Members' Group shall be considered individual members of IFLRY, and shall have the rights thereof at IFLRY General Assemblies.
+(d) The election of the Individual Members Group Chair shall be done on the basis of one person, one vote, and shall require a majority of 50% of the votes.
 Otherwise, additional rounds of voting will be held, with the lowest performing candidate eliminated in each round, until a majority is achieved.
-(5) The term of office for the Individual Members Group Chair shall be one year.
+(e) The term of office for the Individual Members Group Chair shall be one year.
 
 # Administration
 

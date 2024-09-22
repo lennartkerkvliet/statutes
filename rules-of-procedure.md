@@ -1,6 +1,6 @@
 ---
 title: Rules of Procedure of the International Federation of Liberal Youth
-date: As adopted by the 50th General Assembly in Dakar, Senegal, 16th-19th of June 2022
+date: As adopted by the 53rd General Assembly in Abidjan, Côte d’Ivoire, 9th-12th of May 2024
 ---
 
 # General {#gen}
@@ -52,7 +52,7 @@ If a member organization changes its name, or has merged with another organizati
 
 # General Assembly {#ga}
 The General Assembly is the highest decision-making body of the Federation. At the beginning of each General Assembly, the draft agenda will be decided on, the minutes of the previous meeting will be put forward for adoption and the relevant officers are proposed for appointment. This part is always chaired by the Bureau. The draft Agenda shall be made available for the membership at least four weeks prior to the General Assembly, by the Bureau or, in the case of an Extraordinary General Assembly, by those who call the meeting.
-An invitation  for the General Assembly must be circulated six weeks prior to the General Assembly to the members via E-Mail.
+An invitation for the General Assembly must be circulated eight weeks prior to the General Assembly to the members via E-Mail.
 
 ## Quorum & Voting {#ga-quorum-voting}
 A quorum of 33% of the votes of organizations in good standing shall be required to begin any meeting of a General Assembly.
