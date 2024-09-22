@@ -38,8 +38,8 @@ The suspension from the Federation is to be decided by a two-thirds ($\frac{2}{3
 ## Termination {#mem-termination}
 The members can leave the Federation on the following conditions:
 
-(1) the members of the Federation can resign by themselves.
-(2) the members of the Federation can be expelled.
+(a) The members of the Federation can resign by themselves.
+(b) The members of the Federation can be expelled.
 
 A request for voluntary resignation by a member organization needs to be filed with the Bureau through an official representative of the member organization. The General Assembly validates this request before the member organization is deregistered. In a case of the General Assembly not confirming the termination request, the membership will terminate at the end of the calendar year. A motion to expel a member can be submitted by the Bureau or two full members and needs to be submitted four weeks prior to the start of the General Assembly. Such a motion can be submitted if the targeted member organization is suspected of breaching any of the membership obligations.
 
