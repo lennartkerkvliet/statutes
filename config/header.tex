@@ -70,6 +70,8 @@
 
 % Save the original \hyperref command for later use
 \let\originalhyperref\hyperref
+% Save the original \hyperlink command for later use
+\let\originalhyperlink\hyperlink
 % Save the original \href command for later use
 \let\originalhref\href
 
@@ -79,6 +81,14 @@
     \customref{#1}% Use custom reference if "article"
   }{%
     \originalhyperref[#1]{#2}% Otherwise, use normal behavior
+  }%
+}
+
+\renewcommand{\hyperlink}[2]{%
+  \ifthenelse{\equal{#2}{article}}{%
+    \customref{#1}% Use custom reference if the link text is "article"
+  }{%
+    \originalhyperlink{#1}{#2}% Otherwise, use normal behavior
   }%
 }
 
