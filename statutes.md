@@ -1,5 +1,5 @@
 ---
-date: Adopted at the General Assembly in Dakar in June 2022
+date: As adopted by the 50th General Assembly in Dakar, Senegal, 16th - 19th of June 2022
 ---
 
 # General
