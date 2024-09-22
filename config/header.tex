@@ -50,7 +50,7 @@
 \usepackage{hyperref}
 \hypersetup{
     colorlinks=true,
-    linkcolor=blue,
+    linkcolor=black,
     filecolor=black,      
     urlcolor=blue, 
     pdftitle={Statutes of IFLRY},
@@ -61,14 +61,17 @@
 
 \usepackage{nameref}   
 \usepackage{ifthen} 
+\usepackage{xcolor} 
 
 % Custom command to format the link with section number and title
 \newcommand{\customref}[1]{%
-  \hyperref[{#1}]{Article \ref{#1}: \nameref{#1}}%
+  {\color{blue}\hyperref[{#1}]{Article \ref{#1}: \nameref{#1}}}%
 }
 
 % Save the original \hyperref command for later use
 \let\originalhyperref\hyperref
+% Save the original \href command for later use
+\let\originalhref\href
 
 % Redefine \hyperref to conditionally use your custom format
 \renewcommand{\hyperref}[2][]{%
@@ -79,6 +82,14 @@
   }%
 }
 
+% Redefine \hyperref to conditionally use your custom format
+\renewcommand{\href}[2][]{%
+  \ifthenelse{\equal{#2}{article}}{%
+    \customref{#1}% Use custom reference if "article"
+  }{%
+    \originalhref[#1]{#2}% Otherwise, use normal behavior
+  }%
+}
 
 % Add a page border to make it look more formal
 \usepackage{fancybox}
