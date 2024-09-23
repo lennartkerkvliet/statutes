@@ -73,7 +73,7 @@ Depending on the nature of the event, the officers for appointment may be Chairs
 ## Delegations {#ga-delegations}
 Voting rights and procedure are stipulated in [article](#ga-voting). Each member organization shall be responsible for appointing their representatives to meetings of the General Assembly, provided that the representative is a member in good standing of the organization represented. A member organization may specify in writing to the Secretary General which of its representatives control voting rights for the organization. If no representative is specified in writing, any representative present that was nominated by the member organization shall be entitled to vote on its behalf.
 
-There shall be no limit to the number of delegates from member organizations attending the statutory meeting. However, the Bureau will only guarantee a full General Assembly arrangement for the number of votes per organization, unless otherwise stated.
+There shall be no limit to the number of delegates from member organizations attending the statutory meeting. Delegates are required to be nominated by their member organization and other attendees are required to register for attending the statutory meeting. However, the Bureau will only guarantee a full General Assembly arrangement for the number of votes per organization, unless otherwise stated.
 
 No employee or auditor of the Federation is allowed to hold the voting rights of a member organization at a statutory meeting.
 

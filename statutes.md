@@ -66,7 +66,7 @@ An Extraordinary General Assembly can be called by a simple majority by the Bure
 ## The Bureau
 
 ### General
-The IFLRY Bureau consists of seven Bureau members elected by a General Assembly. According to §26 of German Civil Code (“Bürgerliches Gesetzbuch”, BGB), the managing Bureau consists of three Bureau members: President, Secretary General, and Treasurer. The extended Bureau consists of up to four Vice Presidents. The managing Bureau will be elected for a period of two years; the Vice- Presidents will be elected for a period of one year. The election and responsibilities of the Bureau is
+The IFLRY Bureau consists of seven Bureau members elected by a General Assembly. According to §26 of German Civil Code (“Bürgerliches Gesetzbuch”, BGB), the managing Bureau consists of three Bureau members: President, Secretary General, and Treasurer. The extended Bureau consists of up to four Vice Presidents. The managing Bureau will be elected for a period of two years; the Vice Presidents will be elected for a period of one year. The election and responsibilities of the Bureau is
 described further in the Rules of Procedure.
 
 The Bureau is responsible for the day-to-day management of the Federation and for the control of all its resources. The Bureau has to report to the General Assembly. Regional Member Organizations can appoint Regional Bureau Members. Regional Bureau Members do not have voting rights in the Bureau.
