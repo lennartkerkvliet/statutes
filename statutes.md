@@ -48,7 +48,7 @@ All members commit themselves to fulfilling the following membership obligations
 
 # Statutory Bodies
 
-The statutory bodies of the association are the General Assembly and the Bureau.
+The statutory bodies of the association are the General Assembly, the Bureau, and the Advisory Council.
 
 ## General Assembly
 The General Assembly is the highest decision-making body of IFLRY and has full powers to accomplish the aims and objectives of the Federation. The General Assembly is made up of all members of the Federation. The nomination and proposal procedures are described further in the Rules of Procedure.
@@ -80,6 +80,17 @@ Individual Bureau Members can be forced to resign by the General Assembly. The d
 ### Legal Status
 The association under German Law shall be jointly represented extrajudicially by two members of the managing Bureau.
 
+## Advisory Council
+
+### General
+The IFLRY Advisory Council (AC) consists of three members appointed by the General Assembly for a period of two years. After this, members of the AC can decide on their own whether they wish to serve another term. This decision has to be confirmed by the General Assembly. They can, however, serve no more than two consecutive terms. The AC has no decision-making powers when it comes to the running of the Federation. Its function is to advise and support the Bureau, and to report to the General Assembly about the functioning of the Federation jointly with the Bureau. The appointment and responsibilities of the AC are described further in the Rules of Procedure.
+
+### Suspension
+Individual AC members can be suspended from the Advisory Council. The details of this process are explained in the Rules of Procedure.
+
+### Resignation
+Individual AC members can be forced to resign by the General Assembly. The details of this process are explained in the Rules of Procedures.
+
 # Auditors
 There shall be two auditors, who shall be elected at a General Assembly for a period of two years. The auditors shall examine the accounts and general finances of the Federation and give a report at  least annually to the General Assembly. The report to the General Assembly shall also include an assessment on how the Bureau has carried out the decisions taken by the General Assembly. The auditors are responsible for the minutes of the General Assembly.
 
@@ -91,7 +102,7 @@ The Ombudsperson shall be a member of the Committee of Discipline and Arbitrage 
 
 # Committee of Discipline and Arbitrage
 
-(a) The Discipline and Arbitrage Committee shall be composed of three members selected by the Bureau and approved by the General Assembly for a two-year mandate.
+(a) The Discipline and Arbitrage Committee shall be composed of three members selected by the Bureau and approved by the General Assembly for a two year mandate.
 (b) The chairperson of the committee shall be elected by its members. The Committee will decide its own rules of procedure. The committee shall present their rules of procedure to the General Assembly for approval.
 (c) The Discipline and Arbitrage Committee shall be competent for any disciplinary issue not falling within the scope of Rules 2.3, 2.4, and 4 of the Statutes and Rules of Procedure, for any dispute between two member organisations, for any dispute between the Bureau and a member of IFLRY, and for a dispute between participants of an official IFLRY events.
 (d) In order to legitimately deliberate about a case, the Discipline and Arbitrage Committee must be called upon by the Bureau, by a member organisation, by a participant of an official IFLRY event, or by the Ombudsperson.

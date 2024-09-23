@@ -118,6 +118,9 @@ In case that there are not enough candidates reaching the quorum of the votes, a
 ### Auditor Elections {#ga-elections-auditor}
 For the election of auditors, the ballot can be filled with one or two names. Each name will count   as one vote. It is not possible to give more than one vote to one candidate on each ballot. The two candidates who received the highest number of votes shall be elected Auditors. In case of resignation of an Auditor, the next person on the last Auditor election results list sorted on highest number of votes will replace the vacancy.
 
+### Advisory Council Appointments {#ga-ac-appointment}
+For the appointment of the first Advisory Council, Advisory Council members will be proposed by the Bureau to the General Assembly. After that, the Advisory council will propose new members to the General Assembly whenever an Advisory Council position becomes vacant. In both cases, they will be appointed by the General Assembly through a simple majority vote.
+
 ### Expulsion and Replacement {#ga-elections-expulsion}
 It is the right of a General Assembly, both ordinary and extraordinary, to put the mandate of an elected person in question and to terminate that mandate following a motion of no-confidence with a two-thirds ($\frac{2}{3}$) majority.
 
@@ -240,6 +243,55 @@ If there is more than one statutory meeting every year, the Bureau will present 
 
 ### Bureau Reports {#bureau-reports}
 The Bureau is required to submit a written report to the member organizations on its activities two weeks before the start of the General Assembly. This report will reflect the work carried out by each individual Bureau member and will be presented at the General Assembly.
+
+# Advisory Council {#ac}
+The Advisory Council (AC) members will be mutually responsible for all its activities. If an AC member fails to attend more than three AC meetings in a row, without explaining the reason for not attending, their position will be discussed by the AC. The AC may suspend the AC member in question, by a two-thirds ($\frac{2}{3}$) majority vote.
+
+Moreover, the AC can also call a vote to suspend an AC member if that member has become a serious liability to IFLRY’s reputation, is suspected of some serious misconduct, or is suspected of fraudulent behaviour. Such a vote can be called for by any AC member and has to be announced to the Bureau and MOs at least two weeks before the AC vote for suspension. The announcement has to include the grounds on which the AC member(s) believe this paragraph to be applicable. For this vote, the member who is proposed to be suspended has no vote, and the vote is carried if and only if no present AC member votes against it, and a majority of AC members’ votes cast being in favour (counting present abstentions as votes cast).
+
+A suspension removes an AC member from his or her position up to and including the next GA unless a simple majority of the AC votes to lift the suspension. In a case where the suspension still stands, there will be a vote of no confidence against the suspended member organised as per the procedure in [article](#ga-elections-expulsion) at the next General Assembly. If the motion of no-confidence fails the member is reinstated. If a motion of no-confidence is carried out, a replacement will be appointed by the GA as per the procedure in [article](#ga-ac-appointment).
+
+## Chair
+The AC will elect a chair after every change in its membership, or whenever it sees fit. The chair will be elected by a simple majority. The AC will see to it that the result of this election is related to the Bureau, the Office and the Member Organisations.
+
+## Term
+A member of the AC is elected for a period of two years until the next General Assembly. A member can then decide on their own to serve another term. This decision has to be confirmed by the General Assembly. They can however serve no more than two consecutive terms.
+
+## AC Responsibilities and Obligations
+
+### Action Plan
+As specified in [article](#bureau-action-plan), the AC will provide feedback and advice to the Bureau about its draft Action Plan before it is sent to the member organisations.
+
+### Guidance and support with individual projects
+At the request of the Bureau, the AC can be called upon to provide guidance and support on specific topics. This could be the development of a project the Bureau wants to implement, guiding meetings, and providing the Bureau with support when communicating with external parties. The AC will offer support whenever appropriate. The Bureau can approach the AC for support at any time.
+
+### Relations with the Bureau
+The Secretary-General will keep the AC informed on issues within the Bureau, even when they can be
+resolved without the AC’s involvement. However it is not the job of the AC to manage the Bureau, but merely to observe, give advice and offer help when appropriate.
+
+### Regular meeting AC and SG/G3
+In order to facilitate the AC in the execution of the above-named tasks, the Secretary-General will have a meeting with the AC at least once every three months. The President and Treasurer are also entitled to join this meeting. In addition, a meeting will be held with the outgoing SG after the handover to a new Bureau. The outgoing President and Treasurer are also entitled to attend this meeting. The exact moments these meetings occur will be decided jointly by the AC and SG/G3 (i.e. President, SG and Treasurer), but they should be held within this timeframe:
+
+- In the first quarter after the election of the Bureau: finalise the Action Plan
+- In the second quarter: general progress
+- In the third: general progress
+- In the fourth: evaluate year one
+- In the fifth: finalise the updated Action Plan
+- In the sixth: general progress
+- In the seventh: general progress
+- In the eighth: evaluate term of the Bureau 
+
+### Relationship to the GA
+No later than two weeks before every General Assembly, the AC and the Bureau will submit joint reports on the overall performance of the Federation, which includes the progress on the Action Plan and reports by every Bureau member on their work since the last General Assembly. For a more detailed description of the process, see [article](#bureau-annual-interim-report) and [article](#bureau-reports).
+
+### Recommending new members
+If there are vacancies on the AC, the AC has a duty to recommend new members to the General Assembly.
+
+### Eligibility
+To ensure an adequate understanding of the workings of an organisation like IFLRY, a candidate for AC membership must have at least two years of experience in an elected or managerial position in the liberal network.
+
+### Conflict of Interest
+To avoid any conflict of interest, AC members are not allowed to be active in IFLRY in any other capacity. Furthermore, they are only allowed to attend General Assemblies, and do so in an observatory capacity.
 
 # Auditors {#auditors}
 It is the responsibility of the auditors to make their annual report available once a year to the member organizations two weeks before the General Assembly takes place.
