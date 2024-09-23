@@ -26,7 +26,7 @@ The Individual Members' Group has the right to vote, the right to put forward pr
 ## Membership application {#mem-application}
 The admission of new members is subject to the following conditions: Full membership and Regional membership can only be granted by a two-thirds ($\frac{2}{3}$) majority of those present and voting at the General Assembly, including abstentions. Associate membership can be granted by a simple majority vote of the General Assembly. Observer status can be granted by a simple majority vote of the General Assembly and needs to be renewed each year.
 
-All membership applications must be received by the IFLRY office at least two weeks prior to the   start of the General Assembly at which the applicant organization wishes their application to be considered. The IFLRY Office will make sure that all submitted documents will be available to the members at least one week before the start of the General Assembly.
+All membership applications must be received by the IFLRY office at least two weeks prior to the start of the General Assembly at which the applicant organization wishes their application to be considered. The IFLRY Office will make sure that all submitted documents will be available to the members at least one week before the start of the General Assembly.
 
 Successful applicants are able to execute their rights after the meeting has closed all membership issues. All changes to the membership will be added to a Membership Register, which is under the responsibility of the Bureau.
 
@@ -103,7 +103,7 @@ The chair shall appoint three returning officers to administer elections and con
 The returning officers shall announce the deadline for nominations for auditors.
 
 ## Elections {#ga-elections}
-For the Bureau elections those candidacies are valid that were received in writing by the IFLRY office four weeks before the start of the General Assembly.
+For the Bureau elections and appointments to the Advisory Council, those candidacies are valid that were received in writing by the IFLRY office four weeks before the start of the General Assembly.
 
 ### President, Secretary General and Treasurer elections {#ga-elections-g3}
 The President, the Secretary General and the Treasurer shall be elected by simple majority vote. In the event none of the candidates to each of these positions receives more than 50% of the votes, there will  be additional rounds of voting until the required majority is achieved.
