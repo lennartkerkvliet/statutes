@@ -24,7 +24,7 @@ The Bureau wields the same rights as Full Members, except for voting rights at t
 The Individual Members' Group has the right to vote, the right to put forward proposals, and the right to submit amendments to all proposals except where it concerns the Manifesto, Statutes, the Rules of Procedure, or financial documents. For the purpose of defining rights and obligations elsewhere in the rules of procedure, individual members are considered to be members, but not member organizations.
 
 ## Membership application {#mem-application}
-The admission of new members is subject to the following conditions: Full membership and Regional membership can only be granted by a two-thirds ($\frac{2}{3}$) majority of those present and voting at the General Assembly, including abstentions. Associate membership can be granted by a simple majority vote of the General Assembly. Observer status can be granted by a simple majority vote of the General Assembly and needs to be renewed each year.
+The admission of new members is subject to the following conditions: Full membership and Regional membership can only be granted by a two-thirds majority of those present and voting at the General Assembly, including abstentions. Associate membership can be granted by a simple majority vote of the General Assembly. Observer status can be granted by a simple majority vote of the General Assembly and needs to be renewed each year.
 
 All membership applications must be received by the IFLRY office at least two weeks prior to the start of the General Assembly at which the applicant organization wishes their application to be considered. The IFLRY Office will make sure that all submitted documents will be available to the members at least one week before the start of the General Assembly.
 
@@ -33,7 +33,7 @@ Successful applicants are able to execute their rights after the meeting has clo
 ## Suspension {#mem-suspension}
 Members of the Federation may be temporarily suspended if the targeted member organization is suspected of breaching any of the membership obligations. A motion to suspend a member can be submitted by the Bureau or two full members and needs to be submitted four weeks prior to the start of the General Assembly. Members need to be informed about this motion three weeks prior to the start of the statutory event.
 
-The suspension from the Federation is to be decided by a two-thirds ($\frac{2}{3}$) majority. Each suspension is valid for a maximum of one year and may be revoked at any time by the relevant statutory body.
+The suspension from the Federation is to be decided by a two-thirds majority. Each suspension is valid for a maximum of one year and may be revoked at any time by the relevant statutory body.
 
 ## Termination {#mem-termination}
 The members can leave the Federation on the following conditions:
@@ -45,7 +45,7 @@ A request for voluntary resignation by a member organization needs to be filed w
 
 Members need to be informed about this motion three weeks prior to the start of the statutory event. The Bureau is required to put forward a motion for the expulsion of any member which has retained candidate membership status for four years.
 
-The expulsion from the association is to be decided by a two-thirds ($\frac{2}{3}$) majority of those present and voting at the General Assembly. Members that are no longer part of the association have no rights to the financial assets.
+The expulsion from the association is to be decided by a two-thirds majority of those present and voting at the General Assembly. Members that are no longer part of the association have no rights to the financial assets.
 
 ## Membership Changes {#mem-changes}
 If a member organization changes its name, or has merged with another organization which is not a member, the membership is not automatically transferred to the new or differently named entity. Member organizations need to inform the Bureau of any merger with a different organization. The Bureau will decide on the membership status transfer, subject to confirmation by the General Assembly. Member organizations need to inform the Bureau of any name change. The Bureau will decide on the membership name change, subject to confirmation by the General Assembly.
@@ -93,7 +93,7 @@ Voting rights at the General Assembly shall be exercised by full member organiza
 
 Associate members and the Individual Members Group will receive one vote.
 
-All elections shall take place by secret ballot. All non-election voting shall take place by secret ballot if requested by at least one-third ($\frac{1}{3}$) of the votes present.
+All elections shall take place by secret ballot. All non-election voting shall take place by secret ballot if requested by at least one-third of the votes present.
 
 ## Chairs and Returning Officers {#ga-chairs-ros}
 The General Assembly shall elect four chairpersons to chair the sessions. The Chairs shall not be running for other elections. The Chairs will also chair the four Standing Committees, unless otherwise agreed by the GA.
@@ -122,7 +122,7 @@ For the election of auditors, the ballot can be filled with one or two names. Ea
 For the appointment of the first Advisory Council, Advisory Council members will be proposed by the Bureau to the General Assembly. After that, the Advisory council will propose new members to the General Assembly whenever an Advisory Council position becomes vacant. In both cases, they will be appointed by the General Assembly through a simple majority vote.
 
 ### Expulsion and Replacement {#ga-elections-expulsion}
-It is the right of a General Assembly, both ordinary and extraordinary, to put the mandate of an elected person in question and to terminate that mandate following a motion of no-confidence with a two-thirds ($\frac{2}{3}$) majority.
+It is the right of a General Assembly, both ordinary and extraordinary, to put the mandate of an elected person in question and to terminate that mandate following a motion of no-confidence with a two-thirds majority.
 
 Following an expulsion of an elected person it is the right of the General Assembly to immediately elect a replacement. The newly elected Bureau member or auditor will have a period of mandate that expires at the next General Assembly.
 
@@ -140,7 +140,7 @@ Items which propose a change from the status quo. This can include, but is not l
 At the opening of the General Assembly, while adopting the agenda, the membership will vote on the prioritisation of the political proposals that have been submitted. Resolutions will be discussed following the list based on the number of votes, from highest number of votes, to lowest number of votes last.
 
 ### Urgency Proposals {#ga-urgency-proposals}
-Those resolutions shall be dealt with, which, in the opinion of the General Assembly, could not have been proposed before the official deadline due to their urgent nature. Such resolutions should be submitted to the IFLRY Office before the beginning of the General Assembly, unless a two-thirds ($\frac{2}{3}$) majority of those present and voting accept a later resolution as urgent.
+Those resolutions shall be dealt with, which, in the opinion of the General Assembly, could not have been proposed before the official deadline due to their urgent nature. Such resolutions should be submitted to the IFLRY Office before the beginning of the General Assembly, unless a two-thirds majority of those present and voting accept a later resolution as urgent.
 
 ### Reports {#ga-reports}
 Items which report on the status quo. This includes Bureau reports, annual reports, financial reports and auditor reports. The deadline for submitting reports is two weeks before the Statutory Meeting.
@@ -205,7 +205,7 @@ The order of procedural motions shall be:
 (e) motion that the question be now put to a vote;
 (f) motion for reference back.
 
-A two-thirds ($\frac{2}{3}$) majority shall be required for the removal of the chair. During the debate on this motion the chair shall be taken by another person. The only speakers allowed on a procedural motion shall be the mover of the motion and the mover of the resolution or amendment, who shall have the right to reply.
+A two-thirds majority shall be required for the removal of the chair. During the debate on this motion the chair shall be taken by another person. The only speakers allowed on a procedural motion shall be the mover of the motion and the mover of the resolution or amendment, who shall have the right to reply.
 
 ### Minutes {#ga-so-minutes}
 The decisions of the General Assembly shall be entered in the minutes and will be made available to the members no later than 30 days following the adjournment of the General Assembly and shall be signed by one of the auditors. This falls under the responsibility of the two auditors.
@@ -220,7 +220,7 @@ Newly elected Vice Presidents need to communicate their areas of responsibility 
 
 A quorum of more than 50% of the Bureau members with voting rights is needed in order for a decision to be valid.
 
-If a Bureau member fails to attend more than three Bureau Meetings in a row, without explaining the reason for not attending, their position will be discussed by the Bureau. The Bureau may suspend the Bureau member in question, by a two-thirds ($\frac{2}{3}$) majority vote.
+If a Bureau member fails to attend more than three Bureau Meetings in a row, without explaining the reason for not attending, their position will be discussed by the Bureau. The Bureau may suspend the Bureau member in question, by a two-thirds majority vote.
 
 Moreover, the Bureau can also call a vote to suspend a Bureau member if that member has become a serious liability to IFLRY’s reputation, is suspected of some serious misconduct, or is suspected of fraudulent behaviour. Such a vote has to be called for by at least three Bureau members, and announced to the Bureau and MOs at least two weeks before the Bureau vote for suspension. The announcement has to include the grounds on which the three Bureau members believe this paragraph to be applicable. For this vote the member who is proposed to be suspended has no vote, and the vote is carried if and only if no present Bureau member votes against it, and a majority of Bureau votes cast being in favour (counting present abstentions as votes cast).
 
@@ -245,7 +245,7 @@ If there is more than one statutory meeting every year, the Bureau will present 
 The Bureau is required to submit a written report to the member organizations on its activities two weeks before the start of the General Assembly. This report will reflect the work carried out by each individual Bureau member and will be presented at the General Assembly.
 
 # Advisory Council {#ac}
-The Advisory Council (AC) members will be mutually responsible for all its activities. If an AC member fails to attend more than three AC meetings in a row, without explaining the reason for not attending, their position will be discussed by the AC. The AC may suspend the AC member in question, by a two-thirds ($\frac{2}{3}$) majority vote.
+The Advisory Council (AC) members will be mutually responsible for all its activities. If an AC member fails to attend more than three AC meetings in a row, without explaining the reason for not attending, their position will be discussed by the AC. The AC may suspend the AC member in question, by a two-thirds majority vote.
 
 Moreover, the AC can also call a vote to suspend an AC member if that member has become a serious liability to IFLRY’s reputation, is suspected of some serious misconduct, or is suspected of fraudulent behaviour. Such a vote can be called for by any AC member and has to be announced to the Bureau and MOs at least two weeks before the AC vote for suspension. The announcement has to include the grounds on which the AC member(s) believe this paragraph to be applicable. For this vote, the member who is proposed to be suspended has no vote, and the vote is carried if and only if no present AC member votes against it, and a majority of AC members’ votes cast being in favour (counting present abstentions as votes cast).
 
@@ -305,5 +305,5 @@ The Office shall submit a written report to the member organizations on its acti
 # Rules of Procedure {#rules-of-procedure}
 The interpretation of these Rules of Procedure shall be subject to the ruling of the General Assembly. Where the Statutes or the Rules of Procedure cannot be applied, the General Assembly decides. In cases of contradiction between the Rules of Procedure and the Statutes of the association, the Statutes take precedence.
 
-Every proposal that aims to change these Rules of Procedure must be submitted to the Office at least four weeks prior to the General Assembly, or one week after the announcement of an Extraordinary General Assembly. The proposal is adopted if decided by a two-thirds ($\frac{2}{3}$) majority.
+Every proposal that aims to change these Rules of Procedure must be submitted to the Office at least four weeks prior to the General Assembly, or one week after the announcement of an Extraordinary General Assembly. The proposal is adopted if decided by a two-thirds majority.
 All changes to the Rules of Procedure take effect immediately after the end of the General Assembly in which they are adopted.
