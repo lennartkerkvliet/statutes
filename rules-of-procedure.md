@@ -242,7 +242,7 @@ The Bureau will have to submit for adoption once a year an Annual Report at leas
 If there is more than one statutory meeting every year, the Bureau will present an interim report to show what the current status of the realisation of the Action Plan is.
 
 ### Bureau Reports {#bureau-reports}
-The Bureau is required to submit a written report to the member organizations on its activities two weeks before the start of the General Assembly. This report will reflect the work carried out by each individual Bureau member and will be presented at the General Assembly.
+The Bureau is required to submit a written report to the member organizations on its activities four weeks before the start of the General Assembly. This report will reflect the work carried out by each individual Bureau member and will be presented at the General Assembly.
 
 # Advisory Council {#ac}
 The Advisory Council (AC) members will be mutually responsible for all its activities. If an AC member fails to attend more than three AC meetings in a row, without explaining the reason for not attending, their position will be discussed by the AC. The AC may suspend the AC member in question, by a two-thirds majority vote.
@@ -282,7 +282,7 @@ In order to facilitate the AC in the execution of the above-named tasks, the Sec
 - In the eighth: evaluate term of the Bureau 
 
 ### Relationship to the GA
-No later than two weeks before every General Assembly, the AC and the Bureau will submit joint reports on the overall performance of the Federation, which includes the progress on the Action Plan and reports by every Bureau member on their work since the last General Assembly. For a more detailed description of the process, see [article](#bureau-annual-interim-report) and [article](#bureau-reports).
+No later than four weeks before every General Assembly, the AC and the Bureau will submit joint reports on the overall performance of the Federation, which includes the progress on the Action Plan and reports by every Bureau member on their work since the last General Assembly. For a more detailed description of the process, see [article](#bureau-annual-interim-report) and [article](#bureau-reports).
 
 ### Recommending new members
 If there are vacancies on the AC, the AC has a duty to recommend new members to the General Assembly.
