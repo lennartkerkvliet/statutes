@@ -73,8 +73,63 @@
 \setlength{\fboxsep}{10pt} % Border width
 \renewcommand{\fboxrule}{0.5pt} % Border thickness
 
+\usepackage{tabto,everypage,etoolbox}
+\def\TabMargPos{-.5in}
+\newcounter{parcount}
+\let\oldep\everypar%
+
+% Flag to indicate whether we are inside a section or subsection
+\newif\ifinsection
+\insectionfalse
+
+% Flag to indicate whether we are inside a list
+\newif\ifinlist
+\inlistfalse
+
+% Redefine \section and \subsection to set the flag
+\let\oldsection\section
+\renewcommand{\section}[1]{\insectiontrue\oldsection{#1}\insectionfalse}
+\let\oldsubsection\subsection
+\renewcommand{\subsection}[1]{\insectiontrue\oldsubsection{#1}\insectionfalse}
+\let\oldsubsubsection\subsubsection
+\renewcommand{\subsubsection}[1]{\insectiontrue\oldsubsubsection{#1}\insectionfalse}
+
+% Redefine lists to avoid paragraph counting inside them
+\let\olditemize\itemize
+\renewcommand{\itemize}{\inlisttrue\olditemize}
+\let\oldenditemize\enditemize
+\renewcommand{\enditemize}{\oldenditemize\inlistfalse}
+
+\let\oldenumerate\enumerate
+\renewcommand{\enumerate}{\inlisttrue\oldenumerate}
+\let\oldendenumerate\endenumerate
+\renewcommand{\endenumerate}{\oldendenumerate\inlistfalse}
+
+% New environment that counts paragraphs, but skips sections and lists
+\newenvironment{enumpars}
+{\newtoks\everypar%
+  \setcounter{parcount}{0}%
+  \oldep{\the\everypar%
+    \ifinsection
+      % Do nothing when inside section or subsection
+    \else
+      \ifinlist
+        % Do nothing when inside a list
+      \else
+        \stepcounter{parcount}%
+        \tabto*{\TabMargPos}\makebox[0pt]{\tiny \theparcount \normalsize}%
+      \fi
+    \fi
+    \tabto*{\TabPrevPos}}%
+  \par}{\global\let\everypar\oldep\par}
+
 \AtBeginDocument{
     \maketitle
     \tableofcontents
     \clearpage
+    \begin{enumpars}
+}
+
+\AtEndDocument{
+    \end{enumpars}
 }
