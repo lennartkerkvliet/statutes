@@ -1,6 +1,9 @@
 % Font settings
 \usepackage[fira]{fontsetup}
 
+% Lists
+\usepackage{enumitem}
+
 % Page layout settings
 \usepackage[a4paper, margin=1in, top=1.2in, bottom=1.2in]{geometry}
 \usepackage{fancyhdr}
@@ -69,6 +72,7 @@
   {\color{blue}\hyperref[{#2}]{#1 \ref{#2}: \nameref{#2}}}%
 }
 
+% Custom command to format the link with section number and title
 \newcommand{\shortcustomref}[2]{%
   {\color{blue}\hyperref[{#2}]{\ref{#2}}}%
 }
@@ -100,7 +104,9 @@
 \def\TabMargLeft{-.5in}
 \def\TabMargRight{\dimexpr\textwidth+.5in\relax}
 \def\TabMargPos{\TabMargRight}
+\def\TabMargListPos{\TabMargRight-\the\leftmargini}
 \newcounter{parcount}
+\newcounter{listcounter}
 \let\oldep\everypar%
 
 % Flag to indicate whether we are inside a section or subsection
@@ -130,21 +136,39 @@
 \let\oldendenumerate\endenumerate
 \renewcommand{\endenumerate}{\oldendenumerate\inlistfalse}
 
+\long\def\sidenote#1{%
+\vadjust{\smash{\hbox to 0pt{%
+  \hskip \hsize \hskip 2.75em % Move to the right margin
+  \vtop{%
+    \parindent=0pt
+    \hsize=1.7in
+    \parfillskip=0pt
+    \rightskip=0pt plus1fil
+    \baselineskip=10pt\vglue-\ht\strutbox #1}}}}}
+
 % New environment that counts paragraphs, but skips sections and lists
 \newenvironment{enumpars}
 {\newtoks\everypar%
   \setcounter{parcount}{0}%
+  \setcounter{listcounter}{0}%
   \oldep{\the\everypar%
     \ifinsection
-      % Do nothing when inside section or subsection
+      \setcounter{listcounter}{0}
     \else
       \ifinlist
-        % Do nothing when inside a list
+        \ifnum\value{listcounter}=0
+          \stepcounter{parcount}%
+          \stepcounter{listcounter}%
+          \sidenote{\tiny \getCurrentSectionNumber-\theparcount \normalsize}%
+        \else
+          % Do nothing for subsequent list items
+        \fi
       \else
+        \setcounter{listcounter}{0}
         \stepcounter{parcount}%
         \tabto*{\TabMargPos}%
         \makebox[0pt]{\tiny \getCurrentSectionNumber-\theparcount \normalsize}%
-        \tabto*{\TabPrevPos}
+        \tabto*{\TabPrevPos}%
       \fi
     \fi
     }%
