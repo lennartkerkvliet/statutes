@@ -237,7 +237,7 @@ The President, the Secretary General and Treasurer are elected for the period of
 Every newly elected Bureau shall draft an Action Plan for the whole mandate within the next two months after its election. This Plan of Action will be sent to the member organizations no later than these two months after the General Assembly. The Action Plan will be adopted at the first General Assembly after the General Assembly in which the Bureau is elected.
 
 ### Annual and Interim Report {#bureau-annual-interim-report}
-The Bureau will have to submit for adoption once a year an Annual Report at least two weeks before the start of the General Assembly. The Annual Report outlines the achievements of the organization in relation to the objectives laid down in the Action Plan. The Annual Report will be presented by the President.
+The Bureau will have to submit for adoption once a year an Annual Report at least four weeks before the start of the General Assembly. The Annual Report outlines the achievements of the organization in relation to the objectives laid down in the Action Plan. The Annual Report will be presented by the President.
 
 If there is more than one statutory meeting every year, the Bureau will present an interim report to show what the current status of the realisation of the Action Plan is.
 
