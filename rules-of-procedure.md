@@ -213,16 +213,20 @@ These points shall be limited to:
 If the Chair deems an individual to be abusing their right to raise Procedural Points, the Chair should ask the individual to refrain from raising them until proceedings have moved on.
 
 ### Procedural Motions {#ga-so-procedural-motions}
-The order of procedural motions shall be:
+Procedural Motions are required to be seconded unless otherwise stated, cannot interrupt speakers unless otherwise stated, will not be debated on unless otherwise stated, and shall require a simple majority to pass unless otherwise stated.
 
-(a) motion to remove the chair;
-(b) motion to reverse the decision of the chair;
-(c) motion for the suspension or adjournment of the session;
-(d) motion to adjourn the item under discussion;
-(e) motion that the question be now put to a vote;
-(f) motion for reference back.
+The order of Procedural Motions shall be limited to:
 
-A two-thirds majority shall be required for the removal of the chair. During the debate on this motion the chair shall be taken by another person. The only speakers allowed on a procedural motion shall be the mover of the motion and the mover of the resolution or amendment, who shall have the right to reply.
+(a) Motion to remove the Chair, which seeks to permanently remove one or multiple chairpeople from their position. This motion may interrupt a speaker and, when raised to remove all currently available chairpeople, must include a call for a new chair who shall preside over debate on this motion. Should the motion be passed, the temporary chairperson may continue to preside over the meeting until another chairperson is available.
+(b) Motion to suspend the Chair, which seeks to temporarily remove one or multiple chairpeople from their position. This motion may interrupt a speaker, must include the duration for which the Chair is suspended and, when raised to suspend all currently available chairpeople, must include a call for a new Chair who shall preside over debate on this motion. Should the motion be passed, the temporary chairperson may continue to preside over the meeting until another chairperson is available.
+(c) Motion to reverse the decision of the Chair, which seeks to appeal the decision of the Chair, and shall be debated before being put to a vote.
+(d) Motion for the suspension or adjournment of the session.
+(e) Motion to introduce, which seeks to put a decision before the meeting, shall be debated before being put to a vote. Should the decision in any way limit the rights of a potential minority in the meeting, it shall require a two-thirds majority to pass.
+(f) Motion to adjourn the item under discussion, which seeks to table the item currently under discussion until a specified later time.
+(g) Motion that the question be now put to a vote, shall require a two-thirds majority.
+(h) Motion for reference back, which seeks to refer the item being discussed to an existing or directly created body, and which calls for a specific time when said body must refer back, shall be debated before being put to a vote.
+
+In debate on a Procedural Motion, the only speakers allowed shall be the mover of the motion and the mover of the resolution or amendment, who shall have the right to reply; if the motion is not raised during a resolution or an amendment, there shall be no right to reply. Should any of these motions passed during a Standing Committee have an effect external to the Standing Committee itself, it shall be brought as a recommendation to the General Assembly.
 
 ### Minutes {#ga-so-minutes}
 The decisions of the General Assembly shall be entered in the minutes and will be made available to the members no later than 30 days following the adjournment of the General Assembly and shall be signed by one of the auditors. This falls under the responsibility of the two auditors.
