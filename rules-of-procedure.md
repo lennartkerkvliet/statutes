@@ -1,6 +1,6 @@
 ---
 title: Rules of Procedure of the International Federation of Liberal Youth
-date: As adopted by the 53rd General Assembly in Abidjan, Côte d’Ivoire, 9th-12th of May 2024
+date: As adopted by the 54th General Assembly in Tallinn, Estonia, 15th-17th of November 2024
 ---
 
 # General {#gen}
@@ -23,7 +23,7 @@ The Bureau wields the same rights as Full Members, except for voting rights at t
 
 The Individual Members' Group has the right to vote, the right to put forward proposals, and the right to submit amendments to all proposals except where it concerns the Manifesto, Statutes, the Rules of Procedure, or financial documents. For the purpose of defining rights and obligations elsewhere in the rules of procedure, individual members are considered to be members, but not member organizations.
 
-## Membership application {#mem-application}
+## Membership Application {#mem-application}
 The admission of new members is subject to the following conditions: Full membership and Regional membership can only be granted by a two-thirds majority of those present and voting at the General Assembly, including abstentions. Associate membership can be granted by a simple majority vote of the General Assembly. Observer status can be granted by a simple majority vote of the General Assembly and needs to be renewed each year.
 
 All membership applications must be received by the IFLRY office at least two weeks prior to the start of the General Assembly at which the applicant organization wishes their application to be considered. The IFLRY Office will make sure that all submitted documents will be available to the members at least one week before the start of the General Assembly.
