@@ -192,8 +192,17 @@ A roll call shall be taken at the opening of each GA session and if requested. I
 ### List of Speakers {#ga-so-speakers}
 The chairperson may announce a list of speakers and with the consent of the General Assembly declare a list closed. The chairperson may announce a maximum time limit for contributions to the debate.
 
-### Points of Order {#ga-so-points-of-order}
-Points of order shall be automatically taken by the chair when raised. Points of information may be taken at the discretion of the speaker.
+### Procedural Points{#ga-procedural-points}
+
+The following is a limitative list of Procedural Points that can be made during the General Assembly or its standing procedures committees. These points can interrupt a speaker, are not required to be seconded, are not brought up for debate, and are not
+put to a vote.
+
+These points shall be limited to:
+
+(a) points of order, which is a request from the floor that seeks to remind or correct the Chair on the issue of the standing orders, and shall be decided upon immediately by the Chair when raised;
+(b) points of privilege, which is a request to address a discomfort or issue that hinders the proper participation of someone from the floor.
+
+If the Chair deems an individual to be abusing their right to raise Procedural Points, the Chair should ask the individual to refrain from raising them until proceedings have moved on.
 
 ### Procedural Motions {#ga-so-procedural-motions}
 The order of procedural motions shall be:
