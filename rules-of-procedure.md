@@ -128,6 +128,14 @@ Following an expulsion of an elected person it is the right of the General Assem
 
 In case of a resignation of a Bureau member, the Bureau has the power to appoint a replacement in a non-voting capacity until the next General Assembly, provided there is no meeting of the General Assembly in the following 30 days.
 
+### Timing {#ga-elections-timing}
+
+Elections shall be held at the first General Assembly of the calendar year corresponding with the end of the Bureau members’ term. Notice of elections shall be given concurrently with notice of the GA.
+
+The incoming Bureau members shall be installed in their roles at the close of the GA.
+
+In elections where multiple rounds of voting are required, successive rounds shall be held immediately.
+
 ## Agenda {#ga-agenda}
 The agenda of the statutory event may include proposals and reports. The agenda will be proposed to the membership four weeks before the General Assembly.
 
