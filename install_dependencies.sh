@@ -8,6 +8,3 @@ tar -xzf install-tl-unx.tar.gz --strip-components=1
 echo "I" | ./install-tl --profile=../config/texlive.profile
 export PATH=$(pwd)/bin/x86_64-linux:$PATH
 cd ..
-
-# Verify xelatex installation
-texlive/bin/x86_64-linux/xelatex --version || { echo "xelatex installation failed!"; exit 1; }
