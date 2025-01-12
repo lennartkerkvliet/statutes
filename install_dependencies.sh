@@ -9,12 +9,6 @@ tar -xzf install-tl-unx.tar.gz --strip-components=1
 export PATH=$(pwd)/bin/x86_64-linux:$PATH
 cd ..
 
-# Install required LaTeX packages
-echo "Installing required LaTeX packages..."
-texlive/bin/x86_64-linux/tlmgr install \
-  xetex fontspec xunicode xltxtra graphicx fancyhdr titlesec tocloft
-texlive/bin/x86_64-linux/tlmgr install FiraSans FiraMono
-
 # Verify xelatex installation
 echo "Verifying xelatex installation..."
 texlive/bin/x86_64-linux/xelatex --version || { echo "xelatex installation failed!"; exit 1; }
