@@ -1,0 +1,6 @@
+[build]
+  # Command to run during the build process
+  command = "make dependencies && make all"
+  
+  # Directory to publish
+  publish = "build"

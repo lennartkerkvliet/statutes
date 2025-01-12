@@ -33,6 +33,10 @@ $(RULES_PDF): $(RULES_MD) $(HEADER) $(FILTER)
 		-H $(HEADER) \
 		--lua-filter=$(FILTER)
 
+# Install dependencies
+dependencies:
+	sudo apt-get update && sudo apt-get install -y pandoc texlive-xetex texlive-latex-extra texlive-fonts-extra
+
 # Clean target
 clean:
 	rm $(BUILD_FOLDER)

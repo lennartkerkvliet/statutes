@@ -1,6 +1,8 @@
 # Statutes and Rules of Procedure 
 
-The idea is to automate the process of updating the statutes and rules of procedure as much as possible. The current wokflow using GitHub action and pandoc to convert markdown source files into LaTeX pdfs. This can be easily updated so that the output files are uploaded directly to the website.
+[![Netlify Status](https://api.netlify.com/api/v1/badges/54eee386-3801-438c-af34-419386b18287/deploy-status)](https://app.netlify.com/sites/iflrydocs/deploys)
+
+The idea is to automate the process of updating the statutes and rules of procedure as much as possible. The current wokflow is using pandoc to convert markdown source files into LaTeX pdfs. The whole process is automated using Netlify which also makes the files available online.
 
 # How to build the Statutes and Rules of Procedure locally
 
