@@ -1,4 +1,4 @@
-name: Generate PDF from Markdown and Upload
+name: Generate PDF from Markdown and Deploy to Netlify
 
 on:
   push:
@@ -9,53 +9,36 @@ on:
       - main
 
 jobs:
-  upload-pdf:
+  deploy-pdfs:
     runs-on: ubuntu-latest
 
     steps:
+      # Step 1: Checkout the repository
       - name: Checkout code
         uses: actions/checkout@v3
 
+      # Step 2: Set up Pandoc
       - name: Set up Pandoc
         run: sudo apt-get install -y pandoc
-        
+
+      # Step 3: Install LaTeX
       - name: Install LaTeX
         run: sudo apt-get install -y texlive-xetex texlive-latex-extra texlive-fonts-extra
-          
+
+      # Step 4: Generate PDFs
       - name: Generate PDFs
-        run: | 
-          pandoc statutes.md -o statutes.pdf --pdf-engine=xelatex --number-sections -V fontsize=11pt -H config/header.tex --lua-filter=config/custom-links.lua
-          pandoc rules-of-procedure.md -o rules-of-procedure.pdf --pdf-engine=xelatex --number-sections -V fontsize=11pt -H config/header.tex --lua-filter=config/custom-links.lua 
-
-      - name: Upload Statutes as Artifact
-        uses: actions/upload-artifact@v3
-        with:
-          name: statutes-pdf
-          path: statutes.pdf
-      
-      - name: Upload Rules of Procedure as Artifact
-        uses: actions/upload-artifact@v3
-        with:
-          name: rules-of-procedure-pdf
-          path: rules-of-procedure.pdf
-
-      - name: Install AWS CLI
         run: |
-          sudo apt-get update
-          sudo apt-get install -y awscli
+          mkdir -p build
+          pandoc statutes.md -o build/statutes.pdf --pdf-engine=xelatex --number-sections -V fontsize=11pt -H config/header.tex --lua-filter=config/custom-links.lua
+          pandoc rules-of-procedure.md -o build/rules-of-procedure.pdf --pdf-engine=xelatex --number-sections -V fontsize=11pt -H config/header.tex --lua-filter=config/custom-links.lua
 
-      - name: Configure AWS credentials
-        run: | 
-          aws configure set aws_access_key_id ${{ secrets.AWS_ACCESS_KEY_ID }}
-          aws configure set aws_secret_access_key ${{ secrets.AWS_SECRET_ACCESS_KEY }}
-          aws configure set region ${{ secrets.AWS_REGION }}
-
-      - name: Upload PDF to S3
-        run: | 
-          aws s3 cp statutes.pdf s3://${{ secrets.S3_BUCKET }}/statutes.pdf
-          aws s3 cp rules-of-procedure.pdf s3://${{ secrets.S3_BUCKET }}/rules-of-procedure.pdf
-        env:
-          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
-          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
-          AWS_REGION: ${{ secrets.AWS_REGION }}
-
+      # Step 5: Commit the build folder to the 'deploy' branch
+      - name: Deploy to Deployment Branch
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git fetch origin
+          git checkout -B deploy
+          git add build/
+          git commit -m "Deploy PDFs [skip ci]" || echo "No changes to commit"
+          git push origin deploy --force
