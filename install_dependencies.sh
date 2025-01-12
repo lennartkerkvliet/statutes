@@ -48,11 +48,7 @@ if [ ! -e "$INSTALL_TL_SUCCESS" ]; then
   echo "$TEXLIVE_PROFILE" > "$NETLIFY_CACHE_DIR/texlive.profile"
 
   "$INSTALL_TL_DIR/install-tl" --profile="$NETLIFY_CACHE_DIR/texlive.profile"
-  "$TEXLIVE_BIN/tlmgr" install texliveonfly
-
-  # Install additional packages
-  "$TEXLIVE_BIN/tlmgr" install xetex fontspec FiraSans FiraMono
-
+  
   echo "[$0] TeX Live installation completed."
   touch "$INSTALL_TL_SUCCESS"
 else
