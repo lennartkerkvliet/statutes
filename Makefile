@@ -13,10 +13,14 @@ STATUTES_PDF = statutes.pdf
 RULES_PDF = rules-of-procedure.pdf
 
 # Default target
-all: $(STATUTES_PDF) $(RULES_PDF)
+all: $(BUILD_FOLDER)/$(STATUTES_PDF) $(BUILD_FOLDER)/$(RULES_PDF)
+
+# Ensure the build folder exists
+$(BUILD_FOLDER):
+	mkdir -p $(BUILD_FOLDER)
 
 # Rule for statutes PDF
-$(STATUTES_PDF): $(STATUTES_MD) $(HEADER) $(FILTER)
+$(BUILD_FOLDER)/$(STATUTES_PDF): $(STATUTES_MD) $(HEADER) $(FILTER) | $(BUILD_FOLDER)
 	$(PANDOC) $(STATUTES_MD) -o $(BUILD_FOLDER)/$(STATUTES_PDF) \
 		--pdf-engine=$(PDF_ENGINE) \
 		--number-sections \
@@ -25,7 +29,7 @@ $(STATUTES_PDF): $(STATUTES_MD) $(HEADER) $(FILTER)
 		--lua-filter=$(FILTER)
 
 # Rule for rules of procedure PDF
-$(RULES_PDF): $(RULES_MD) $(HEADER) $(FILTER)
+$(BUILD_FOLDER)/$(RULES_PDF): $(RULES_MD) $(HEADER) $(FILTER) | $(BUILD_FOLDER)
 	$(PANDOC) $(RULES_MD) -o $(BUILD_FOLDER)/$(RULES_PDF) \
 		--pdf-engine=$(PDF_ENGINE) \
 		--number-sections \
@@ -33,13 +37,9 @@ $(RULES_PDF): $(RULES_MD) $(HEADER) $(FILTER)
 		-H $(HEADER) \
 		--lua-filter=$(FILTER)
 
-# Install dependencies
-dependencies:
-	sudo apt-get update && sudo apt-get install -y pandoc texlive-xetex texlive-latex-extra texlive-fonts-extra
-
 # Clean target
 clean:
-	rm $(BUILD_FOLDER)
+	rm -rf $(BUILD_FOLDER)
 
 # Phony targets
 .PHONY: all clean
