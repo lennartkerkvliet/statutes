@@ -1,0 +1,57 @@
+name: Generate PDF from Markdown and Upload
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  upload-pdf:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Step 1: Checkout the repository
+      - name: Checkout code
+        uses: actions/checkout@v3
+      
+      # Step 1: Install Pandoc
+      - name: Set up Pandoc
+        run: sudo apt-get install -y pandoc
+
+      # Step 3: Install LaTeX
+      - name: Install LaTeX
+        run: sudo apt-get install -y texlive-xetex texlive-latex-extra texlive-fonts-extra
+      
+      # Step 4: Generate PDFs
+      - name: Generate PDFs
+        run: make 
+
+      # Step 5: Upload Artifacts
+      - name: Upload Statutes as Artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: statutes-pdf
+          path: build/statutes.pdf
+      
+      - name: Upload Rules of Procedure as Artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: rules-of-procedure-pdf
+          path: build/rules-of-procedure.pdf
+
+      # Step 6: Commit the build folder to the 'deploy' branch
+      - name: Deploy to Deployment Branch
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git fetch origin
+          git checkout -B deploy
+          git add build/
+          git commit -m "Deploy PDFs [skip ci]" || echo "No changes to commit"
+          git push origin deploy --force
