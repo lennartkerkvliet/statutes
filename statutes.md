@@ -6,134 +6,126 @@ date: As adopted by the 53rd General Assembly in Abidjan, Côte d’Ivoire, 9th-
 # General
 
 ## Name
-The organisation is established as an association under German law with the name International Federation of Liberal Youth (abbreviated as IFLRY). It shall be formally registered in the register of associations. With the registration the affix e.V. will be added to its name.
+The association is established under Belgian law with the name "International Federation of Liberal Youth, Association Internationale Sans But Lucratif (AISBL)". This is abbreviated as IFLRY.
 
 ## Place
-The office of the association is located in Berlin, Germany.
+The registered office of the association is located in the Brussels-Capital Region of Belgium. 
 
-## Aim
-The aim of IFLRY shall be to promote freedom and advocate the ideas of political liberalism around the globe. Through a holistic understanding of the importance of political and economic liberty on human flourishing, IFLRY commits itself to the active advancement of human rights, democracy, stable property rights, rule of law, and free trade. IFLRY regards itself as a provider of political education and a platform for networking and exchanging ideas on the basis of activities such as common publications, seminars, policy recommendations, international cooperation, exchanges, symposia, courses, and statutory  events; it further aims at facilitating democratic inclusion, local and international activism, and cooperation between its member organisations.
+## Aim {#aim}
+IFLRY is a federation of youth organisations and young individuals with the collective aim of promoting freedom and advocating for political liberalism around the globe. IFLRY commits itself to the active advancement of human rights, democracy, stable property rights, rule of law, and free trade. IFLRY provides political education and acts as a platform for networking and exchanging ideas. These aims shall be advanced through publications, seminars, policy recommendations, exchanges, symposia, courses, and statutory events. IFLRY further strives to facilitate democratic inclusion, local and international activism, and cooperation between its member organisations.
 
-## Relationship with Liberal International
-In order to achieve its aims, IFLRY shall co-operate with Liberal International. IFLRY is a full member organisation of Liberal International and is independent in all decisions.
+## Language 
+The official languages of the organisation are French, Spanish and English. The working language of the association is English and is used for all official documents apart from the statutes, for which the French version is binding as required by Belgian law. 
+
+## Documents {#docs}
+The statutory governing documents of the association are, in order of precedence: 
+
+* **Statutes**, 
+* **Rules of Procedure**, 
+* **Internal Regulations**. 
+
+The Statutes provide a broad overview of the structure and purpose of the association. The Rules of Procedure set out the organisational procedures including meetings, voting and decision making processes of the association. The Internal Regulations govern the behaviours, rights and responsibilities of members.
+
+# Affiliations 
+
+## Liberal International
+IFLRY is a full member of the Liberal International and holds a special status as its officially recognised international liberal youth organisation. In this capacity, IFLRY collaborates closely with Liberal International to promote shared values, while retaining complete autonomy and independence in its decision-making, governance, and activities.
+
+# Structure 
+
+IFLRY operates on a federal structure and is primarily composed of member organisations. The highest decision-making body of the association is the **General Assembly** (see [article](#ga)), comprising representatives from its members. The General Assembly is responsible for setting the overall direction of the association and adopting key decisions.
+
+Daily management and external representation are handled by an elected executive **Bureau** (see [article](#bureau)), which operates in accordance with the statutes and decisions of the General Assembly. The work of the Bureau is overseen by an **Advisory Council** (see [article](#ac)), which provides guidance and ensures that the Bureau adheres to the policies and strategic direction set by the General Assembly.
+
+The General Assembly, Bureau, and Advisory Council are the three statutory bodies that collectively govern the association in compliance with Belgian law. The association may employ staff, collectively referred to as the **Office**, to handle administrative and operational tasks (see [article](#office)). The Office operates under the direction of the Bureau.
 
 # Membership
 
 ## Composition
-IFLRY has four types of member organisations: full members, associate members, observer members, and regional members. IFLRY also has individual membership. Only full members, associate members, and the individual members group have voting rights in a General Assembly. Members shall be admitted to the Federation by a vote of the General Assembly. Member organisations can resign from the federation voluntarily or be expelled by a vote of the General Assembly. Voting rights and membership obligations are described further in the Rules of Procedure.
+IFLRY has five types of member organisations: 
 
+* **Full Members**
+* **Associate Members**
+* **Observer Members**
+* **Regional Members**
+* **The Individual Members Group**
 
-## Criteria
-All national and student organisations, having legal personality, that are in agreement with the aims of IFLRY and the principles expressed in the Manifesto are welcome to apply for associate or observer membership status within IFLRY if they have a legal status.
+## Membership Admission
+All national youth or student organisations in agreement with the aims of IFLRY (as described in [article](#aim)) and the **Manifesto** are welcome to apply for associate or observer membership status. Similarly, regional youth organisations satisfying the same requirements are welcome to apply for regional membership status. Organisations that do not fit these criteria may instead apply for observer membership.
 
-Organisations that do not fit the above criteria may also apply for associate or observer membership in the Federation.
+The Individual Members Group (IMG) is a distinct entity which collectively holds membership in its own right. Admission to the IMG is granted by an **Individual Members Vetting Committee** (IMVC) appointed by the Bureau.
 
-Regional organisations being in agreement with the aims of IFLRY and with the principles expressed in the Manifesto shall have the right to apply for regional membership of IFLRY.
-
-Individuals shall have the right to apply for individual membership of IFLRY, via the Individual Members Vetting Committee.
-
-## Membership Rights
-Members have the right of information within the Federation.
-
-Regional members have the right to appoint a representative to the Bureau as Regional Bureau Member, but do not have voting rights in the Bureau.
-
-The rights of Members on the decision-making procedures, as well as the nomination procedures within the Federation are stipulated in the Rules of Procedure.
+Full membership and Regional membership can only be granted by a two-thirds majority of those present and voting at the General Assembly. Associate membership can be granted by a simple majority vote of the General Assembly. Observer status can be granted by a simple majority vote of the General Assembly and needs to be renewed each year.
 
 ## Membership Obligations
 All members commit themselves to fulfilling the following membership obligations:
 
-(a) to adhere to the financial obligations as stated in the Membership Fee Statute. Organisations and individual members which have fulfilled these obligations are considered in good standing;
+(a) to adhere to the financial obligations as stated in the Membership Fee Statute. Organisations and individual members which have fulfilled these obligations are considered in good financial standing;
 (b) to uphold the values as stated in the Manifesto;
 (c) to support the work being done by the statutory bodies of the Federation.
 
+## Membership Suspension and Termination 
+Members of the Federation may be temporarily suspended if the member organization is suspected of breaching any of the membership obligations. In the case of a severe breach, members of the Federation can be expelled by the General Assembly.
+
 # Statutory Bodies
 
-The statutory bodies of the association are the General Assembly, the Bureau, and the Advisory Council.
+## General Assembly {#ga}
+The General Assembly is the highest decision-making body of IFLRY and has full powers to accomplish the aims and objectives of the Federation. The General Assembly is made up of all members of the Federation.
 
-## General Assembly
-The General Assembly is the highest decision-making body of IFLRY and has full powers to accomplish the aims and objectives of the Federation. The General Assembly is made up of all members of the Federation. The nomination and proposal procedures are described further in the Rules of Procedure.
+The General Assembly shall meet at least once a year, at a date and place determined by the Bureau.
 
-The General Assembly shall meet at least once a year, at a date and place determined by the Bureau. The Bureau must announce the date and location within three months minimum before the General Assembly.
+Only full and associate member organisations in good financial standing shall be accorded voting rights. Voting rights in the General Assembly are to be distributed according to the membership type and size of the member organisation.
 
-Only full and associate member organisations in good standing shall be accorded voting rights. Voting rights in the General Assembly are to be distributed according to the membership type and size of the member organisation based on the formula set out in the Rules of Procedure.
+The General Assembly holds all powers expressly granted to it by Belgian law, including but not limited to:
 
-### Standing Committees
-There shall be Standing Committees, which will meet at each General Assembly that will give a recommendation on proposals to the GA. Each Committee shall consist of one delegate from each full and associate member organisation, selected pursuant to each organisation’s own procedures. The Bureau shall be represented at each Standing Committee in a non-voting capacity. The procedures and presidium of the Standing Committees are described further in the Rules of Procedure.
+(a) Approval of the annual accounts and budget.
+(b) Election and dismissal of Bureau members.
+(c) Admission and exclusion of members.
+(d) Amendment of the Statutes.
+(e) Dissolution of the AISBL and allocation of its assets.
 
 ### Extraordinary General Assembly
 An Extraordinary General Assembly can be called by a simple majority by the Bureau, by (a group of) full member organisations representing at least one-fifth of the votes that would have been cast at the most recent General Assembly or one-fourth of the full member organisations or one-tenth of all organisations.
 
-## The Bureau
+## The Bureau {#bureau}
 
 ### General
-The IFLRY Bureau consists of seven Bureau members elected by a General Assembly. According to §26 of German Civil Code (“Bürgerliches Gesetzbuch”, BGB), the managing Bureau consists of three Bureau members: President, Secretary General, and Treasurer. The extended Bureau consists of up to four Vice Presidents. The managing Bureau will be elected for a period of two years; the Vice Presidents will be elected for a period of one year. The election and responsibilities of the Bureau is
+The IFLRY Bureau consists of seven Bureau members elected by a General Assembly. The **Managing Bureau** consists of three Bureau members: **President**, **Secretary General**, and **Treasurer** who shall serve as the Board of Directors (Organe d’Administration) under Belgian Law. The **Extended Bureau** consists of up to four **Vice Presidents**. The Managing Bureau will be elected for a period of two years; the Vice Presidents will be elected for a period of one year. The election and responsibilities of the Bureau are
 described further in the Rules of Procedure.
 
 The Bureau is responsible for the day-to-day management of the Federation and for the control of all its resources. The Bureau has to report to the General Assembly. Regional Member Organizations can appoint Regional Bureau Members. Regional Bureau Members do not have voting rights in the Bureau.
 
-### Suspension
-Individual Bureau Members can be suspended from their Bureau. The details of this process are explained in the Rules of Procedure.
-
-### Resignation
-Individual Bureau Members can be forced to resign by the General Assembly. The details of this process are explained in the Rules of Procedures.
+### Suspension and Resignation 
+Individual Bureau Members can be suspended from their Bureau. They can also be forced to resign by the General Assembly. The details of this process are explained in the Rules of Procedures.
 
 ### Legal Status
-The association under German Law shall be jointly represented extrajudicially by two members of the managing Bureau.
+The association shall be represented towards third parties and in legal matters by at least two members of the Managing Bureau acting jointly, unless otherwise specified by the Statutes or Belgian law.
 
-## Advisory Council
+## Advisory Council {#ac}
 
 ### General
-The IFLRY Advisory Council (AC) consists of three members appointed by the General Assembly for a period of two years. After this, members of the AC can decide on their own whether they wish to serve another term. This decision has to be confirmed by the General Assembly. They can, however, serve no more than two consecutive terms. The AC has no decision-making powers when it comes to the running of the Federation. Its function is to advise and support the Bureau, and to report to the General Assembly about the functioning of the Federation jointly with the Bureau. The appointment and responsibilities of the AC are described further in the Rules of Procedure.
-
-### Suspension
-Individual AC members can be suspended from the Advisory Council. The details of this process are explained in the Rules of Procedure.
-
-### Resignation
-Individual AC members can be forced to resign by the General Assembly. The details of this process are explained in the Rules of Procedures.
+The Advisory Council (AC) is appointed by the general assembly to advise the Bureau. The composition, role, and terms are laid down in the Rules of Procedure.
 
 # Auditors
-There shall be two auditors, who shall be elected at a General Assembly for a period of two years. The auditors shall examine the accounts and general finances of the Federation and give a report at  least annually to the General Assembly. The report to the General Assembly shall also include an assessment on how the Bureau has carried out the decisions taken by the General Assembly. The auditors are responsible for the minutes of the General Assembly.
-
-None of the auditors shall have been a member of the previous Bureau or have been employed by IFLRY during the previous Bureau term.
+There shall be two auditors, who shall be elected at a General Assembly for a period of two years. They are responsible for examining the accounts and general finances of the Federation and assessing how the Bureau has carried out the decisions taken by the General Assembly. They shall produce a report at least annually which is presented to the General Assembly.
 
 # Ombudsperson
-The ombudsperson shall monitor any cases of disagreement or conflict, ill-treatment, abuse of power and authority, exploitation of working staff, and misrepresentation of the resolutions and manifesto within any part of the Federation. It shall therefore serve as guardian to protect the interests of the Federation and all its associated individuals within the day-to-day proceedings of the Bureau, Office, and Auditors (as well as non-statutory bodies, such as Programme Managers) and to serve as an independent body of negotiation and mediation. The role of the Ombudsperson is bound by strict rules of confidentiality and shall be executed with full integrity, impartiality, and with respect to due process, dignity, and liberal value. The ombudsperson shall produce an annual report presented at the General Assembly.
-The Ombudsperson shall be a member of the Committee of Discipline and Arbitrage nominated by the Committee of Discipline and Arbitrage
-
-# Committee of Discipline and Arbitrage
-
-(a) The Discipline and Arbitrage Committee shall be composed of three members selected by the Bureau and approved by the General Assembly for a two year mandate.
-(b) The chairperson of the committee shall be elected by its members. The Committee will decide its own rules of procedure. The committee shall present their rules of procedure to the General Assembly for approval.
-(c) The Discipline and Arbitrage Committee shall be competent for any disciplinary issue not falling within the scope of Rules 2.3, 2.4, and 4 of the Statutes and Rules of Procedure, for any dispute between two member organisations, for any dispute between the Bureau and a member of IFLRY, and for a dispute between participants of an official IFLRY events.
-(d) In order to legitimately deliberate about a case, the Discipline and Arbitrage Committee must be called upon by the Bureau, by a member organisation, by a participant of an official IFLRY event, or by the Ombudsperson.
-(e) The committee may impose sanctions other than expulsion at its own initiative on members of member organsations or on a participant of an official FILRY event, and may arbitrate any conflict submitted to its competence provided that the two parties concerned agree on the arbitrage procedure proposed by the committee.
-(f) Members of the committee cannot be members of the Bureau or internal auditors. 
-
-# Code of Conduct
-The General Assembly shall approve a Code of Conduct. The approved Code of Conduct shall be added to the appendix of the Statutes and Rules of Procedures.
-Event participants, individuals from member organisations, or from staff can turn to (individually or collectively) the Ombudsperson to report on cases of perceived breach of the Code of Conduct.
-
-# Individual Members' Group and Individual Membership Vetting Committee
-
-(a) The Individual Members Group shall be composed of those individuals who desire to affiliate with IFLRY   independently of a member organisation.
-(b) Admission to the Individual Members Group shall be determined by an Individual Membership Vetting Committtee, consisting of one or more committee members selected by the Bureau and serving at the pleasure thereof. An individual member can terminate his membership by simple declaration to the secretariat or Individual Membership Committee. An individual Member who is not in good financial standing is automatically considered suspended until such time that he is in good standing again.
-(c) Members of the Individual Members' Group shall be considered individual members of IFLRY, and shall have the rights thereof at IFLRY General Assemblies.
-(d) The election of the Individual Members Group Chair shall be done on the basis of one person, one vote, and shall require a majority of 50% of the votes.
-Otherwise, additional rounds of voting will be held, with the lowest performing candidate eliminated in each round, until a majority is achieved.
-(e) The term of office for the Individual Members Group Chair shall be one year.
+The ombudsperson shall monitor any cases of disagreement or conflict, ill-treatment, or abuse of power and authority within any part of the Federation. The role of the Ombudsperson is bound by strict rules of confidentiality and shall be executed with full integrity, impartiality, and with respect to due process, dignity, and liberal values.
 
 # Administration
 
 ## The Financial Year
 The financial year of IFLRY is the calendar year.
 
-## The Office
-The Office consists of at least the Executive Director, possibly joined by Executive Assistants and Interns as decided by the Bureau. A decision to change the office is taken by simple majority vote by the Bureau.
+## The Office {#office}
+The Office consists of at least the Executive Director, possibly joined by other staff as decided by the Bureau. Any changes to the Office are decided by the Bureau. In cases where the position of Executive Director is vacant, the Secretary General may act as a contact point for issues that would normally be handled by the Office. 
 
-# Statutes
-Every proposal that aims to amend these statutes must be submitted to the Secretariat by the Bureau, or by a group of no less than two full member organisations at least four weeks prior to the General Assembly, or one week after the announcement of an Extraordinary General Assembly. The amendments need a two-thirds majority in order to be adopted. 
+# Amendments to Governing Documents
+Every proposal that aims to amend the documents listed in [article](#docs) can be passed by a two-thirds majority vote of the General Assembly. Proposals to change the Statutes must be made by the Bureau, or by a group of no less than two full member organisations. 
 
 # Dissolution
-Every proposal that aims to dissolve the Federation must be put forward by the Bureau, (a group of) full member organisations representing at least one-fifth of the votes that could have been cast at the most recent General Assembly or by one-fourth of the full member organisations. Any proposal for dissolution of the Federation must be carried by two consecutive General Assemblies. At the first General Assembly, the proposal must be supported by at least a two-thirds majority. At the second General Assembly, the same proposal must have a simple majority in order to take effect
+Every proposal that aims to dissolve the Federation must be put forward by the Bureau, a group of full member organisations representing at least one-fifth of the votes that could have been cast at the most recent General Assembly, or by a group of at least one-fourth of the full member organisations. Any proposal for dissolution of the Federation must be carried by two consecutive General Assemblies. At the first General Assembly, the proposal must be supported by at least a two-thirds majority. At the second General Assembly, the same proposal must have a simple majority in order to take effect.
 
-The General Assembly will determine in which manner the Federation is dissolved and in which manner the dissolution is settled.
+The General Assembly will determine in which manner the Federation is dissolved and in which manner the dissolution is settled. 
+
+In case of dissolution, any remaining net assets of the AISBL shall be allocated to one or more non-profit organizations with similar purposes, as determined by the General Assembly. Under no circumstances may the assets be returned to members or used for their benefit.
