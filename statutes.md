@@ -1,6 +1,6 @@
 ---
 title: Statutes of the International Federation of Liberal Youth
-date: As adopted by the 53rd General Assembly in Abidjan, Côte d’Ivoire, 9th-12th of May 2024
+date: Draft version as proposed by the Statutes working group. Up to date as of 12th March 2025.
 ---
 
 # General
@@ -26,6 +26,9 @@ The statutory governing documents of the association are, in order of precedence
 
 The Statutes provide a broad overview of the structure and purpose of the association. The Rules of Procedure set out the organisational procedures including meetings, voting and decision making processes of the association. The Internal Regulations govern the behaviours, rights and responsibilities of members.
 
+<!-- NOTE : How do we include this -->
+<!-- **Membership Fee Statute** -->
+
 # Affiliations 
 
 ## Liberal International
@@ -39,33 +42,48 @@ Daily management and external representation are handled by an elected executive
 
 The General Assembly, Bureau, and Advisory Council are the three statutory bodies that collectively govern the association in compliance with Belgian law. The association may employ staff, collectively referred to as the **Office**, to handle administrative and operational tasks (see [article](#office)). The Office operates under the direction of the Bureau.
 
+# Voting Thresholds {#voting-methods}
+
+IFLRY has the following voting methods:
+
+* **simple majority:** requires a greater number of votes in favour than against;
+* **absolute majority:** requires a greater number of votes in favour than the combined number of votes abstaining and against;
+* **simple two-thirds majority:** requires a greater number of votes in favour than twice the number against;
+* **absolute two-thirds majority:** requires a greater number of votes in favour than twice the combined number of votes abstaining and against. 
+
+Unless specified otherwise, all decisions made by the bodies defined in these statutes shall be made by simple majority.
+
+Abstaining from voting is always allowed. Both actively abstaining, where the abstention is specifically communicated, as well as passive abstensions, where a voting member of a body is counted as present but refrains from voting, are treated identically.
+
 # Membership
 
 ## Composition
-IFLRY has five types of member organisations: 
+IFLRY is composed of five types of member organisations: 
 
-* **Full Members**
-* **Associate Members**
-* **Observer Members**
-* **Regional Members**
-* **The Individual Members Group**
+* **Full Members** 
+* **Associate Members** 
+* **Observer Members** 
+* **The Individual Members Group** 
+* **Regional Members** 
 
 ## Membership Admission
-All national youth or student organisations in agreement with the aims of IFLRY (as described in [article](#aim)) and the **Manifesto** are welcome to apply for associate or observer membership status. Similarly, regional youth organisations satisfying the same requirements are welcome to apply for regional membership status. Organisations that do not fit these criteria may instead apply for observer membership.
+All national youth or national student organisations in agreement with the aims of IFLRY (as described in [article](#aim)) and the **Manifesto** are welcome to apply for full or associate membership status. Similarly, international youth organisations representing a coherent region of the world and satisfying the same requirements are welcome to apply for regional membership status. Organisations that do not fit these criteria may instead apply for observer membership.
 
 The Individual Members Group (IMG) is a distinct entity which collectively holds membership in its own right. Admission to the IMG is granted by an **Individual Members Vetting Committee** (IMVC) appointed by the Bureau.
 
-Full membership and Regional membership can only be granted by a two-thirds majority of those present and voting at the General Assembly. Associate membership can be granted by a simple majority vote of the General Assembly. Observer status can be granted by a simple majority vote of the General Assembly and needs to be renewed each year.
+Full membership can be granted by an absolute two-thirds majority of Full Members present at the General Assembly. Regional membership can be granted by an absolute two-thirds majority vote of the General Assembly. Associate membership can be granted by an absolute majority vote of the General Assembly. Observer membership can be granted by a simple majority vote of the General Assembly. 
 
-## Membership Obligations
-All members commit themselves to fulfilling the following membership obligations:
+<!-- ## TODO: add Voting Rights of Members -->
+
+## Membership Obligations {#mem-obligations} 
+All members commit themselves to fulfilling both of the following membership obligations:
 
 (a) to adhere to the financial obligations as stated in the Membership Fee Statute. Organisations and individual members which have fulfilled these obligations are considered in good financial standing;
-(b) to uphold the values as stated in the Manifesto;
-(c) to support the work being done by the statutory bodies of the Federation.
+(b) to uphold the values as stated in the Manifesto.
+<!-- GET RID OF: (c) to support the work being done by the statutory bodies of the Federation. -->
 
-## Membership Suspension and Termination 
-Members of the Federation may be temporarily suspended if the member organization is suspected of breaching any of the membership obligations. In the case of a severe breach, members of the Federation can be expelled by the General Assembly.
+## Membership Suspension, Termination and Modification 
+Member organisations can be temporarily suspended, or have their membership terminated, for breaches of membership obligations as described in [article](#mem-obligations) or other severe reasons. The voting procedure used for suspending or expelling an organisation is the same as would be used for admiting any other organisation of an equivalent membership type.
 
 # Statutory Bodies
 
@@ -129,3 +147,6 @@ Every proposal that aims to dissolve the Federation must be put forward by the B
 The General Assembly will determine in which manner the Federation is dissolved and in which manner the dissolution is settled. 
 
 In case of dissolution, any remaining net assets of the AISBL shall be allocated to one or more non-profit organizations with similar purposes, as determined by the General Assembly. Under no circumstances may the assets be returned to members or used for their benefit.
+
+
+
