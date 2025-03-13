@@ -3,11 +3,6 @@ title: Internal Regulations of the International Federation of Liberal Youth
 date: Draft proposal
 ---
 
----
-title: Internal Regulations of the International Federation of Liberal Youth
-date: Draft proposal
----
-
 # Membership
 
 ## Rights
@@ -37,6 +32,38 @@ All membership applications must be received by the IFLRY office at least two we
 
 Successful applicants are able to execute their rights after the meeting has closed all membership issues. All changes to the membership will be added to a Membership Register, which is under the responsibility of the Bureau.
 
+## Qualifying criteria
+
+### Full membership 
+To qualify for full membership, an organization must:
+
+(a) the organisation is a national youth organisation, or a sub-national youth organisation that is not part of a national organisation;
+(b) the organisation is not a member of any other pan-international political organisation that is not based on the ideas of the Manifesto;
+(c) it must be run by and for young people
+(d) it must be democratically organised
+(e) it must be in agreement with the aims of IFLRY
+(f) it must have been previously an associate member organisation of IFLRY.
+
+### Associate membership
+To qualify for associate membership, an organization must comply with points a through e of the full membership article.
+
+### Observer membership
+To qualify for observer membership, an organization must comply with points a, b, d, and e of the full membership article, and:
+
+(g) be run for young people.
+
+### Regional membership
+To qualify for regional membership, an organization must comply with all points of the full membership article.
+
+### Individual Membership
+Everyone, aged between 18 and 35 years, who broadly agree with the Manifesto and agrees with the aims of IFLRY, can become individual members of IFLRY.
+
+## Suspension
+
+Members of the Federation may be temporarily suspended if the targeted member organization is suspected of breaching any of the membership obligations. A motion to suspend a member can be submitted by the Bureau or two full members and needs to be submitted four weeks prior to the start of the General Assembly. Members need to be informed about this motion three weeks prior to the start of the statutory event.
+
+The suspension from the Federation is to be decided by a two-thirds majority. Each suspension is valid for a maximum of one year and may be revoked at any time by the relevant statutory body.
+
 ## Termination
 
 The members can leave the Federation on the following conditions:
@@ -54,7 +81,48 @@ The expulsion from the association is to be decided by a two-thirds majority of 
 
 ## Responsibilities
 
-The Bureau members will be mutually responsible for all its activities. The President, Secretary General and Treasurer function as the core-three responsible for the day-to-day activities of the Federation.
+The Bureau members will be mutually responsible for all its activities. The President, Secretary General and Treasurer function as the core-three responsible for the day-to-day activities of the Federation. All bureau members each have a single vote and bureau decisions require a simple majority of votes.
+
+### President
+The President is responsible for:
+
+(a) chairing the meetings of the Bureau;
+(b) preparing the agenda for Bureau meetings in consultation with the Secretary General;
+(c) managing external contacts;
+(d) ensuring a productive working environment within the Bureau;
+(e) ensuring that they are properly and fully informed at all times.
+
+### Secretary General
+The Secretary General is responsible for:
+
+(a) maintaining the membership administration;
+(b) implementing information and archive policies, as well as managing all related matters;
+(c) preparing minutes of Bureau meetings and General Assemblies;
+(d) managing internal and external privacy policies
+
+### Treasurer
+The Treasurer is responsible for:
+
+(a) collecting membership fees;
+(b) general financial policy;
+(c) preparing the annual financial report;
+(d) properly reporting on budget implementation to the Bureau and the Auditors, as often as deemed necessary, but at least once per quarter;
+(e) facilitating financial audits;
+(f) authorizing Bureau commitments, with approval from the Executive Committee where necessary.
+
+### Vice-presidents
+
+Vice-presidents are responsible but not limited to the following responsibilities, which shall be divided under the vice-presidents:
+
+(a) Events
+(b) Communication
+(c) Programme
+(d) Social Media/Marketing
+(e) Fundraising
+(f) Strategy
+(g) Libel?
+
+Newly elected Vice Presidents need to communicate their areas of responsibility to the IFLRY Member Organizations after the first Bureau meeting of their terms in office.
 
 ## Term {#bureau-term}
 The President, the Secretary General and Treasurer are elected for the period of two years until the next General Assembly. The four Vice Presidents are elected for the period of one year until the next General Assembly. Notwithstanding the right of the General Assembly to put the Bureau on question and to force Bureau Members to resign.
@@ -144,3 +212,92 @@ It is the responsibility of the ombudsperson to make their annual report availab
 
 # Office {#office}
 The Office shall submit a written report to the member organizations on its activities two weeks before the start of the General Assembly. This report will reflect the work carried out by the Office, including the Executive Director and other staff and will be presented at the General Assembly.
+
+# Candidacy
+
+## Eligibility
+
+Every member of a full member organisation can be nominated for a position in the Bureau or ombudsperson.
+Bureau members and the ombudsperson must be between 18 and 35 years old when they are elected.
+
+## Incompatibility of functions
+
+### Bureau member
+Being a Bureau member is incompatible with:
+
+(a) Being an auditor
+(b) Being an ombudsperson
+(c) Membership in the Advisory Council
+(d) Membership in the Office
+(e) Acting as a delegate of a (voting) member organization
+
+### Auditor
+Being an auditor is incompatible with being a Bureau member, as well as with points d and e of the above article.
+
+### Ombudsperson
+Being an ombudsperson is incompatible with being a Bureau member, as well as with points d and e of the above article.
+
+### Advisory Council
+Membership in the Advisory Council is incompatible with being a Bureau member, as well as with points a, d, and e of the above article and to ensure an adequate understanding of the workings of an organisation like IFLRY, a candidate for AC membership:
+
+(f) must have at least two years of experience in an elected or managerial position in the liberal network.
+
+### Office
+Membership in the Office is incompatible with being a Bureau member, as well as with points a, b, c, d, and e of the above article.
+
+### Acting as a delegate
+Acting as a delegate is incompatible with being a Bureau member, as well as with points a, b, c, d, and e of the above article.
+
+# Crisis Management
+
+A crisis is an exceptional situation that significantly disrupts IFLRY’s ability to function, requiring urgent action.
+
+## Global Crises
+
+A global crisis is an exceptional, worldwide situation that significantly disrupts IFLRY’s ability to function, particularly preventing international travel and in-person meetings.
+
+A global crisis that justifies crisis management must be:
+
+- Global in nature (not limited to a specific country or region).
+- Prolonged and unavoidable, making in-person meetings impossible for a significant portion of the Bureau or member organizations.
+- Affecting multiple regions, preventing fair participation
+
+## Internal Crises
+
+An internal financial crisis occurs when IFLRY lacks the necessary funds to sustain its core operations, including:
+
+- A severe funding shortfall affecting staff salaries, event organization, or administrative costs.
+- Loss of major funding sources, such as institutional grants or partner contributions.
+- Debts or financial mismanagement that put IFLRY at risk of insolvency.
+
+## Statutory meetings
+
+Elections may only be postponed in the event of a global crisis that makes holding a fair elections impossible.
+
+In the event of a crisis, it is expected that statutory meetings will be moved online, ensuring organizational continuity.
+
+The decision to move a meeting online must be made by the Bureau based on objective criteria and communicated transparently to member organizations.
+
+### Prevention
+
+After a crisis, the Bureau shall review its response and update contingency plans to improve future preparedness.
+
+# Intellectual Property
+
+## Ownership
+The name, logo, and other visual identifiers of IFLRY are the exclusive property of the organization. The use of IFLRY's intellectual property must align with the organization's values, mission, and regulations.
+
+## Usage Rights
+Member organizations and affiliates may use the IFLRY logo and name in accordance with branding guidelines, provided they do not misrepresent their relationship with IFLRY. Individual members and third parties must seek prior approval from the Bureau before using the organization's name or logo in any official capacity.
+
+## Protection and Enforcement
+The Bureau is responsible for overseeing the appropriate use of IFLRY's intellectual property. Unauthorized or misleading use of IFLRY's name or logo may result in corrective action. Any disputes concerning the use of IFLRY's intellectual property shall be reviewed by the Bureau.
+
+
+# Data Protection
+
+The association is committed to protecting personal data in line with applicable laws. Personal data will only be collected for legitimate purposes and kept secure.
+
+## Data Protection Officer
+
+The Bureau will appoint a Data Protection Officer (DPO) to oversee data protection practices. The DPO will ensure data is handled securely, especially for sensitive information like visa applications.
