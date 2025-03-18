@@ -9,11 +9,13 @@ FILTER = config/custom-links.lua
 BUILD_FOLDER = build
 STATUTES_MD = statutes.md
 RULES_MD = rules-of-procedure.md
+INTERNAL_REGULATIONS_MD = internal-regulations.md
 STATUTES_PDF = statutes.pdf
 RULES_PDF = rules-of-procedure.pdf
+INTERNAL_REGULATIONS_PDF = internal-regulations.pdf
 
 # Default target
-all: $(BUILD_FOLDER)/$(STATUTES_PDF) $(BUILD_FOLDER)/$(RULES_PDF)
+all: $(BUILD_FOLDER)/$(STATUTES_PDF) $(BUILD_FOLDER)/$(RULES_PDF) $(BUILD_FOLDER)/$(INTERNAL_REGULATIONS_PDF)
 
 # Ensure the build folder exists
 $(BUILD_FOLDER):
@@ -31,6 +33,15 @@ $(BUILD_FOLDER)/$(STATUTES_PDF): $(STATUTES_MD) $(HEADER) $(FILTER) | $(BUILD_FO
 # Rule for rules of procedure PDF
 $(BUILD_FOLDER)/$(RULES_PDF): $(RULES_MD) $(HEADER) $(FILTER) | $(BUILD_FOLDER)
 	$(PANDOC) $(RULES_MD) -o $(BUILD_FOLDER)/$(RULES_PDF) \
+		--pdf-engine=$(PDF_ENGINE) \
+		--number-sections \
+		-V fontsize=$(FONT_SIZE) \
+		-H $(HEADER) \
+		--lua-filter=$(FILTER)
+
+# Rule for internal regulations PDF
+$(BUILD_FOLDER)/$(INTERNAL_REGULATIONS_PDF): $(INTERNAL_REGULATIONS_MD) $(HEADER) $(FILTER) | $(BUILD_FOLDER)
+	$(PANDOC) $(INTERNAL_REGULATIONS_MD) -o $(BUILD_FOLDER)/$(INTERNAL_REGULATIONS_PDF) \
 		--pdf-engine=$(PDF_ENGINE) \
 		--number-sections \
 		-V fontsize=$(FONT_SIZE) \

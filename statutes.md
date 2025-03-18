@@ -121,8 +121,7 @@ The association shall be represented towards third parties and in legal matters 
 
 ## Advisory Council {#ac}
 
-### General
-The Advisory Council (AC) is appointed by the general assembly to advise the Bureau. The composition, role, and terms are laid down in the Rules of Procedure.
+The Advisory Council is appointed by the general assembly to advise the Bureau. The composition, role, and terms are laid down in the Internal Regulations.
 
 # Auditors
 There shall be two auditors, who shall be elected at a General Assembly for a period of two years. They are responsible for examining the accounts and general finances of the Federation and assessing how the Bureau has carried out the decisions taken by the General Assembly. They shall produce a report at least annually which is presented to the General Assembly.
