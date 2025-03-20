@@ -8,7 +8,7 @@ date: Draft proposal
 ## Rights
 
 All members have the right of information within the federation.
-Regional members have the right to appoint a representative to the Bureau as Regional Bureau Member, but do not have voting rights in the Bureau.
+Regional members have the right to appoint a representative without voting rights to the Bureau as Regional Bureau Member.
 
 The rights of Members on the decision-making procedures, as well as the nomination procedures within the federation are stipulated in the Rules of Procedure.
 
@@ -34,7 +34,7 @@ Successful applicants are able to execute their rights after the meeting has clo
 
 ## Qualifying criteria
 
-### Full membership 
+### Full membership {#full-membership}
 To qualify for full membership, an organization must:
 
 (a) the organisation is a national youth organisation, or a sub-national youth organisation that is not part of a national organisation;
@@ -45,22 +45,22 @@ To qualify for full membership, an organization must:
 (f) it must have been previously an associate member organisation of IFLRY.
 
 ### Associate membership
-To qualify for associate membership, an organization must comply with points a through e of the full membership article.
+To qualify for associate membership, an organization must comply with points a through e of [article](#full-membership).
 
 ### Observer membership
-To qualify for observer membership, an organization must comply with points a, b, d, and e of the full membership article, and:
+To qualify for observer membership, an organization must comply with points a, b, d, and e of [article](#full-membership), and:
 
 (g) be run for young people.
 
 ### Regional membership
-To qualify for regional membership, an organization must comply with all points of the full membership article.
+To qualify for regional membership, an organization must comply with all points of [article](#full-membership).
 
 ### Individual Membership
 Everyone, aged between 18 and 35 years, who broadly agree with the Manifesto and agrees with the aims of IFLRY, can become individual members of IFLRY.
 
 ## Suspension
 
-Members of the Federation may be temporarily suspended if the targeted member organization is suspected of breaching any of the membership obligations. A motion to suspend a member can be submitted by the Bureau or two full members and needs to be submitted four weeks prior to the start of the General Assembly. Members need to be informed about this motion three weeks prior to the start of the statutory event.
+During suspension, an organization will lose its rights but keep its obligations. Members of the Federation may be temporarily suspended if the targeted member organization is suspected of breaching any of the membership obligations. A motion to suspend a member can be submitted by the Bureau or two full members and needs to be submitted four weeks prior to the start of the General Assembly. Members need to be informed about this motion three weeks prior to the start of the statutory event.
 
 The suspension from the Federation is to be decided by a two-thirds majority. Each suspension is valid for a maximum of one year and may be revoked at any time by the relevant statutory body.
 
@@ -73,7 +73,7 @@ The members can leave the Federation on the following conditions:
 
 A request for voluntary resignation by a member organization needs to be filed with the Bureau through an official representative of the member organization. The General Assembly validates this request before the member organization is deregistered. In a case of the General Assembly not confirming the termination request, the membership will terminate at the end of the calendar year. A motion to expel a member can be submitted by the Bureau or two full members and needs to be submitted four weeks prior to the start of the General Assembly. Such a motion can be submitted if the targeted member organization is suspected of breaching any of the membership obligations.
 
-Members need to be informed about this motion three weeks prior to the start of the statutory event. The Bureau is required to put forward a motion for the expulsion of any member which has retained candidate membership status for four years.
+Members need to be informed about this motion three weeks prior to the start of the statutory event. The Bureau is required to put forward a motion confirming the expulsion of any member which has retained candidate membership status for four years.
 
 The expulsion from the association is to be decided by a two-thirds majority of those present and voting at the General Assembly. Members that are no longer part of the association have no rights to the financial assets.
 
@@ -81,7 +81,7 @@ The expulsion from the association is to be decided by a two-thirds majority of 
 
 ## Responsibilities
 
-The Bureau members will be mutually responsible for all its activities. The President, Secretary General and Treasurer function as the core-three responsible for the day-to-day activities of the Federation. All bureau members each have a single vote and bureau decisions require a simple majority of votes.
+The Bureau members will be mutually responsible for all its activities. A bureau at all times include a President, a Secretary General, and a Treasurer. All bureau members each have a single vote and bureau decisions require a simple majority of votes.
 
 ### President
 The President is responsible for:
@@ -90,7 +90,7 @@ The President is responsible for:
 (b) preparing the agenda for Bureau meetings in consultation with the Secretary General;
 (c) managing external contacts;
 (d) ensuring a productive working environment within the Bureau;
-(e) ensuring that they are properly and fully informed at all times.
+(e) ensuring that the Bureau is properly and fully informed at all times.
 
 ### Secretary General
 The Secretary General is responsible for:
@@ -122,7 +122,7 @@ Vice-presidents are responsible but not limited to the following responsibilitie
 (f) Strategy
 (g) Libel?
 
-Newly elected Vice Presidents need to communicate their areas of responsibility to the IFLRY Member Organizations after the first Bureau meeting of their terms in office.
+Newly elected Vice Presidents need to communicate their areas of responsibility to the IFLRY Member Organizations after the first Bureau meeting of their terms in office. In case there are no elected Vice Presidents, the responsibilities will be divided among the other bureau members.
 
 ## Term {#bureau-term}
 The President, the Secretary General and Treasurer are elected for the period of two years until the next General Assembly. The four Vice Presidents are elected for the period of one year until the next General Assembly. Notwithstanding the right of the General Assembly to put the Bureau on question and to force Bureau Members to resign.
