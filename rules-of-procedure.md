@@ -13,7 +13,7 @@ The official languages of the association shall be English, French, and Spanish.
 
 ## Interpretation
 
-The interpretation of this document shall be subject to the ruling of the General Assembly. Where the Statutes or the Rules of Procedure cannot be applied, the General Assembly decides. In cases of contradiction between the Rules of Procedure and the Statutes of the association, the Statutes take precedence.
+The interpretation of this document shall be subject to the ruling of the General Assembly. Where the Statutes, the Rules of Procedure or Internal Regulations cannot be applied, the General Assembly decides. In cases of contradiction between the Rules of Procedure and the Statutes of the association, the Statutes take precedence.
 
 ## Amendments
 
@@ -25,15 +25,15 @@ All changes to this document take effect immediately after the end of the Genera
 
 Voting rights to a General Assembly (GA) are stipulated under [article](#ga-voting). Full members have the right to vote, the right to nominate candidates to the Bureau and auditor positions, the right to nominate officers, the right to put forward proposals and the right to submit amendments to all proposals.
 
-Associate members have the right to vote, nominate officers, the right to put forward proposals and the right to submit amendments to all proposals except when it concerns the Manifesto, Statutes, the Rules of Procedure or financial documents.
+Associate members have the right to vote, nominate officers, the right to put forward proposals and the right to submit amendments to all proposals except when it concerns the Manifesto, Statutes, the Rules of Procedure, Internal Regulations or financial documents.
 
-Regional members have the right to put forward resolutions and the right to submit amendments to all proposals except when it concerns the Manifesto, Statutes or the Rules of Procedure or financial documents.
+Regional members have the right to put forward resolutions and the right to submit amendments to all proposals except when it concerns the Manifesto, Statutes, the Rules of Procedure, Internal Regulations or financial documents.
 
 Observer members have the right to observe, co-sign political proposals and their amendments and contribute to discussions on political proposals, but no right to vote, nominate candidates or put forward organizational proposals. Observer members are treated as non-voting members and therefore only have the right to observe the proceedings of the Federation and its General Assembly.
 
 The Bureau wields the same rights as Full Members, except for voting rights at the General Assembly and the right to run candidates.
 
-The Individual Members' Group has the right to vote, the right to put forward proposals, and the right to submit amendments to all proposals except where it concerns the Manifesto, Statutes, the Rules of Procedure, or financial documents. For the purpose of defining rights and obligations elsewhere in the rules of procedure, individual members are considered to be members, but not member organizations.
+The Individual Members' Group has the right to vote, the right to put forward proposals, and the right to submit amendments to all proposals except where it concerns the Manifesto, Statutes, the Rules of Procedure, Internal Regulations or financial documents. For the purpose of defining rights and obligations elsewhere in the rules of procedure, individual members are considered to be members, but not member organizations.
 
 # Quorum & Voting {#ga-quorum-voting}
 A quorum of 33% of the votes of organizations in good standing shall be required to begin any meeting of a General Assembly.
@@ -121,7 +121,7 @@ In elections where multiple rounds of voting are required, successive rounds sha
 The agenda of the statutory event may include proposals and reports. The agenda will be proposed to the membership four weeks before the General Assembly.
 
 ## Organizational Proposals {#ga-org-proposals}
-Items which propose a change from the status quo. This can include, but is not limited to, organizational motions, the budget proposal, and amendments to the statutes and rules of procedure. The deadline for submitting organizational proposals is four weeks before the Statutory Meeting.
+Items which propose a change from the status quo. This can include, but is not limited to, organizational motions, the budget proposal, and amendments to the statutory documents. The deadline for submitting organizational proposals is four weeks before the Statutory Meeting.
 
 ## Political Proposals {#ga-political-proposals}
 Items which propose a change from the status quo. This can include, but is not limited to, resolutions and amendments to Manifesto. Except for the Manifesto proposals, the deadline for submitting proposals is two weeks before the General Assembly, and shall be made available to the member organizations no later than one week before the General Assembly. Manifesto proposals must be submitted four weeks before the General Assembly, and shall be made available to the member organizations no later than one week before the General Assembly.
@@ -142,7 +142,7 @@ Only amendments that are submitted 24 hours prior to the opening of the meeting 
 Secondary amendments can be dealt with on the spot, if the respective Standing Committee agrees by simple majority.
 
 # Standing Committees {#ga-standing-committees}
-There are four Standing Committees which shall convene at each General Assembly, provided there are issues to discuss: Finances; Membership; Resolutions and Manifesto; and Statutes and Rules of Procedure. The role of the Standing Committees is to deliberate the issues in depth and to deliver a recommendation to the General Assembly.
+There are four Standing Committees which shall convene at each General Assembly, provided there are issues to discuss: Finances; Membership; Resolutions and Manifesto; and Statutory Documents. The role of the Standing Committees is to deliberate the issues in depth and to deliver a recommendation to the General Assembly.
 
 In each Standing Committee, the member organizations have one vote each, and only one delegate per member organization may contribute to the discussion and vote of each Standing Committee.
 The Bureau shall, and observer members may, be represented at each Standing Committee in a non-voting capacity.
@@ -170,8 +170,8 @@ In voting on amendments, the chair shall normally first hold a vote on the amend
 
 The proposer of a resolution may withdraw the resolution at any time before the vote takes place.
 
-## Standing Committee on Statutes and Rules of Procedure {#ga-standing-committee-rop}
-The Standing Committee on Statutes and Rules of Procedure shall review any proposed amendments to the Statutes or Rules of Procedure prior to their consideration by the GA. In addition, the Committee on Rules shall propose additional rules as necessary covering each GA which shall be adopted immediately following the determination of a quorum at each GA.
+## Standing Committee on Statutory Documents {#ga-standing-committee-rop}
+The Standing Committee on Statutory Documents shall review any proposed amendments to the Statutes, Rules of Procedure, and Internal Regulations prior to their consideration by the GA. In addition, the Committee on Rules shall propose additional rules as necessary covering each GA which shall be adopted immediately following the determination of a quorum at each GA.
 
 # Standing Orders {#ga-so}
 

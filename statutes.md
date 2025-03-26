@@ -108,10 +108,9 @@ An Extraordinary General Assembly can be called by a simple majority by the Bure
 ## The Bureau {#bureau}
 
 ### General
-The IFLRY Bureau consists of seven Bureau members elected by a General Assembly. The **Managing Bureau** consists of three Bureau members: **President**, **Secretary General**, and **Treasurer** who shall serve as the Board of Directors (Organe d’Administration) under Belgian Law. The **Extended Bureau** consists of up to four **Vice Presidents**. The Managing Bureau will be elected for a period of two years; the Vice Presidents will be elected for a period of one year. The election and responsibilities of the Bureau are
-described further in the Rules of Procedure.
+The IFLRY Bureau consists of seven Bureau members elected by a General Assembly. The **Managing Bureau** consists of three Bureau members: **President**, **Secretary General**, and **Treasurer** who shall serve as the Board of Directors (Organe d’Administration) under Belgian Law. The **Extended Bureau** consists of up to four **Vice Presidents**. The Managing Bureau will be elected for a period of two years; the Vice Presidents will be elected for a period of one year. The election and responsibilities of the Bureau are described further in the Rules of Procedure.
 
-The Bureau is responsible for the day-to-day management of the Federation and for the control of all its resources. The Bureau has to report to the General Assembly. Regional Member Organizations can appoint Regional Bureau Members. Regional Bureau Members do not have voting rights in the Bureau.
+The Bureau is responsible for the day-to-day management of the Federation and for the control of all its resources. The Bureau has to report to the General Assembly. Regional Member Organizations can appoint Regional Bureau Appointees. Regional Bureau Appointees do not have voting rights in the Bureau.
 
 ### Suspension and Resignation 
 Individual Bureau Members can be suspended from their Bureau. They can also be forced to resign by the General Assembly. The details of this process are explained in the Rules of Procedures.
@@ -128,6 +127,10 @@ There shall be two auditors, who shall be elected at a General Assembly for a pe
 
 # Ombudsperson
 The ombudsperson shall monitor any cases of disagreement or conflict, ill-treatment, or abuse of power and authority within any part of the Federation. The role of the Ombudsperson is bound by strict rules of confidentiality and shall be executed with full integrity, impartiality, and with respect to due process, dignity, and liberal values.
+
+# Committee of Discipline and Arbitrage
+
+The Discipline and Arbitrage Committee shall be composed of three members selected by the Bureau and approved by the General Assembly for a two year mandate. The Discipline and Arbitrage Committee shall be competent for any disciplinary issue not falling within the scope of the explicit rights of the General Assembly, for any dispute between two member organisations, for any dispute between the Bureau and a member of IFLRY, and for a dispute between participants of an official IFLRY events.
 
 # Administration
 

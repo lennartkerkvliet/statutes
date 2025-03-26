@@ -8,7 +8,7 @@ date: Draft proposal
 ## Rights
 
 All members have the right of information within the federation.
-Regional members have the right to appoint a representative without voting rights to the Bureau as Regional Bureau Member.
+Regional members have the right to appoint a representative without voting rights to the Bureau as Regional Bureau Appointee.
 
 The rights of Members on the decision-making procedures, as well as the nomination procedures within the federation are stipulated in the Rules of Procedure.
 
@@ -26,7 +26,7 @@ If a member organization changes its name, or has merged with another organizati
 
 ## Admissions
 
-The admission of new members is subject to the following conditions: Full membership and Regional membership can only be granted by a two-thirds majority of those present and voting at the General Assembly, including abstentions. Associate membership can be granted by a simple majority vote of the General Assembly. Observer status can be granted by a simple majority vote of the General Assembly and needs to be renewed each year.
+The admission of new members is subject to the following conditions: Full membership and Regional membership can only be granted by a two-thirds majority of those present and voting at the General Assembly, including abstentions. Associate membership can be granted by a simple majority vote of the General Assembly. Observer status can be granted by a simple majority vote of the General Assembly. Observer status is valid for two years and needs to be renewed every two years. It will automatically be renewed if the organization is in good standing, otherwise it should be renewed by the General Assembly.
 
 All membership applications must be received by the IFLRY office at least two weeks prior to the start of the General Assembly at which the applicant organization wishes their application to be considered. The IFLRY Office will make sure that all submitted documents will be available to the members at least one week before the start of the General Assembly.
 
@@ -81,7 +81,7 @@ The expulsion from the association is to be decided by a two-thirds majority of 
 
 ## Responsibilities
 
-The Bureau members will be mutually responsible for all its activities. A bureau at all times include a President, a Secretary General, and a Treasurer. All bureau members each have a single vote and bureau decisions require a simple majority of votes.
+The Bureau members will be mutually responsible for all its activities. A bureau at all times include a President, a Secretary General, and a Treasurer. All Bureau members each have a single vote and bureau decisions require a simple majority of votes.
 
 ### President
 The President is responsible for:
@@ -98,7 +98,8 @@ The Secretary General is responsible for:
 (a) maintaining the membership administration;
 (b) implementing information and archive policies, as well as managing all related matters;
 (c) preparing minutes of Bureau meetings and General Assemblies;
-(d) managing internal and external privacy policies
+(d) managing internal and external privacy policies;
+(e) communication with the member organizations
 
 ### Treasurer
 The Treasurer is responsible for:
@@ -112,17 +113,15 @@ The Treasurer is responsible for:
 
 ### Vice-presidents
 
-Vice-presidents are responsible but not limited to the following responsibilities, which shall be divided under the vice-presidents:
+Vice-presidents are responsible but not limited to the following responsibilities, which shall be divided under the vice-presidents or optionally under the rest of the Bureau:
 
-(a) Events
-(b) Communication
-(c) Programme
-(d) Social Media/Marketing
-(e) Fundraising
-(f) Strategy
-(g) Libel?
+(a) coordination and organization of events;
+(b) programme;
+(c) fundraising of the organization, events and other activities;
+(d) social media and marketing;
+(e) drafting concept notes and proposals for the Office;
 
-Newly elected Vice Presidents need to communicate their areas of responsibility to the IFLRY Member Organizations after the first Bureau meeting of their terms in office. In case there are no elected Vice Presidents, the responsibilities will be divided among the other bureau members.
+Newly elected bureau members need to communicate their areas of responsibility to the IFLRY Member Organizations after the first Bureau meeting of their terms in office. Points a, b and c can be subdivided into more specific items but the final responsibility for the overall coordination and implementation of the points remains with a single responsible member.
 
 ## Term {#bureau-term}
 The President, the Secretary General and Treasurer are elected for the period of two years until the next General Assembly. The four Vice Presidents are elected for the period of one year until the next General Assembly. Notwithstanding the right of the General Assembly to put the Bureau on question and to force Bureau Members to resign.
@@ -176,8 +175,8 @@ At the request of the Bureau, the AC can be called upon to provide guidance and 
 The Secretary-General will keep the AC informed on issues within the Bureau, even when they can be
 resolved without the AC’s involvement. However it is not the job of the AC to manage the Bureau, but merely to observe, give advice and offer help when appropriate.
 
-### Regular meeting AC and SG/G3
-In order to facilitate the AC in the execution of the above-named tasks, the Secretary-General will have a meeting with the AC at least once every three months. The President and Treasurer are also entitled to join this meeting. In addition, a meeting will be held with the outgoing SG after the handover to a new Bureau. The outgoing President and Treasurer are also entitled to attend this meeting. The exact moments these meetings occur will be decided jointly by the AC and SG/G3 (i.e. President, SG and Treasurer), but they should be held within this timeframe:
+### Regular meeting AC and Managing Bureau
+In order to facilitate the AC in the execution of the above-named tasks, the Secretary General will have a meeting with the AC at least once every three months. The President and Treasurer are also entitled to join this meeting. In addition, a meeting will be held with the outgoing Secretary General after the handover to a new Managing Bureau. The outgoing President and Treasurer are also entitled to attend this meeting. The exact moments these meetings occur will be decided jointly by the AC and Secretary General and Managing Bureau, but they should be held within this timeframe:
 
 - In the first quarter after the election of the Bureau: finalise the Action Plan
 - In the second quarter: general progress
@@ -190,7 +189,7 @@ In order to facilitate the AC in the execution of the above-named tasks, the Sec
 
 ## Obligations
 
-### Relationship to the GA
+### Relationship to the General Assembly
 No later than four weeks before every General Assembly, the AC and the Bureau will submit joint reports on the overall performance of the Federation, which includes the progress on the Action Plan and reports by every Bureau member on their work since the last General Assembly. For a more detailed description of the process, see [article](#bureau-annual-interim-report) and [article](#bureau-reports).
 
 ### Recommending new members
@@ -208,45 +207,62 @@ A suspension removes an AC member from his or her position up to and including t
 It is the responsibility of the auditors to make their annual report available once a year to the member organizations two weeks before the General Assembly takes place.
 
 # Ombudsperson {#ombudsperson}
-It is the responsibility of the ombudsperson to make their annual report available once a year to the member organizations two weeks before the General Assembly takes place.
+
+The Ombudsperson shall serve as guardian to protect the interests of the Federation and all its associated individuals within the day-to-day proceedings of the Bureau, Office, and Auditors (as well as non-statutory bodies, such as Programme Managers) and to serve as an independent body of negotiation and mediation.
+
+The ombudsperson shall produce an annual report presented at the General Assembly. It is the responsibility of the ombudsperson to make their annual report available once a year to the member organizations two weeks before the General Assembly takes place.
+
+The Ombudsperson shall be nominated by the [Committee](#cod).
+
+# Committee of Discipline and Arbitrage {#cod}
+
+In order to legitimately deliberate about a case, the Discipline and Arbitrage Committee must be called upon by the Bureau, by a member organisation, by a participant of an official IFLRY event, or by the Ombudsperson.
+
+The committee may impose sanctions other than expulsion at its own initiative on members of member organsations or on a participant of an official IFLRY event, and may arbitrate any conflict submitted to its competence provided that the two parties concerned agree on the arbitrage procedure proposed by the committee. The committee also has the right to table the suspension procedure of a bureau member or member organization at the next General Assembly.
+
+The chairperson of the committee shall be elected by its members. The Committee will decide its own rules of procedure. The committee shall present their rules of procedure to the General Assembly for approval.
 
 # Office {#office}
-The Office shall submit a written report to the member organizations on its activities two weeks before the start of the General Assembly. This report will reflect the work carried out by the Office, including the Executive Director and other staff and will be presented at the General Assembly.
+The Office shall submit a written report to the member organizations on its activities two weeks before the start of the General Assembly. This report will reflect the work carried out by the Office, including the Executive Director and other staff and will be presented at the General Assembly. The Executive Director has the right to attend bureau meetings, but does not have voting rights.
 
 # Candidacy
 
 ## Eligibility
 
 Every member of a full member organisation can be nominated for a position in the Bureau or ombudsperson.
-Bureau members and the ombudsperson must be between 18 and 35 years old when they are elected.
+Bureau members and the ombudsperson must be between 18 and 35 years old when they are appointed.
 
 ## Incompatibility of functions
 
-### Bureau member
+### Bureau member {#bureau-member-incompatibility}
 Being a Bureau member is incompatible with:
 
 (a) Being an auditor
 (b) Being an ombudsperson
 (c) Membership in the Advisory Council
 (d) Membership in the Office
-(e) Acting as a delegate of a (voting) member organization
+(e) Membership in the Committee of Discipline and Arbitrage
+(f) Acting as a delegate of a (voting) member organization
 
 ### Auditor
-Being an auditor is incompatible with being a Bureau member, as well as with points d and e of the above article.
+Being an auditor is incompatible with being a Bureau member, as well as with points d and f of [article](#bureau-member-incompatibility).
 
 ### Ombudsperson
-Being an ombudsperson is incompatible with being a Bureau member, as well as with points d and e of the above article.
+Being an ombudsperson is incompatible with being a Bureau member, as well as with points d, e and f of [article](#bureau-member-incompatibility).
 
 ### Advisory Council
-Membership in the Advisory Council is incompatible with being a Bureau member, as well as with points a, d, and e of the above article and to ensure an adequate understanding of the workings of an organisation like IFLRY, a candidate for AC membership:
+Membership in the Advisory Council is incompatible with being a Bureau member, as well as with points a, d, and f of [article](#bureau-member-incompatibility). and to ensure an adequate understanding of the workings of an organisation like IFLRY, a candidate for AC membership:
 
-(f) must have at least two years of experience in an elected or managerial position in the liberal network.
+(g) must have at least two years of experience in an elected or managerial position in the liberal network.
 
 ### Office
-Membership in the Office is incompatible with being a Bureau member, as well as with points a, b, c, d, and e of the above article.
+Membership in the Office is incompatible with being a Bureau member, as well as with points a, b, c, d, e and f of [article](#bureau-member-incompatibility).
+
+### Committee of Discipline and Arbitrage
+Membership in the Committee of Discipline and Arbitrage is incompatible with being a Bureau member, as well as with points b, c and d of [article](#bureau-member-incompatibility).
 
 ### Acting as a delegate
-Acting as a delegate is incompatible with being a Bureau member, as well as with points a, b, c, d, and e of the above article.
+Acting as a delegate is incompatible with being a Bureau member, as well as with points a, b, c, d and f of [article](#bureau-member-incompatibility).
 
 # Crisis Management
 
