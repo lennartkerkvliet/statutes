@@ -6,7 +6,8 @@ date: As adopted by the 54th General Assembly in Tallinn, Estonia, 15th-17th of 
 # General {#gen}
 
 The General Assembly is the highest decision-making body of the Federation. At the beginning of each General Assembly, the draft agenda will be decided on, the minutes of the previous meeting will be put forward for adoption and the relevant officers are proposed for appointment. This part is always chaired by the Bureau. The draft Agenda shall be made available for the membership at least four weeks prior to the General Assembly, by the Bureau or, in the case of an Extraordinary General Assembly, by those who call the meeting.
-An invitation for the General Assembly must be circulated eight weeks prior to the General Assembly to the members via E-Mail.
+
+The Bureau must announce the date, time and location within at least three months before the General Assembly. An invitation for the General Assembly must be circulated eight weeks prior to the General Assembly to the members via e-mail.
 
 ## Languages {#gen-lang}
 The official languages of the association shall be English, French, and Spanish. In the case that no translation facilities are available the working language will be English.
@@ -23,7 +24,7 @@ All changes to this document take effect immediately after the end of the Genera
 
 # Membership Rights {#mem-rights}
 
-Voting rights to a General Assembly (GA) are stipulated under [article](#ga-voting). Full members have the right to vote, the right to nominate candidates to the Bureau and auditor positions, the right to nominate officers, the right to put forward proposals and the right to submit amendments to all proposals.
+Voting rights to a General Assembly (GA) are stipulated under [article](#ga-voting). Full members have the right to vote, the right to nominate candidates, the right to put forward proposals and the right to submit amendments to all proposals.
 
 Associate members have the right to vote, nominate officers, the right to put forward proposals and the right to submit amendments to all proposals except when it concerns the Manifesto, Statutes, the Rules of Procedure, Internal Regulations or financial documents.
 
