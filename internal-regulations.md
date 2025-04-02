@@ -216,14 +216,6 @@ Moreover, the AC can also call a vote to suspend an AC member if that member has
 
 A suspension removes an AC member from their position up to and including the next GA. In a case where the suspension still stands, there will be a vote of no confidence against the suspended member organised as per the Rules of Procedure at the next General Assembly. If the motion of no-confidence fails the member is reinstated. If a motion of no-confidence is carried out, a replacement will be appointed by the GA as per the Rules of Procedure.
 
-# Individual Membership Group {#img}
-
-Members of the Individual Members’ Group shall be considered individual members of IFLRY, and shall have the rights thereof at the General Assembly.
-
-The election of the Individual Members Group Chair shall be done on the basis of one person, one vote, and shall require a majority of 50% of the votes. Otherwise, additional rounds of voting will be held, with the lowest performing candidate eliminated in each round, until a majority is achieved.
-
-The term of office for the Individual Members Group Chair shall be one year.
-
 # Auditors {#auditors}
 It is the responsibility of the auditors to make their annual report available once a year to the member organizations two weeks before the General Assembly takes place.
 
@@ -270,6 +262,14 @@ The committee shall possess the right to propose changes to the statutes and [Co
 # Office {#office}
 
 The Office shall submit a written report to the member organizations on its activities two weeks before the start of the General Assembly. This report will reflect the work carried out by the Office, including the Executive Director and other staff and will be presented at the General Assembly. The Executive Director has the right to attend bureau meetings, but does not have voting rights.
+
+# Individual Membership Group {#img}
+
+Members of the Individual Members’ Group shall be considered individual members of IFLRY, and shall have the rights thereof at the General Assembly.
+
+The election of the Individual Members Group Chair shall be done on the basis of one person, one vote, and shall require a majority of 50% of the votes. Otherwise, additional rounds of voting will be held, with the lowest performing candidate eliminated in each round, until a majority is achieved.
+
+The term of office for the Individual Members Group Chair shall be one year.
 
 # Candidacy
 
