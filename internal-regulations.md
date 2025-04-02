@@ -80,22 +80,22 @@ The President is responsible for:
 
 (a) chairing the meetings of the Bureau;
 (b) preparing the agenda for Bureau meetings in consultation with the Secretary General; 
-(c) managing external contacts together with the Secretary General;
+(c) managing external contacts;
 (d) ensuring a productive working environment within the Bureau;
-(e) ensuring that the Bureau is properly and fully informed at all times. 
-(f) the political discourse of IFLRY
+(e) ensuring that the Bureau is properly and fully informed at all times;
+(f) the political discourse of IFLRY;
 
 ### Secretary General
 The Secretary General is responsible for:
 
 (a) maintaining the membership administration;
-(b) implementing information and archive policies, as well as managing all related matters; 
+(b) implementing information and archive policies, as well as managing related matters; 
 (c) preparing minutes of Bureau meetings and General Assemblies; 
 (e) communication with the member organizations;
-(f) overseeing the IFLRY office;
+(f) overseeing the Office;
 (g) the internal day-to-day;
-(h) coordination the implementation of IFLRY;
-(i) coordination the implentation of statutory events;
+(h) coordinating the implementation of IFLRY events;
+(i) coordinating the implementation of statutory events;
 (j) statutory bureau deadlines;
 
 ### Treasurer
@@ -104,27 +104,27 @@ The Treasurer is responsible for:
 (a) collecting membership fees;
 (b) general financial policy;
 (c) preparing the annual financial report;
-(d) properly reporting on budget implementation to the Bureau and the Auditors, as often as deemed necessary, but at least once per quarter;
+(d) properly reporting on budget implementation to the auditors and the Bureau, as often as deemed necessary, but at least once per quarter;
 (e) facilitating financial audits;
-(f) managing internal and external privacy policies;
 
 ### Vice-presidents
 
-Vice-presidents are responsible but not limited to the following responsibilities, which shall be divided under the vice-presidents or optionally under the rest of the Bureau:
+Vice-presidents are responsible but not limited to the following responsibilities, which shall be divided under the Vice-presidents or optionally under the rest of the Bureau:
 
-(a) implentation of events; 
+(a) implementation of events; 
 (b) IFLRY programmes and Council;
 (c) fundraising and grantwriting
 (d) social media, communication and marketing;
-(e) developing non-formal education within IFLRY and creating new oppertunities; 
+(e) developing non-formal education within IFLRY and creating new opportunities; 
 (f) IFLRY community management;
+(g) managing internal and external privacy policies;
 
-Newly elected bureau members need to communicate their areas of responsibility to the IFLRY Member Organizations after the first Bureau meeting of their terms in office. Points a to f give an general overview of what the VP responsiblities could entail. The general aim is to give each VP a clear portfolio.
+Newly elected bureau members need to communicate their areas of responsibility to the IFLRY Member Organizations after the first Bureau meeting of their terms in office. Points a to g give an general overview of what the VP responsibilities could entail. The general aim is to give each Vice-president a clear portfolio.
 
-8 weeks before every Bureau Election the bureau will sent an offical proposal for the VP portofolios for next term. The official VP portfolio will be finalised during the first bureau meeting.
+8 weeks before every Bureau election, the Bureau will sent an offical proposal for the Vice-president portfolios for next term. The official Vice-president portfolio will be finalised during the first bureau meeting.
 
 ## Term {#bureau-term}
-The President, the Secretary General and Treasurer are elected for the period of two years until the next General Assembly. The four Vice Presidents are elected for the period of one year until the next General Assembly. Notwithstanding the right of the General Assembly to put the Bureau on question and to force Bureau Members to resign.
+The President, the Secretary General and Treasurer are elected for the period of two years until the next General Assembly. The four Vice-presidents are elected for the period of one year until the next General Assembly. Notwithstanding the right of the General Assembly to put the Bureau on question and to force Bureau Members to resign.
 
 ## Obligations {#bureau-obligations}
 
@@ -253,11 +253,14 @@ The Office shall submit a written report to the member organizations on its acti
 
 ## Nomination
 
-Full members in good standing have the right to nominate candidates for the positions in the Bureau, auditor and the Committee of Discipline and Arbitrage.
+A candidate must be nominated in order to be considered by the General Assembly for a position. Full members in good standing have the right to nominate candidates for the positions in the Bureau, auditor and the Committee of Discipline and Arbitrage.
 
 ## Eligibility
 
-Every member of a full member organisation can be nominated for a position in the Bureau, auditor, ombudsperson or the Committee of Discipline and Arbitrage. Bureau members and the ombudsperson must be between 18 and 35 years old when they are appointed. 
+Every member of IFLRY can be nominated for a position in the Bureau, auditor, ombudsperson or the Committee of Discipline and Arbitrage.
+
+### Age
+Bureau members and the ombudsperson must be between 18 and 35 years old when they are appointed. 
 
 ## Incompatibility of functions
 
@@ -297,7 +300,7 @@ The General Assembly shall approve a Code of Conduct. The approved Code of Condu
 
 # Crisis Management
 
-A crisis is an exceptional situation that significantly disrupts IFLRY's ability to function, requiring urgent action.
+A crisis is an exceptional situation that significantly disrupts IFLRY's ability to function, requiring urgent action. The Bureau together with the Advisory Council has the right to declare a crisis.
 
 ## Global Crises
 
@@ -319,7 +322,7 @@ An internal financial crisis occurs when IFLRY lacks the necessary funds to sust
 
 ## Statutory meetings
 
-Elections may only be postponed in the event of a global crisis that makes holding a fair elections impossible.
+Elections may only be postponed in the event of a global crisis that makes holding fair elections impossible.
 
 In the event of a crisis, it is expected that statutory meetings will be moved online, ensuring organizational continuity.
 
@@ -340,11 +343,10 @@ Member organizations and affiliates may use the IFLRY logo and name in accordanc
 ## Protection and Enforcement
 The Bureau is responsible for overseeing the appropriate use of IFLRY's intellectual property. Unauthorized or misleading use of IFLRY's name or logo may result in corrective action. Any disputes concerning the use of IFLRY's intellectual property shall be reviewed by the Bureau.
 
-
 # Data Protection
 
 The association is committed to protecting personal data in line with applicable laws. Personal data will only be collected for legitimate purposes and kept secure.
 
 ## Data Protection Officer
 
-The Bureau will appoint a Data Protection Officer (DPO) to oversee data protection practices. The DPO will ensure data is handled securely, especially for sensitive information like visa applications.
+The Bureau will appoint a Data Protection Officer (DPO) to oversee data protection practices. The DPO will ensure data is handled securely, especially for sensitive information like visa applications. The data protection officer will be responsible for overseeing the internal and external privacy policies and will write a yearly report on their activities and findings to the General Assembly.

@@ -10,17 +10,7 @@ The General Assembly is the highest decision-making body of the Federation. At t
 The Bureau must announce the date, time and location within at least three months before the General Assembly. An invitation for the General Assembly must be circulated eight weeks prior to the General Assembly to the members via e-mail.
 
 ## Languages {#gen-lang}
-The official languages of the association shall be English, French, and Spanish. In the case that no translation facilities are available the working language will be English.
-
-## Interpretation
-
-The interpretation of this document shall be subject to the ruling of the General Assembly. Where the Statutes, the Rules of Procedure or Internal Regulations cannot be applied, the General Assembly decides. In cases of contradiction between the Rules of Procedure and the Statutes of the association, the Statutes take precedence.
-
-## Amendments
-
-Every proposal that aims to change this document must be submitted to the Office at least four weeks prior to the General Assembly, or one week after the announcement of an Extraordinary General Assembly. The proposal is adopted if decided by a two-thirds majority.
-
-All changes to this document take effect immediately after the end of the General Assembly in which they are adopted.
+The General Assembly should use the official languages of the Federation. In the case that no translation facilities are available the working language will be English.
 
 # Membership Rights {#mem-rights}
 
@@ -122,7 +112,7 @@ In elections where multiple rounds of voting are required, successive rounds sha
 The agenda of the statutory event may include proposals and reports. The agenda will be proposed to the membership four weeks before the General Assembly.
 
 ## Organizational Proposals {#ga-org-proposals}
-Items which propose a change from the status quo. This can include, but is not limited to, organizational motions, the budget proposal, and amendments to the statutory documents. The deadline for submitting organizational proposals is four weeks before the Statutory Meeting.
+Items which propose a change from the status quo. This can include, but is not limited to, organizational motions, the budget proposal, and amendments to the statutory documents. The deadline for submitting organizational proposals is four weeks before the Statutory Meeting or one week after the announcement of an Extraordinary General Assembly.
 
 ## Political Proposals {#ga-political-proposals}
 Items which propose a change from the status quo. This can include, but is not limited to, resolutions and amendments to Manifesto. Except for the Manifesto proposals, the deadline for submitting proposals is two weeks before the General Assembly, and shall be made available to the member organizations no later than one week before the General Assembly. Manifesto proposals must be submitted four weeks before the General Assembly, and shall be made available to the member organizations no later than one week before the General Assembly.
@@ -215,4 +205,4 @@ The decisions of the General Assembly shall be entered in the minutes and will b
 
 In the case of an Extraordinary General Assembly, no decisions on items not mentioned on the agenda can be taken.
 
-The minutes will be approved by the next General Assembly.
+The minutes should be up for approval by the next General Assembly.

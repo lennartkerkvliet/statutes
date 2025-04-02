@@ -24,7 +24,7 @@ The statutory governing documents of the association are, in order of precedence
 * **Rules of Procedure**, 
 * **Internal Regulations**. 
 
-The Statutes provide a broad overview of the structure and purpose of the association. The Rules of Procedure set out the organisational procedures including meetings, voting and decision making processes of the association. The Internal Regulations govern the behaviours, rights and responsibilities of members.
+The Statutes provide a broad overview of the structure and purpose of the association. The Rules of Procedure set out the organisational procedures including meetings, voting and decision making processes of the association. The Internal Regulations govern the behaviours, rights and responsibilities of members. Where the statutory documents cannot be applied, the General Assembly decides.
 
 <!-- NOTE : How do we include this -->
 <!-- **Membership Fee Statute** -->
