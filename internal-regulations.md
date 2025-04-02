@@ -24,6 +24,10 @@ All changes to the membership will be added to a Membership Register, which is u
 
 Observer status is valid for two years and needs to be renewed every two years. It will automatically be renewed if the organization is in good standing, otherwise it should be renewed by the General Assembly.
 
+### Individual Membership Vetting Committee
+
+Admission to the Individual Members Group shall be determined by an Individual Membership Vetting Committtee, consisting of two or more committee members selected by the Bureau and serving at the pleasure thereof.
+
 ## Qualifying criteria
 
 ### Full membership {#full-membership}
@@ -52,9 +56,11 @@ Everyone, aged between 18 and 35 years, who broadly agree with the Manifesto and
 
 ## Suspension
 
-During suspension, an organization will lose its rights but keep its obligations as stated in the statutes. Members of the Federation may be temporarily suspended if the targeted member organization is suspected of breaching any of the membership obligations. A motion to suspend a member can be submitted by the Bureau or two full members and needs to be submitted four weeks prior to the start of the General Assembly. Members need to be informed about this motion three weeks prior to the start of the statutory event.
+During suspension, an organization or individual member will lose its rights but keep its obligations as stated in the statutes. Members of the Federation may be temporarily suspended if the targeted member organization is suspected of breaching any of the membership obligations. A motion to suspend a member can be submitted by the Bureau or two full members and needs to be submitted four weeks prior to the start of the General Assembly. Members need to be informed about this motion three weeks prior to the start of the statutory event.
 
 The suspension from the Federation is to be decided by a two-thirds majority. Each suspension is valid for a maximum of one year and may be revoked at any time by the relevant statutory body.
+
+An individual member who is not in good financial standing is automatically considered suspended until such time that they are in good standing again.
 
 ## Termination
 
@@ -68,6 +74,8 @@ A request for voluntary resignation by a member organization needs to be filed w
 Members need to be informed about this motion three weeks prior to the start of the statutory event. The Bureau is required to put forward a motion confirming the expulsion of any member which has retained candidate membership status for four years.
 
 The expulsion from the association is to be decided by a two-thirds majority of those present and voting at the General Assembly. Members that are no longer part of the association have no rights to the financial assets.
+
+An individual member can terminate their membership by simple declaration to the secretariat or Individual Membership Committee.
 
 # Bureau
 
@@ -207,6 +215,14 @@ If an AC member fails to attend more than three AC meetings in a row, without ex
 Moreover, the AC can also call a vote to suspend an AC member if that member has become a serious liability to IFLRY's reputation, is suspected of some serious misconduct, or is suspected of fraudulent behaviour. Such a vote can be called for by any AC member and has to be announced to the Bureau and MOs at least two weeks before the AC vote for suspension. The announcement has to include the grounds on which the AC member(s) believe this paragraph to be applicable. For this vote, the member who is proposed to be suspended has no vote, and the vote is carried if and only if no present AC member votes against it, and a majority of AC members' votes cast being in favour (counting present abstentions as votes cast).
 
 A suspension removes an AC member from their position up to and including the next GA. In a case where the suspension still stands, there will be a vote of no confidence against the suspended member organised as per the Rules of Procedure at the next General Assembly. If the motion of no-confidence fails the member is reinstated. If a motion of no-confidence is carried out, a replacement will be appointed by the GA as per the Rules of Procedure.
+
+# Individual Membership Group {#img}
+
+Members of the Individual Members’ Group shall be considered individual members of IFLRY, and shall have the rights thereof at the General Assembly.
+
+The election of the Individual Members Group Chair shall be done on the basis of one person, one vote, and shall require a majority of 50% of the votes. Otherwise, additional rounds of voting will be held, with the lowest performing candidate eliminated in each round, until a majority is achieved.
+
+The term of office for the Individual Members Group Chair shall be one year.
 
 # Auditors {#auditors}
 It is the responsibility of the auditors to make their annual report available once a year to the member organizations two weeks before the General Assembly takes place.
