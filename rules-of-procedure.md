@@ -112,7 +112,7 @@ In elections where multiple rounds of voting are required, successive rounds sha
 The agenda of the statutory event may include proposals and reports. The agenda will be proposed to the membership four weeks before the General Assembly.
 
 ## Organizational Proposals {#ga-org-proposals}
-Items which propose a change from the status quo. This can include, but is not limited to, organizational motions, the budget proposal, and amendments to the statutory documents. The deadline for submitting organizational proposals is four weeks before the Statutory Meeting or one week after the announcement of an Extraordinary General Assembly.
+Items which propose a change from the status quo. This can include, but is not limited to, organizational motions, the budget proposal, and amendments to the statutory documents. The deadline for submitting organizational proposals is four weeks before the Statutory Meeting or one week after the announcement of an Extraordinary General Assembly, whichever gives the member organizations more time.
 
 ## Political Proposals {#ga-political-proposals}
 Items which propose a change from the status quo. This can include, but is not limited to, resolutions and amendments to Manifesto. Except for the Manifesto proposals, the deadline for submitting proposals is two weeks before the General Assembly, and shall be made available to the member organizations no later than one week before the General Assembly. Manifesto proposals must be submitted four weeks before the General Assembly, and shall be made available to the member organizations no later than one week before the General Assembly.
