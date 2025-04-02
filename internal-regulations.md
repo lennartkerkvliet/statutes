@@ -134,6 +134,8 @@ Newly elected bureau members need to communicate their areas of responsibility t
 ## Term {#bureau-term}
 The President, the Secretary General and Treasurer are elected for the period of two years until the next General Assembly. The four Vice-presidents are elected for the period of one year until the next General Assembly. Notwithstanding the right of the General Assembly to put the Bureau on question and to force Bureau Members to resign.
 
+Elections shall be held at the first General Assembly of the calendar year corresponding with the end of the Bureau members’ term. Notice of elections shall be given concurrently with notice of the GA.
+
 ## Obligations {#bureau-obligations}
 
 ### Action Plan {#bureau-action-plan}
