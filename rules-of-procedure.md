@@ -137,6 +137,8 @@ Only amendments that are submitted 24 hours prior to the opening of the meeting 
 Secondary amendments can be dealt with on the spot, if the respective Standing Committee agrees by simple majority.
 
 # Standing Committees {#ga-standing-committees}
+Standing Committees will meet at each General Assembly and give a recommendation on proposals to the GA. Each Committee shall consist of one delegate from each full and associate member organisation, selected pursuant to each organisation's own procedures. The Bureau shall be represented at each Standing Committee in a non-voting capacity. 
+
 There are four Standing Committees which shall convene at each General Assembly, provided there are issues to discuss: Finances; Membership; Resolutions and Manifesto; and Statutory Documents. The role of the Standing Committees is to deliberate the issues in depth and to deliver a recommendation to the General Assembly.
 
 In each Standing Committee, the member organizations have one vote each, and only one delegate per member organization may contribute to the discussion and vote of each Standing Committee.
