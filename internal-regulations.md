@@ -136,6 +136,8 @@ The President, the Secretary General and Treasurer are elected for the period of
 
 Elections shall be held at the first General Assembly of the calendar year corresponding with the end of the Bureau members’ term. Notice of elections shall be given concurrently with notice of the GA.
 
+In case of a resignation of a Bureau member, the Bureau has the power to appoint a replacement in a non-voting capacity until the next General Assembly, provided there is no meeting of the General Assembly in the following 30 days.
+
 ## Obligations {#bureau-obligations}
 
 ### Action Plan {#bureau-action-plan}
