@@ -103,7 +103,7 @@ The Treasurer is responsible for:
 
 (a) collecting membership fees;
 (b) general financial policy;
-(c) preparing the annual financial report;
+(c) preparing the annual financial report and interim financial reports;
 (d) properly reporting on budget implementation to the auditors and the Bureau, as often as deemed necessary, but at least once per quarter;
 (e) facilitating financial audits;
 
@@ -140,6 +140,12 @@ If there is more than one statutory meeting every year, the Bureau will present 
 
 ### Bureau Reports {#bureau-reports}
 The Bureau is required to submit a written report to the member organizations on its activities four weeks before the start of the General Assembly. This report will reflect the work carried out by each individual Bureau member and will be presented at the General Assembly.
+
+### Financial Report {#bureau-financial-report}
+
+The Treasurer is required to submit an annual financial report to a General Assembly, and interim financial reports for every other General Assembly.
+
+The financial reports must include a list of organizations in good standing with the federation, and the date on which every member organization in good standing fulfilled an annual membership fee obligation used to determine good standing. The financial report must also include the current balance of all bank accounts.
 
 ## Suspension
 
@@ -257,7 +263,7 @@ A candidate must be nominated in order to be considered by the General Assembly 
 
 ## Eligibility
 
-Every member of IFLRY can be nominated for a position in the Bureau, auditor, ombudsperson or the Committee of Discipline and Arbitrage.
+Anyone broadly agreeing with the manifesto of IFLRY can be nominated for a position in the Bureau, auditor, ombudsperson or the Committee of Discipline and Arbitrage.
 
 ### Age
 Bureau members and the ombudsperson must be between 18 and 35 years old when they are appointed. 
@@ -272,7 +278,7 @@ Being a Bureau member is incompatible with:
 (c) Membership in the Advisory Council
 (d) Membership in the Office
 (e) Membership in the Committee of Discipline and Arbitrage
-(f) Acting as a delegate of a (voting) member organization
+(f) Acting as a delegate of a (voting) member organization, unless otherwise specified in [article](#delegate-incompatibility)
 
 ### Auditor
 Being an auditor is incompatible with being a Bureau member, as well as with points d and f of [article](#bureau-member-incompatibility).
@@ -291,8 +297,8 @@ Membership in the Office is incompatible with being a Bureau member, as well as 
 ### Committee of Discipline and Arbitrage
 Membership in the Committee of Discipline and Arbitrage is incompatible with being a Bureau member, as well as with points b, c and d of [article](#bureau-member-incompatibility).
 
-### Acting as a delegate
-Acting as a delegate is incompatible with being a Bureau member, as well as with points a, b, c, d and f of [article](#bureau-member-incompatibility).
+### Acting as a delegate {#delegate-incompatibility}
+Acting as a delegate is incompatible with being a Bureau member, as well as with points a, b, c, d and f of [article](#bureau-member-incompatibility). A Bureau member may act as a delegate of a voting member organization, only if no other delegate from that member organization is present at the General Assembly.
 
 # Code of Conduct {#code-of-conduct}
 
@@ -322,7 +328,7 @@ An internal financial crisis occurs when IFLRY lacks the necessary funds to sust
 
 ## Statutory meetings
 
-Elections may only be postponed in the event of a global crisis that makes holding fair elections impossible.
+Elections may only be postponed in the event of a global crisis that makes holding fair elections, either online or in-person, impossible.
 
 In the event of a crisis, it is expected that statutory meetings will be moved online, ensuring organizational continuity.
 
