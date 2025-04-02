@@ -298,7 +298,7 @@ Membership in the Office is incompatible with being a Bureau member, as well as 
 Membership in the Committee of Discipline and Arbitrage is incompatible with being a Bureau member, as well as with points b, c and d of [article](#bureau-member-incompatibility).
 
 ### Acting as a delegate {#delegate-incompatibility}
-Acting as a delegate is incompatible with being a Bureau member, as well as with points a, b, c, d and f of [article](#bureau-member-incompatibility). A Bureau member may act as a delegate of a voting member organization, only if no other delegate from that member organization is present at the General Assembly.
+Acting as a delegate is incompatible with being a Bureau member, as well as with points a, b, c, d and f of [article](#bureau-member-incompatibility). A Bureau member may act as a delegate of a voting member organization, only if no other delegate from that member organization is present at the General Assembly, but may not speak on behalf of the member organization.
 
 # Code of Conduct {#code-of-conduct}
 
@@ -328,11 +328,11 @@ An internal financial crisis occurs when IFLRY lacks the necessary funds to sust
 
 ## Statutory meetings
 
-Elections may only be postponed in the event of a global crisis that makes holding fair elections, either online or in-person, impossible.
-
 In the event of a crisis, it is expected that statutory meetings will be moved online, ensuring organizational continuity.
 
 The decision to move a meeting online must be made by the Bureau based on objective criteria and communicated transparently to member organizations.
+
+Elections may only be postponed in the event of a global crisis that makes holding fair elections, either online or in-person, impossible.
 
 ### Prevention
 

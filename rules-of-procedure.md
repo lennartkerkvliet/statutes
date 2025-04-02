@@ -9,6 +9,12 @@ The General Assembly is the highest decision-making body of the Federation. At t
 
 The Bureau must announce the date, time and location within at least three months before the General Assembly. An invitation for the General Assembly must be circulated eight weeks prior to the General Assembly to the members via e-mail.
 
+## Format
+
+The General Assembly may be held either in-person or online. The General Assembly is expected to meet in-person unless otherwise specified in the Internal Regulations. In the case of an Extraordinary General Assembly, the Bureau shall determine the format.
+
+When a General Assembly is held in person, online participation should be facilitated to the extent possible.
+
 ## Languages {#gen-lang}
 The General Assembly should use the official languages of the Federation. In the case that no translation facilities are available the working language will be English.
 
@@ -83,9 +89,7 @@ The President, the Secretary General and the Treasurer shall be elected by simpl
 In each of the additional rounds, those who receive the least number of votes, in such a way that even if the votes of those who received less than them could be added to their votes would not change their position, will not participate in the next round.
 
 ## Vice President Elections {#ga-elections-vp}
-The Vice Presidents of the organization shall be elected using the single transferable vote system (STV), in a way that safeguards the anonymity of votes. Each marked candidate will receive one vote. Each member organization must vote on the same number of candidates as the number of positions that must be filled. Voting ballots that do not have the full number of candidates as positions that must be filled will be counted as invalid. The 4 candidates with the most votes are elected in the order of the amount of votes. Only candidates reaching the quorum defined by the following formula are elected: $\frac{1}{\text{the positions available for election} + 1}$ will be eligible for election, meaning i.e. that for four Vice President positions the quorum will be $\frac{1}{4 + 1} = 20\%$ of the total votes possible. For three positions the formula will be $\frac{1}{3 + 1} = 25\%$ of the total votes possible. For two positions the quorum will be $\frac{1}{2 + 1} = 33.33\%$ of the total votes possible. In case of only one vacant position for a round of election, the principle of simple majority shall be used, as is the case with the positions of President, Secretary General and Treasurer as well.  
-
-In case that there are not enough candidates reaching the quorum of the votes, a new round of voting will be held for the remaining place(s). If there are not enough candidates reaching the quorum in the second round of voting, the position will remain vacant until a new call for elections is issued at the next General Assembly. If there are more selections on the ballot paper than the number of the Vice President positions to be elected, the ballot paper is considered invalid. The ballot will also be invalid if it is not possible to identify the names on the ballot. If candidates receive an equal number of votes and it remains unclear which candidates shall be elected, then a second round of voting between these candidates is to be conducted using the above mentioned procedure. Should in this second round of voting, an equal number of votes remain, then lots will be drawn to determine the winner.
+The Vice Presidents of the organization shall be elected using the single transferable vote system (STV), in a way that safeguards the anonymity of votes.
 
 ## Auditor Elections {#ga-elections-auditor}
 For the election of auditors, the ballot can be filled with one or two names. Each name will count   as one vote. It is not possible to give more than one vote to one candidate on each ballot. The two candidates who received the highest number of votes shall be elected Auditors. In case of resignation of an Auditor, the next person on the last Auditor election results list sorted on highest number of votes will replace the vacancy.
@@ -180,6 +184,8 @@ put to a vote.
 These points shall be limited to:
 
 (a) points of order, which is a request from the floor that seeks to remind or correct the Chair on the issue of the standing orders, and shall be decided upon immediately by the Chair when raised;
+(b) points of information should be used to inform the speaker and the assembly of Information that they believe is necessary to the current proceedings and may be taken at the discretion of the speaker;
+(c) points of privilege, which is a request to address a discomfort or issue that hinders the proper participation of someone from the floor.
 
 If the Chair deems an individual to be abusing their right to raise Procedural Points, the Chair should ask the individual to refrain from raising them until proceedings have moved on.
 
