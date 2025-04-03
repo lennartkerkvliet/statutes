@@ -320,7 +320,7 @@ Membership in the Office is incompatible with being a Bureau member, as well as 
 Membership in the Committee of Discipline and Arbitrage is incompatible with being a Bureau member, as well as with points b, c and d of [article](#bureau-member-incompatibility).
 
 ### Acting as a delegate {#delegate-incompatibility}
-Acting as a delegate is incompatible with being a Bureau member, as well as with points a, b, c, d and f of [article](#bureau-member-incompatibility). A Bureau member may act as a delegate of their own voting member organisation, only if no other delegate from that member organisation is present at the General Assembly, but may not speak on behalf of the member organisation.
+Acting as a delegate is incompatible with being a Bureau member, as well as with points a, b, c, d and f of [article](#bureau-member-incompatibility). A Bureau member may act as a delegate of their voting member organisation, only if no other delegate from that member organisation is present at the General Assembly, but may never speak on behalf of the member organisation.
 
 # Code of Conduct {#code-of-conduct}
 
