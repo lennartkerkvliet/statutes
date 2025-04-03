@@ -231,13 +231,13 @@ The Ombudsperson shall serve as guardian to protect the interests of the Federat
 
 The Ombudsperson shall produce an annual report presented at the General Assembly. It is the responsibility of the Ombudsperson to make their annual report available once a year to the member organisations two weeks before the General Assembly takes place.
 
-The Ombudsperson shall be nominated by the [Committee of Discipline and Arbitrage](#cod).
+The Ombudsperson shall be nominated by the [Committee of Discipline and Arbitration](#cod).
 
-# Committee of Discipline and Arbitrage {#cod}
+# Committee of Discipline and Arbitration {#cod}
 
 ## Composition
 
-The Committee of Discipline and Arbitrage shall be composed of 3 members, serving terms of two years. 
+The Committee of Discipline and Arbitration shall be composed of 3 members, serving terms of two years. 
 
 ## Vacancies 
 
@@ -245,7 +245,7 @@ Vacancies shall be filled through co-option by the Advisory Council in conjuncti
 
 ## Jurisdiction 
 
-In order to legitimately deliberate a case, the Committee of Discipline and Arbitrage must be called upon by the Bureau, by a full or associate member organisation, by a participant of an official IFLRY event, or by the Ombudsperson.
+In order to legitimately deliberate a case, the Committee of Discipline and Arbitration must be called upon by the Bureau, by a full or associate member organisation, by a participant of an official IFLRY event, or by the Ombudsperson.
 
 The committee shall base its decisions based on the guidelines for behaviour outlined in the [Code of Conduct](#code-of-conduct), however it ultimately has discretion to use its own best judgement on issues that the Code of Conduct does not comprehensively cover.
 
@@ -281,11 +281,11 @@ The term of office for the Individual Members Group Chair shall be one year.
 
 ## Nomination
 
-A candidate must be nominated in order to be considered by the General Assembly for a position. Full members in good standing have the right to nominate candidates for the positions in the Bureau, auditor and the Committee of Discipline and Arbitrage.
+A candidate must be nominated in order to be considered by the General Assembly for a position. Full members in good standing have the right to nominate candidates for the positions in the Bureau, auditor and the Committee of Discipline and Arbitration.
 
 ## Eligibility
 
-Anyone broadly agreeing with the Manifesto of IFLRY can be nominated for a position in the Bureau, auditor, Ombudsperson or the Committee of Discipline and Arbitrage.
+Anyone broadly agreeing with the Manifesto of IFLRY can be nominated for a position in the Bureau, auditor, Ombudsperson or the Committee of Discipline and Arbitration.
 
 ### Age
 Bureau members and the ombudsperson must be between 18 and 35 years old when they are appointed. 
@@ -299,7 +299,7 @@ Being a Bureau member is incompatible with:
 (b) Being an ombudsperson
 (c) Membership in the Advisory Council
 (d) Membership in the Office
-(e) Membership in the Committee of Discipline and Arbitrage
+(e) Membership in the Committee of Discipline and Arbitration
 (f) Acting as a delegate of a (voting) member organisation, unless otherwise specified in [article](#delegate-incompatibility)
 
 ### Auditor
@@ -316,8 +316,8 @@ Membership in the Advisory Council is incompatible with being a Bureau member, a
 ### Office
 Membership in the Office is incompatible with being a Bureau member, as well as with points a, b, c, d, e and f of [article](#bureau-member-incompatibility).
 
-### Committee of Discipline and Arbitrage
-Membership in the Committee of Discipline and Arbitrage is incompatible with being a Bureau member, as well as with points b, c and d of [article](#bureau-member-incompatibility).
+### Committee of Discipline and Arbitration
+Membership in the Committee of Discipline and Arbitration is incompatible with being a Bureau member, as well as with points b, c and d of [article](#bureau-member-incompatibility).
 
 ### Acting as a delegate {#delegate-incompatibility}
 Acting as a delegate is incompatible with being a Bureau member, as well as with points a, b, c, d and f of [article](#bureau-member-incompatibility). A Bureau member may act as a delegate of their voting member organisation, only if no other delegate from that member organisation is present at the General Assembly, but may never speak on behalf of the member organisation.

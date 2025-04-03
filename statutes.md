@@ -126,9 +126,9 @@ There shall be two auditors, who shall be elected at a General Assembly for a pe
 # Ombudsperson
 The Ombudsperson shall monitor any cases of disagreement or conflict, ill-treatment, or abuse of power and authority within any part of the Federation. The role of the Ombudsperson is bound by strict rules of confidentiality and shall be executed with full integrity, impartiality, and with respect to due process, dignity, and liberal values.
 
-# Committee of Discipline and Arbitrage
+# Committee of Discipline and Arbitration
 
-The Committee of Discipline and Arbitrage shall be composed of three members selected by the Bureau and approved by the General Assembly for a two year mandate. The Committee of Discipline and Arbitrage shall be competent for any disciplinary issue not falling within the scope of the explicit rights of the General Assembly, for any dispute between two member organisations, for any dispute between the Bureau and a member of IFLRY, and for a dispute between participants of an official IFLRY event.
+The Committee of Discipline and Arbitration shall be composed of three members selected by the Bureau and approved by the General Assembly for a two year mandate. The Committee of Discipline and Arbitration shall be competent for any disciplinary issue not falling within the scope of the explicit rights of the General Assembly, for any dispute between two member organisations, for any dispute between the Bureau and a member of IFLRY, and for a dispute between participants of an official IFLRY event.
 
 # Administration
 
