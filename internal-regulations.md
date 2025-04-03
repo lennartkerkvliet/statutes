@@ -326,6 +326,28 @@ Acting as a delegate is incompatible with being a Bureau member, as well as with
 
 The General Assembly shall approve a Code of Conduct. The approved Code of Conduct shall be added to the appendix of the Statutory documents. Event participants, individuals from member organisations, or from staff can turn to (individually or collectively) the Ombudsperson to report on cases of perceived breach of the Code of Conduct.
 
+# Honorary Members {#honorary-members}
+
+Honorary membership is a special status that may be granted to individuals who have made exceptional contributions to IFLRY and/or to the advancement of liberal values globally. Status is granted for life.
+
+## Nomination
+
+Elegible individuals can be nominated following a recommendation by the Bureau or at least eight member organizations.
+
+Recognitions must be granted by a two-thirds majority ofthe General Assembly and must be explicitly accepted by the individual.
+
+## Eligibility
+
+Members of membership organizations, including former members, are eligible for recognition provided their access has not been terminated on the grounds defined in the Code of Conduct.
+
+## Rights and privileges
+
+Individuals who have received honorary membership receive the same rights as individual members, except for the right to vote, provided they no longer meet the requirements for membership of the association. Furthermore, those who have received honorary membership are subject to the same obligations as members, except for the obligation to pay dues, provided they no longer meet the requirements for membership of the association.
+
+## Revocation
+
+Revocation may be decided by the General Assembly, subject to a two-thirds majority requirement.
+
 # Crisis Management
 
 A crisis is an exceptional situation that significantly disrupts IFLRY's ability to function, requiring urgent action. The Bureau together with the Advisory Council has the right to declare a crisis.
