@@ -183,6 +183,8 @@ The AC will elect a chair after every change in its membership, or whenever it s
 ## Term
 A member of the AC is elected for a period of two years until the next General Assembly. A member can then decide on their own to serve another term. This decision has to be confirmed by the General Assembly. They can however serve no more than two consecutive terms.
 
+The Advisory council will propose new members to the General Assembly whenever an Advisory Council position becomes vacant. 
+
 ## Responsibilities
 
 ### Action Plan

@@ -99,7 +99,7 @@ The Vice Presidents of the organization shall be elected using the single transf
 For the election of auditors, the ballot can be filled with one or two names. Each name will count   as one vote. It is not possible to give more than one vote to one candidate on each ballot. The two candidates who received the highest number of votes shall be elected Auditors. In case of resignation of an Auditor, the next person on the last Auditor election results list sorted on highest number of votes will replace the vacancy.
 
 ## Advisory Council Appointments {#ga-ac-appointment}
-For the appointment of the first Advisory Council, Advisory Council members will be proposed by the Bureau to the General Assembly. After that, the Advisory council will propose new members to the General Assembly whenever an Advisory Council position becomes vacant. In both cases, they will be appointed by the General Assembly through a simple majority vote.
+Advisory Council members will be appointed by the General Assembly through a simple majority vote.
 
 ## Expulsion and Replacement {#ga-elections-expulsion}
 It is the right of a General Assembly, both ordinary and extraordinary, to put the mandate of an elected person in question and to terminate that mandate following a motion of no-confidence with a two-thirds majority.
