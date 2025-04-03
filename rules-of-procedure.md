@@ -102,7 +102,7 @@ For the election of auditors, the ballot can be filled with one or two names. Ea
 Advisory Council members will be appointed by the General Assembly through a simple majority vote.
 
 ## Expulsion and Replacement {#ga-elections-expulsion}
-It is the right of a General Assembly, both ordinary and extraordinary, to put the mandate of an elected person in question and to terminate that mandate following a motion of no-confidence with a two-thirds majority.
+It is the right of a General Assembly, both ordinary and extraordinary, to put the mandate of an elected person in question and to terminate that mandate following a motion of no-confidence. A motion of no-confidence requires a two-thirds majority vote to pass, unless it was submitted as an organisational proposal four weeks before the General Assembly, in which case it can pass with a simple majority vote.
 
 Following the expulsion of an elected person it is the right of the General Assembly to immediately elect a replacement. The newly elected Bureau member or auditor will have a period of mandate that expires at the next General Assembly, where, would the mandate of the expelled Bureau member or auditor have originally not been elapsed yet, an election will be held for that position with a term that lasts until the end of the term of the expelled Bureau member or auditor.
 
