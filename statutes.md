@@ -53,7 +53,7 @@ IFLRY has the following voting methods:
 
 Unless specified otherwise, all decisions made by the bodies defined in these statutes shall be made by simple majority.
 
-Abstaining from voting is always allowed. Both actively abstaining, where the abstention is specifically communicated, as well as passive abstensions, where a voting member of a body is counted as present but refrains from voting, are treated identically.
+Abstaining from voting is always allowed. Both actively abstaining, where the abstention is specifically communicated, as well as passive abstentions, where a voting member of a body is counted as present but refrains from voting, are treated identically.
 
 # Membership
 
@@ -69,11 +69,9 @@ IFLRY is composed of five types of member organisations:
 ## Membership Admission
 All national youth or national student organisations in agreement with the aims of IFLRY (as described in [article](#aim)) and the **Manifesto** are welcome to apply for full or associate membership status. Similarly, international youth organisations representing a coherent region of the world and satisfying the same requirements are welcome to apply for regional membership status. Organisations that do not fit these criteria may instead apply for observer membership.
 
-The Individual Members Group (IMG) is a distinct entity which collectively holds membership in its own right. Admission to the IMG is granted by an **Individual Members Vetting Committee** (IMVC) appointed by the Bureau.
+The Individual Members Group (IMG) is a distinct entity which collectively holds membership in its own right. Admission to the IMG is granted by an **Individual Membership Vetting Committee** (IMVC) appointed by the Bureau.
 
 Full membership can be granted by an absolute two-thirds majority of Full Members present at the General Assembly. Regional membership can be granted by an absolute two-thirds majority vote of the General Assembly. Associate membership can be granted by an absolute majority vote of the General Assembly. Observer membership can be granted by a simple majority vote of the General Assembly. 
-
-<!-- ## TODO: add Voting Rights of Members -->
 
 ## Membership Obligations {#mem-obligations} 
 All members commit themselves to fulfilling both of the following membership obligations:
@@ -108,12 +106,12 @@ An Extraordinary General Assembly can be called by a simple majority by the Bure
 ## The Bureau {#bureau}
 
 ### General
-The IFLRY Bureau consists of seven Bureau members elected by a General Assembly. The **Managing Bureau** consists of three Bureau members: **President**, **Secretary General**, and **Treasurer** who shall serve as the Board of Directors (Organe d’Administration) under Belgian Law. The **Extended Bureau** consists of up to four **Vice Presidents**. The Managing Bureau will be elected for a period of two years; the Vice Presidents will be elected for a period of one year. The election and responsibilities of the Bureau are described further in the Rules of Procedure.
+The IFLRY Bureau consists of seven Bureau members elected by a General Assembly. The **Managing Bureau** consists of three Bureau members: **President**, **Secretary General**, and **Treasurer** who shall serve as the Board of Directors (Organe d'Administration) under Belgian Law. The **Extended Bureau** consists of up to four **Vice Presidents**. The Managing Bureau will be elected for a period of two years; the Vice Presidents will be elected for a period of one year. The election and responsibilities of the Bureau are described further in the Rules of Procedure.
 
-The Bureau is responsible for the day-to-day management of the Federation and for the control of all its resources. The Bureau has to report to the General Assembly. Regional Member Organizations can appoint Regional Bureau Appointees. Regional Bureau Appointees do not have voting rights in the Bureau.
+The Bureau is responsible for the day-to-day management of the Federation and for the control of all its resources. The Bureau has to report to the General Assembly. Regional Member Organisations can appoint Regional Bureau Appointees. Regional Bureau Appointees do not have voting rights in the Bureau.
 
 ### Suspension and Resignation 
-Individual Bureau Members can be suspended from their Bureau. They can also be forced to resign by the General Assembly. The details of this process are explained in the Rules of Procedures.
+Individual Bureau Members can be suspended from their Bureau. They can also be forced to resign by the General Assembly. The details of this process are explained in the Rules of Procedure.
 
 ### Legal Status
 The association shall be represented towards third parties and in legal matters by at least two members of the Managing Bureau acting jointly, unless otherwise specified by the Statutes or Belgian law.
@@ -126,11 +124,11 @@ The Advisory Council is appointed by the general assembly to advise the Bureau. 
 There shall be two auditors, who shall be elected at a General Assembly for a period of two years. They are responsible for examining the accounts and general finances of the Federation and assessing how the Bureau has carried out the decisions taken by the General Assembly. They shall produce a report at least annually which is presented to the General Assembly.
 
 # Ombudsperson
-The ombudsperson shall monitor any cases of disagreement or conflict, ill-treatment, or abuse of power and authority within any part of the Federation. The role of the Ombudsperson is bound by strict rules of confidentiality and shall be executed with full integrity, impartiality, and with respect to due process, dignity, and liberal values.
+The Ombudsperson shall monitor any cases of disagreement or conflict, ill-treatment, or abuse of power and authority within any part of the Federation. The role of the Ombudsperson is bound by strict rules of confidentiality and shall be executed with full integrity, impartiality, and with respect to due process, dignity, and liberal values.
 
 # Committee of Discipline and Arbitrage
 
-The Discipline and Arbitrage Committee shall be composed of three members selected by the Bureau and approved by the General Assembly for a two year mandate. The Discipline and Arbitrage Committee shall be competent for any disciplinary issue not falling within the scope of the explicit rights of the General Assembly, for any dispute between two member organisations, for any dispute between the Bureau and a member of IFLRY, and for a dispute between participants of an official IFLRY events.
+The Discipline and Arbitrage Committee shall be composed of three members selected by the Bureau and approved by the General Assembly for a two year mandate. The Discipline and Arbitrage Committee shall be competent for any disciplinary issue not falling within the scope of the explicit rights of the General Assembly, for any dispute between two member organisations, for any dispute between the Bureau and a member of IFLRY, and for a dispute between participants of an official IFLRY event.
 
 # Administration
 
@@ -148,7 +146,7 @@ Every proposal that aims to dissolve the Federation must be put forward by the B
 
 The General Assembly will determine in which manner the Federation is dissolved and in which manner the dissolution is settled. 
 
-In case of dissolution, any remaining net assets of the AISBL shall be allocated to one or more non-profit organizations with similar purposes, as determined by the General Assembly. Under no circumstances may the assets be returned to members or used for their benefit.
+In case of dissolution, any remaining net assets of the AISBL shall be allocated to one or more non-profit organisations with similar purposes, as determined by the General Assembly. Under no circumstances may the assets be returned to members or used for their benefit.
 
 
 
