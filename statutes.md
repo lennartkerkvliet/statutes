@@ -128,7 +128,7 @@ The Ombudsperson shall monitor any cases of disagreement or conflict, ill-treatm
 
 # Committee of Discipline and Arbitrage
 
-The Discipline and Arbitrage Committee shall be composed of three members selected by the Bureau and approved by the General Assembly for a two year mandate. The Discipline and Arbitrage Committee shall be competent for any disciplinary issue not falling within the scope of the explicit rights of the General Assembly, for any dispute between two member organisations, for any dispute between the Bureau and a member of IFLRY, and for a dispute between participants of an official IFLRY event.
+The Committee of Discipline and Arbitrage shall be composed of three members selected by the Bureau and approved by the General Assembly for a two year mandate. The Committee of Discipline and Arbitrage shall be competent for any disciplinary issue not falling within the scope of the explicit rights of the General Assembly, for any dispute between two member organisations, for any dispute between the Bureau and a member of IFLRY, and for a dispute between participants of an official IFLRY event.
 
 # Administration
 

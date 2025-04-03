@@ -127,14 +127,14 @@ Vice Presidents are responsible but not limited to the following responsibilitie
 (f) IFLRY community management;
 (g) Managing internal and external privacy policies;
 
-Newly elected Bureau members need to communicate their areas of responsibility to the IFLRY Member Organisations after the first Bureau meeting of their terms in office. Points a to g give a general overview of what the VP responsibilities could entail. The general aim is to give each Vice President a clear portfolio.
+Newly elected Bureau members need to communicate their areas of responsibility to the IFLRY Member Organisations after the first Bureau meeting of their terms in office. Points a to g give a general overview of what the Vice President responsibilities could entail. The general aim is to give each Vice President a clear portfolio.
 
 8 weeks before every Bureau election, the Bureau will send an official proposal for the Vice President portfolios for next term. The official Vice President portfolio will be finalised during the first Bureau meeting.
 
 ## Term {#bureau-term}
 The President, the Secretary General and Treasurer are elected for the period of two years until the next General Assembly. The four Vice Presidents are elected for the period of one year until the next General Assembly. Notwithstanding the right of the General Assembly to put the Bureau on question and to force Bureau Members to resign.
 
-Elections shall be held at the first General Assembly of the calendar year corresponding with the end of the Bureau members' term. Notice of elections shall be given concurrently with notice of the GA.
+Elections shall be held at the first General Assembly of the calendar year corresponding with the end of the Bureau members' term. Notice of elections shall be given concurrently with notice of the General Assembly.
 
 In case of a resignation of a Bureau member, the Bureau has the power to appoint a replacement in a non-voting capacity until the next General Assembly, provided there is no meeting of the General Assembly in the following 30 days.
 
@@ -167,7 +167,7 @@ If a Bureau member fails to attend more than three Bureau Meetings in a row, wit
 
 Moreover, the Bureau can also call a vote to suspend a Bureau member if that member has become a serious liability to IFLRY's reputation, is suspected of some serious misconduct, or is suspected of fraudulent behaviour. Such a vote has to be called for by at least three Bureau members, and announced to the Bureau and MOs at least two weeks before the Bureau vote for suspension. The announcement has to include the grounds on which the three Bureau members believe this paragraph to be applicable. For this vote the member who is proposed to be suspended has no vote, and the vote is carried if and only if no present Bureau member votes against it, and a majority of Bureau votes cast being in favour (counting present abstentions as votes cast).
 
-A suspension removes a Bureau member from his or her position up to and including the next GA, unless a simple majority of the Bureau vote to remove the suspension. In a case where the suspension still stands, there will be a vote of no confidence against the suspended member organised as per the Rules of Procedure at the next General Assembly. If the motion of no-confidence fails the member is reinstated. If a motion of no-confidence is carried, elections are organised as per the Rules of Procedure.
+A suspension removes a Bureau member from his or her position up to and including the next General Assembly, unless a simple majority of the Bureau vote to remove the suspension. In a case where the suspension still stands, there will be a vote of no confidence against the suspended member organised as per the Rules of Procedure at the next General Assembly. If the motion of no-confidence fails the member is reinstated. If a motion of no-confidence is carried, elections are organised as per the Rules of Procedure.
 
 If a Bureau member is suspended, the subsequent vacant position can be filled by the remaining Bureau, under the same regulations as that for resigning Bureau members under the Rules of Procedure.
 
@@ -220,7 +220,7 @@ If an AC member fails to attend more than three AC meetings in a row, without ex
 
 Moreover, the AC can also call a vote to suspend an AC member if that member has become a serious liability to IFLRY's reputation, is suspected of some serious misconduct, or is suspected of fraudulent behaviour. Such a vote can be called for by any AC member and has to be announced to the Bureau and MOs at least two weeks before the AC vote for suspension. The announcement has to include the grounds on which the AC member(s) believe this paragraph to be applicable. For this vote, the member who is proposed to be suspended has no vote, and the vote is carried if and only if no present AC member votes against it, and a majority of AC members' votes cast being in favour (counting present abstentions as votes cast).
 
-A suspension removes an AC member from their position up to and including the next GA. In a case where the suspension still stands, there will be a vote of no confidence against the suspended member organised as per the Rules of Procedure at the next General Assembly. If the motion of no-confidence fails the member is reinstated. If a motion of no-confidence is carried out, a replacement will be appointed by the GA as per the Rules of Procedure.
+A suspension removes an AC member from their position up to and including the next General Assembly. In a case where the suspension still stands, there will be a vote of no confidence against the suspended member organised as per the Rules of Procedure at the next General Assembly. If the motion of no-confidence fails the member is reinstated. If a motion of no-confidence is carried out, a replacement will be appointed by the General Assembly as per the Rules of Procedure.
 
 # Auditors {#auditors}
 It is the responsibility of the auditors to make their annual report available once a year to the member organisations two weeks before the General Assembly takes place.
@@ -245,7 +245,7 @@ Vacancies shall be filled through co-option by the Advisory Council in conjuncti
 
 ## Jurisdiction 
 
-In order to legitimately deliberate a case, the Discipline and Arbitrage Committee must be called upon by the Bureau, by a full or associate member organisation, by a participant of an official IFLRY event, or by the Ombudsperson.
+In order to legitimately deliberate a case, the Committee of Discipline and Arbitrage must be called upon by the Bureau, by a full or associate member organisation, by a participant of an official IFLRY event, or by the Ombudsperson.
 
 The committee shall base its decisions based on the guidelines for behaviour outlined in the [Code of Conduct](#code-of-conduct), however it ultimately has discretion to use its own best judgement on issues that the Code of Conduct does not comprehensively cover.
 
@@ -259,7 +259,7 @@ The committee reserves the right to make binding decisions regarding any individ
 
 The chairperson of the committee shall be elected by its members. The committee will decide its own rules of procedure. The committee shall present their rules of procedure to the General Assembly for approval.
 
-In the event of a committee member(s) violating the [Code of Conduct](#code-of-conduct) themselves, it is the duty of the Ombudsperson to investigate this issue. If necessary the Ombudsperson may propose to the Bureau and Advisory Council that the committee member be suspended. This suspension must be passed by a two-thirds majority on both bodies. A suspension removes a committee member from their position up to and including the next GA.
+In the event of a committee member violating the [Code of Conduct](#code-of-conduct) themselves, it is the duty of the Ombudsperson to investigate this issue. If necessary the Ombudsperson may propose to the Bureau and Advisory Council that the committee member be suspended. This suspension must be passed by a two-thirds majority on both bodies. A suspension removes a committee member from their position up to and including the next General Assembly.
 
 ## Additional Rights
 
@@ -377,4 +377,4 @@ The association is committed to protecting personal data in line with applicable
 
 ## Data Protection Officer
 
-The Bureau will appoint a Data Protection Officer (DPO) to oversee data protection practices. The DPO will ensure data is handled securely, especially for sensitive information like visa applications. The data protection officer will be responsible for overseeing the internal and external privacy policies and will write a yearly report on their activities and findings to the General Assembly.
+The Bureau will appoint a Data Protection Officer (DPO) to oversee data protection practices. The DPO will ensure data is handled securely, especially for sensitive information like visa applications. The DPO will be responsible for overseeing the internal and external privacy policies and will write a yearly report on their activities and findings to the General Assembly.
