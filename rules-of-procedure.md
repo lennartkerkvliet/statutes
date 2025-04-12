@@ -11,7 +11,7 @@ The Bureau must announce the date, time and location within at least three month
 
 ## Format
 
-The General Assembly may be held either in-person or online. The General Assembly is expected to meet in-person unless otherwise specified in the Internal Regulations. In the case of an Extraordinary General Assembly, the Bureau shall determine the format.
+The General Assembly may be held either in-person or online. The General Assembly is expected to meet in-person at least once a year, unless otherwise specified in the Internal Regulations. In the case of an Extraordinary General Assembly, the Bureau shall determine the format. The GA is expected to meet every half-year period each financial year.
 
 When a General Assembly is held in person, online participation should be facilitated to the extent possible.
 
