@@ -134,7 +134,7 @@ Newly elected Bureau members need to communicate their areas of responsibility t
 ## Term {#bureau-term}
 The President, the Secretary General and Treasurer are elected for the period of two years until the next General Assembly. The four Vice Presidents are elected for the period of one year until the next General Assembly. Notwithstanding the right of the General Assembly to put the Bureau on question and to force Bureau Members to resign.
 
-Elections shall be held at the first General Assembly of the calendar year corresponding with the end of the Bureau members' term. Notice of elections shall be given concurrently with notice of the General Assembly.
+Elections shall be held at the first General Assembly of the financial year corresponding with the end of the Bureau members' term. Notice of elections shall be given concurrently with notice of the General Assembly.
 
 In case of a resignation of a Bureau member, the Bureau has the power to appoint a replacement in a non-voting capacity until the next General Assembly, provided there is no meeting of the General Assembly in the following 30 days.
 
@@ -155,7 +155,7 @@ The Bureau is required to submit a written report to the member organisations on
 
 ### Financial Report {#bureau-financial-report}
 
-The Treasurer is required to submit an annual financial report to a General Assembly, and interim financial reports for every other General Assembly.
+The Treasurer is required to submit an annual financial report to a General Assembly at the first GA in the second half of the financial year, and interim financial reports for every other General Assembly.
 
 The financial reports must include a list of organisations in good standing with the Federation, and the date on which every member organisation in good standing fulfilled an annual membership fee obligation used to determine good standing. The financial report must also include the current balance of all bank accounts.
 
