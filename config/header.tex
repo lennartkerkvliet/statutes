@@ -4,12 +4,21 @@
 % Lists
 \usepackage{enumitem}
 
+% Title settings
+\usepackage{titlesec}
+
+\let\titleoriginal\title           % save original \title macro
+\renewcommand{\title}[1]{          % substitute for a new \title
+    \titleoriginal{#1}%               % define the real title
+    \newcommand{\headertitle}{#1}        % define \thetitle
+}
+
 % Page layout settings
 \usepackage[a4paper, margin=1in, top=1.2in, bottom=1.2in]{geometry}
 \usepackage{fancyhdr}
 \pagestyle{fancy}
 \fancyhf{}
-\fancyhead[L]{\textit{Statutes of the International Federation of Liberal Youth}} % Custom header text
+\fancyhead[L]{\textit{\headertitle}} % Custom header text
 \fancyhead[R]{\thepage} % Page number on the top right
 \renewcommand{\headrulewidth}{0.4pt} % Line under the header
 \renewcommand{\footrulewidth}{0.4pt} % Line above the footer
@@ -20,7 +29,6 @@
 \setlength{\parindent}{0em} % No paragraph indentation
 
 % Section and subsection formatting
-\usepackage{titlesec}
 \renewcommand{\thesection}{\arabic{section}}
 \renewcommand{\thesubsection}{\arabic{section}.\arabic{subsection}}
 \renewcommand{\thesubsubsection}{\arabic{section}.\arabic{subsection}.\arabic{subsubsection}}

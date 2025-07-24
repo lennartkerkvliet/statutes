@@ -1,6 +1,6 @@
 ---
 title: Statutes of the International Federation of Liberal Youth
-date: Draft version as proposed by the Statutes working group. Up to date as of 12th March 2025.
+date: As adopted by the 55th General Assembly held in Sarajevo, Bosnia and Herzegovina, 1st-4th May 2025.
 ---
 
 # General
@@ -15,7 +15,7 @@ The registered office of the association is located in the Brussels-Capital Regi
 IFLRY is a federation of youth organisations and young individuals with the collective aim of promoting freedom and advocating for political liberalism around the globe. IFLRY commits itself to the active advancement of human rights, democracy, stable property rights, rule of law, and free trade. IFLRY provides political education and acts as a platform for networking and exchanging ideas. These aims shall be advanced through publications, seminars, policy recommendations, exchanges, symposia, courses, and statutory events. IFLRY further strives to facilitate democratic inclusion, local and international activism, and cooperation between its member organisations.
 
 ## Language 
-The official languages of the organisation are French, Spanish and English. The working language of the association is English and is used for all official documents apart from the statutes, for which the French version is binding as required by Belgian law. 
+The official languages of the organisation are French, Spanish and English. The working language of the association is English and is used for all official documents apart from the Statutes, for which the French version is binding as required by Belgian law. 
 
 ## Documents {#docs}
 The statutory governing documents of the association are, in order of precedence: 
@@ -24,10 +24,7 @@ The statutory governing documents of the association are, in order of precedence
 * **Rules of Procedure**, 
 * **Internal Regulations**. 
 
-The Statutes provide a broad overview of the structure and purpose of the association. The Rules of Procedure set out the organisational procedures including meetings, voting and decision making processes of the association. The Internal Regulations govern the behaviours, rights and responsibilities of members.
-
-<!-- NOTE : How do we include this -->
-<!-- **Membership Fee Statute** -->
+The Statutes provide a broad overview of the structure and purpose of the association. The Rules of Procedure set out the organisational procedures including meetings, voting and decision making processes of the association. The Internal Regulations govern the behaviours, rights and responsibilities of members. Where the statutory documents cannot be applied, the General Assembly decides.
 
 # Affiliations 
 
@@ -38,7 +35,7 @@ IFLRY is a full member of the Liberal International and holds a special status a
 
 IFLRY operates on a federal structure and is primarily composed of member organisations. The highest decision-making body of the association is the **General Assembly** (see [article](#ga)), comprising representatives from its members. The General Assembly is responsible for setting the overall direction of the association and adopting key decisions.
 
-Daily management and external representation are handled by an elected executive **Bureau** (see [article](#bureau)), which operates in accordance with the statutes and decisions of the General Assembly. The work of the Bureau is overseen by an **Advisory Council** (see [article](#ac)), which provides guidance and ensures that the Bureau adheres to the policies and strategic direction set by the General Assembly.
+Daily management and external representation are handled by an elected executive **Bureau** (see [article](#bureau)), which operates in accordance with the Statutes and decisions of the General Assembly. The work of the Bureau is overseen by an **Advisory Council** (see [article](#ac)), which provides guidance and ensures that the Bureau adheres to the policies and strategic direction set by the General Assembly.
 
 The General Assembly, Bureau, and Advisory Council are the three statutory bodies that collectively govern the association in compliance with Belgian law. The association may employ staff, collectively referred to as the **Office**, to handle administrative and operational tasks (see [article](#office)). The Office operates under the direction of the Bureau.
 
@@ -51,9 +48,9 @@ IFLRY has the following voting methods:
 * **simple two-thirds majority:** requires a greater number of votes in favour than twice the number against;
 * **absolute two-thirds majority:** requires a greater number of votes in favour than twice the combined number of votes abstaining and against. 
 
-Unless specified otherwise, all decisions made by the bodies defined in these statutes shall be made by simple majority.
+Unless specified otherwise, all decisions made by the bodies defined in these Statutes shall be made by simple majority.
 
-Abstaining from voting is always allowed. Both actively abstaining, where the abstention is specifically communicated, as well as passive abstensions, where a voting member of a body is counted as present but refrains from voting, are treated identically.
+Abstaining from voting is always allowed. Both actively abstaining, where the abstention is specifically communicated, as well as passive abstentions, where a voting member of a body is counted as present but refrains from voting, are treated identically.
 
 # Membership
 
@@ -73,17 +70,14 @@ The Individual Members Group (IMG) is a distinct entity which collectively holds
 
 Full membership can be granted by an absolute two-thirds majority of Full Members present at the General Assembly. Regional membership can be granted by an absolute two-thirds majority vote of the General Assembly. Associate membership can be granted by an absolute majority vote of the General Assembly. Observer membership can be granted by a simple majority vote of the General Assembly. 
 
-<!-- ## TODO: add Voting Rights of Members -->
-
 ## Membership Obligations {#mem-obligations} 
 All members commit themselves to fulfilling both of the following membership obligations:
 
 (a) to adhere to the financial obligations as stated in the Membership Fee Statute. Organisations and individual members which have fulfilled these obligations are considered in good financial standing;
 (b) to uphold the values as stated in the Manifesto.
-<!-- GET RID OF: (c) to support the work being done by the statutory bodies of the Federation. -->
 
 ## Membership Suspension, Termination and Modification 
-Member organisations can be temporarily suspended, or have their membership terminated, for breaches of membership obligations as described in [article](#mem-obligations) or other severe reasons. The voting procedure used for suspending or expelling an organisation is the same as would be used for admiting any other organisation of an equivalent membership type.
+Member organisations and individual members can be temporarily suspended, or have their membership terminated, for breaches of membership obligations as described in [article](#mem-obligations) or other severe reasons. The voting procedure used for suspending or expelling an organisation is the same as would be used for admitting any other organisation of an equivalent membership type.
 
 # Statutory Bodies
 
@@ -108,12 +102,12 @@ An Extraordinary General Assembly can be called by a simple majority by the Bure
 ## The Bureau {#bureau}
 
 ### General
-The IFLRY Bureau consists of seven Bureau members elected by a General Assembly. The **Managing Bureau** consists of three Bureau members: **President**, **Secretary General**, and **Treasurer** who shall serve as the Board of Directors (Organe d’Administration) under Belgian Law. The **Extended Bureau** consists of up to four **Vice Presidents**. The Managing Bureau will be elected for a period of two years; the Vice Presidents will be elected for a period of one year. The election and responsibilities of the Bureau are described further in the Rules of Procedure.
+The IFLRY Bureau consists of up to seven Bureau members elected by a General Assembly. The **Managing Bureau** consists of three Bureau members: **President**, **Secretary General**, and **Treasurer** who shall serve as the Board of Directors (Organe d’Administration) under Belgian Law. The **Extended Bureau** consists of up to four **Vice Presidents**. The Managing Bureau will be elected for a period of two years; the Vice Presidents will be elected for a period of one year. The election and responsibilities of the Bureau are described further in the Rules of Procedure.
 
-The Bureau is responsible for the day-to-day management of the Federation and for the control of all its resources. The Bureau has to report to the General Assembly. Regional Member Organizations can appoint Regional Bureau Appointees. Regional Bureau Appointees do not have voting rights in the Bureau.
+The Bureau is responsible for the day-to-day management of the Federation and for the control of all its resources. The Bureau has to report to the General Assembly. Regional Member Organisations can appoint Regional Bureau Appointees. Regional Bureau Appointees do not have voting rights in the Bureau.
 
 ### Suspension and Resignation 
-Individual Bureau Members can be suspended from their Bureau. They can also be forced to resign by the General Assembly. The details of this process are explained in the Rules of Procedures.
+Individual Bureau Members can be suspended from their Bureau. They can also be forced to resign by the General Assembly. The details of this process are explained in the Rules of Procedure.
 
 ### Legal Status
 The association shall be represented towards third parties and in legal matters by at least two members of the Managing Bureau acting jointly, unless otherwise specified by the Statutes or Belgian law.
@@ -128,9 +122,9 @@ There shall be two auditors, who shall be elected at a General Assembly for a pe
 # Ombudsperson
 The ombudsperson shall monitor any cases of disagreement or conflict, ill-treatment, or abuse of power and authority within any part of the Federation. The role of the Ombudsperson is bound by strict rules of confidentiality and shall be executed with full integrity, impartiality, and with respect to due process, dignity, and liberal values.
 
-# Committee of Discipline and Arbitrage
+# Committee of Discipline and Arbitration
 
-The Discipline and Arbitrage Committee shall be composed of three members selected by the Bureau and approved by the General Assembly for a two year mandate. The Discipline and Arbitrage Committee shall be competent for any disciplinary issue not falling within the scope of the explicit rights of the General Assembly, for any dispute between two member organisations, for any dispute between the Bureau and a member of IFLRY, and for a dispute between participants of an official IFLRY events.
+The Committee of Discipline and Arbitration shall be composed of three members selected by the Bureau and approved by the General Assembly for a two year mandate. The Committee of Discipline and Arbitration shall be competent for any disciplinary issue not falling within the scope of the explicit rights of the General Assembly, for any dispute between two member organisations, for any dispute between the Bureau and a member of IFLRY, and for a dispute between participants of an official IFLRY events.
 
 # Administration
 
@@ -148,7 +142,7 @@ Every proposal that aims to dissolve the Federation must be put forward by the B
 
 The General Assembly will determine in which manner the Federation is dissolved and in which manner the dissolution is settled. 
 
-In case of dissolution, any remaining net assets of the AISBL shall be allocated to one or more non-profit organizations with similar purposes, as determined by the General Assembly. Under no circumstances may the assets be returned to members or used for their benefit.
+In case of dissolution, any remaining net assets of the AISBL shall be allocated to one or more non-profit organisations with similar purposes, as determined by the General Assembly. Under no circumstances may the assets be returned to members or used for their benefit.
 
 
 
