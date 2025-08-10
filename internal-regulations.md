@@ -265,7 +265,7 @@ The Ombudsperson shall be nominated by the Committee of Discipline and Arbitrati
 
 The Committee of Discipline and Arbitration shall be composed of 3 members, serving terms of two years.
 
-# Vacancies 
+## Vacancies 
 
 Vacancies shall be filled through co-option by the Advisory Council in conjunction with the Ombudsperson, the individual can then be confirmed as a full member of the committee through a vote at the next General Assembly. The individual may also choose not to seek membership of the committee, and other candidates may run. After the election, the successful candidate shall serve the remainder of the committee’s mandate.
 
@@ -279,7 +279,7 @@ The committee shall base its decisions based on the guidelines for behaviour out
 
 The committee may impose sanctions other than expulsion at its own initiative on members of member organisations or on a participant of an official IFLRY event, and may arbitrate any conflict submitted to its competence provided that the two parties concerned agree on the arbitration procedure proposed by the committee. The committee reserves the right to make binding decisions regarding any individual involved with IFLRY, however they are unable to expel a member of the Bureau, instead only reserving the right to suspend them as well as being able to table a motion of no confidence at the next General Assembly. This suspension cannot be overruled by the Bureau.
 
-# Internal Procedure
+## Internal Procedure
 
 The chairperson of the committee shall be elected by its members. The committee will decide its own rules of procedure. The committee shall present their rules of procedure to the General Assembly for approval. In the event of a committee member violating the Code of Conduct themselves, it is the duty of the Ombudsperson to investigate this issue. If necessary the Ombudsperson may propose to the Bureau and Advisory Council that the committee member be suspended.
 
@@ -294,6 +294,7 @@ The committee shall possess the right to propose changes to the statutes and Cod
 The Office shall submit a written report to the member organisations on its activities two weeks before the start of the General Assembly. This report will reflect the work carried out by the Office, including the Executive Director and other staff and will be presented at the General Assembly. The Executive Director has the right to attend Bureau meetings, but does not have voting rights.
 
 # Individual Members Group 
+
 Members of the Individual Members Group shall be considered individual members of IFLRY, and shall have the rights thereof at the General Assembly.
 
 The election of the Individual Members Group Chair shall be done on the basis of one person, one vote, and shall require a majority of 50% of the votes. Otherwise, additional rounds of voting will be held, with the lowest performing candidate eliminated in each round, until a majority is achieved.
