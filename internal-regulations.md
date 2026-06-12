@@ -18,15 +18,43 @@ If a member organisation changes its name, or has merged with another organisati
 
 ## Admissions
 
-All membership applications must be received by the IFLRY office at least two weeks prior to the start of the General Assembly at which the applicant organisation wishes their application to be considered. The IFLRY Office will make sure that all submitted documents will be available to the members at least one week before the start of the General Assembly.
+All membership applications must be received by the IFLRY office at least two weeks prior to the start of the General Assembly at which the applicant organisation wishes their application to be considered. The Office will make sure that all submitted documents will be available to the members at least one week before the start of the General Assembly. 
 
 All changes to the membership will be added to a Membership Register, which is under the responsibility of the Bureau.
 
 Observer status is valid for two years and needs to be renewed every two years. It will automatically be renewed if the organisation is in good standing, otherwise it should be renewed by the General Assembly.
 
-### Individual Membership Vetting Committee
+### Full membership {#full-membership-admission}
 
-Admission to the Individual Members Group shall be determined by an Individual Membership Vetting Committee, consisting of two or more committee members selected by the Bureau and serving at the pleasure thereof.
+The application for full membership must include the following information:
+
+(a) A completed membership application form (provided by the Bureau) containing general information required for the Membership Register;
+(b) Copies of its Statutes/ Constitution, and copies of its Policy Programme/ Ideological standpoint in at least one of IFLRY's official languages and in its original form if that is not in one of IFLRY's official languages;
+(c) Information of its activities and campaigns, which have taken place during the year prior to the application and anything so far planned for the future;
+(d) Information of its sources of finance, for instance, if it receives state funding, party funds, and membership fees. It must also provide information about its financial turnover and its budget;
+(e) Details of its membership figures and also how it defines membership;
+(f) It must state whether it is directly or indirectly linked to or dependent on any other organisation, party, or foundation and what form that link takes.
+
+### Associate membership {#associate-membership-admission}
+
+The application for associate membership must include all points of [article](#full-membership-admission).
+
+### Observer membership {#observer-membership-admission}
+
+The application for observer membership must include points a and b of [article](#full-membership-admission).
+
+### Regional membership {#regional-membership-admission}
+
+The application for regional membership must include all points of [article](#full-membership-admission).
+
+### Individual membership {#individual-membership-admission}
+
+Admission to the Individual Members Group shall be determined by an Individual Membership Vetting Committee, consisting of two or more committee members selected by the Bureau and serving at the pleasure thereof. The application for individual membership must include the following information:
+
+(a) a motivational letter, including a discussion of the individual's ideological and political views;
+(b) refer to at least one contact within IFLRY with whom they have worked;
+(c) details of their activities and campaigns which have taken place prior to the application;
+(d) state whether they are directly or indirectly linked to or dependent on any other organisation, party, or foundation, and what form that link takes.
 
 ## Qualifying criteria
 
@@ -38,21 +66,24 @@ To qualify for full membership, an organisation must:
 (c) It must be run by and for young people;
 (d) It must be democratically organised;
 (e) It must be in agreement with the aims of IFLRY;
-(f) It must have been previously an associate member organisation of IFLRY.
+(f) It must have attended at least one IFLRY event prior to making the application; for purpose of defining such an event, a seminar linked to a General Assembly is to be considered the same event; therefore, the application cannot be made at that General Assembly; 
+(g) At least one event or activity organised by the applicant organisation must have been visited by a Bureau member or an appointee of the Bureau prior to their application being discussed;
+(h) It must have been previously an associate member organisation of IFLRY and be in good standing;
+(i) It must have been represented at a minimum of one General Assembly, which must be additional to those meetings where the Associate Membership application was accepted.
 
 ### Associate membership
-To qualify for associate membership, an organisation must comply with points a through e of [article](#full-membership).
+To qualify for associate membership, an organisation must comply with points a through g of [article](#full-membership).
 
 ### Observer membership
-To qualify for observer membership, an organisation must comply with points a, b, d, and e of [article](#full-membership), and:
+To qualify for observer membership, an organisation must comply with points a, b, d, e and f of [article](#full-membership), and:
 
-(g) Be run for young people.
+(p) Be run for young people.
 
 ### Regional membership
 To qualify for regional membership, an organisation must comply with all points of [article](#full-membership).
 
 ### Individual Membership
-Everyone, aged between 18 and 35 years, who broadly agrees with the Manifesto and agrees with the aims of IFLRY, can become part of the Individual Members Group of IFLRY.
+Everyone, aged between 18 and 35 years, who broadly agrees with the Manifesto and agrees with the aims of IFLRY, can become part of the Individual Members Group of IFLRY. An individual member cannot be directly or indirectly linked to or dependent on any IFLRY Full or Associate Member Organisation;
 
 ## Suspension
 
@@ -146,12 +177,12 @@ Every newly elected Bureau shall draft an Action Plan for the whole mandate with
 
 ### Annual and Interim Report {#bureau-annual-interim-report}
 
-The Bureau will have to submit for adoption once a year an Annual Report at least four weeks before the start of the General Assembly. The Annual Report outlines the achievements of the organisation in relation to the objectives laid down in the Action Plan. The Annual Report will be presented by the President.
+The Bureau will have to submit for adoption once a year an Annual Report to the General Assembly. The Annual Report outlines the achievements of the organisation in relation to the objectives laid down in the Action Plan. The Annual Report will be presented by the President.
 
 If there is more than one statutory meeting every year, the Bureau will present an interim report to show what the current status of the realisation of the Action Plan is.
 
-### Bureau Reports {#bureau-reports}
-The Bureau is required to submit a written report to the member organisations on its activities four weeks before the start of the General Assembly. This report will reflect the work carried out by each individual Bureau member and will be presented at the General Assembly.
+### Bureau Report {#bureau-report}
+The Bureau is required to submit a written report to the member organisations to the General Assembly. This report will reflect the work carried out by each individual Bureau member and the Bureau as a whole, and will be presented at the General Assembly.
 
 ### Financial Report {#bureau-financial-report}
 
